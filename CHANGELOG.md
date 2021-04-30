@@ -11,3 +11,6 @@ This is an alpha version! The changes listed here are not final.
 
 ### Added
 - Initial wire frame for the Jetpack Backup plugin.
+
+### Changed
+- Updated package dependencies.
