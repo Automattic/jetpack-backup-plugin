@@ -17,3 +17,4 @@ This is an alpha version! The changes listed here are not final.
 - updated composer.lock
 - Updated package dependencies.
 - Updated requirements.
+- Update RNA Connection usage based on Automattic/jetpack/pull/19837
