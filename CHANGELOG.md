@@ -19,6 +19,7 @@ This is an alpha version! The changes listed here are not final.
 - Updated package dependencies.
 - Updated requirements.
 - Update RNA Connection usage based on Automattic/jetpack/pull/19837
+- Utilize the config package for sync and connection.
 
 ### Fixed
 - Use `absoluteRuntime` in babel JS build to avoid module not found errors.
