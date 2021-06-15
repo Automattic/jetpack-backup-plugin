@@ -19,7 +19,15 @@
 			"src/"
 		]
 	},
-	"repositories": [],
+	"repositories": [
+		{
+			"type": "path",
+			"url": "../*",
+			"options": {
+				"monorepo": true
+			}
+		}
+	],
 	"scripts": {
 		"phpunit": [
 			"@composer update",

@@ -15,7 +15,15 @@
 			"src/"
 		]
 	},
-	"repositories": [],
+	"repositories": [
+		{
+			"type": "path",
+			"url": "../*",
+			"options": {
+				"monorepo": true
+			}
+		}
+	],
 	"minimum-stability": "dev",
 	"prefer-stable": true,
 	"extra": {

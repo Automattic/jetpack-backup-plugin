@@ -7,7 +7,7 @@ $baseDir   = dirname($vendorDir);
 
 return array(
 	'bce4ecd6aabb2a2948e06d0e2c4ea9a6' => array(
-		'version' => '1.28.9999999.9999999-dev',
+		'version' => '1.28.0.0',
 		'path'    => $vendorDir . '/automattic/jetpack-connection/legacy/load-ixr.php'
 	),
 );
