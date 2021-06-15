@@ -14,6 +14,7 @@ This is an alpha version! The changes listed here are not final.
 - Initial wire frame for the Jetpack Backup plugin.
 
 ### Changed
+- Changes associated with plugin release process.
 - updated composer.lock
 - Updated package dependencies
 - Updated package dependencies.
