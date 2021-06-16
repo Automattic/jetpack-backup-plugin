@@ -4,7 +4,7 @@
 
 namespace Composer\Autoload;
 
-class ComposerStaticInit9559eef123208b7d1b9c15b978567267_backupⓥ0_1_0_beta
+class ComposerStaticInit9559eef123208b7d1b9c15b978567267_backupⓥ0_1_1_alpha
 {
     public static $files = array (
         'bce4ecd6aabb2a2948e06d0e2c4ea9a6' => __DIR__ . '/..' . '/automattic/jetpack-connection/legacy/load-ixr.php',
@@ -96,6 +96,8 @@ class ComposerStaticInit9559eef123208b7d1b9c15b978567267_backupⓥ0_1_0_beta
         'Automattic\\Jetpack\\Sync\\Modules\\WooCommerce' => __DIR__ . '/..' . '/automattic/jetpack-sync/src/modules/class-woocommerce.php',
         'Automattic\\Jetpack\\Sync\\Queue' => __DIR__ . '/..' . '/automattic/jetpack-sync/src/class-queue.php',
         'Automattic\\Jetpack\\Sync\\Queue_Buffer' => __DIR__ . '/..' . '/automattic/jetpack-sync/src/class-queue-buffer.php',
+        'Automattic\\Jetpack\\Sync\\REST_Endpoints' => __DIR__ . '/..' . '/automattic/jetpack-sync/src/class-rest-endpoints.php',
+        'Automattic\\Jetpack\\Sync\\REST_Sender' => __DIR__ . '/..' . '/automattic/jetpack-sync/src/class-rest-sender.php',
         'Automattic\\Jetpack\\Sync\\Replicastore' => __DIR__ . '/..' . '/automattic/jetpack-sync/src/class-replicastore.php',
         'Automattic\\Jetpack\\Sync\\Replicastore\\Table_Checksum' => __DIR__ . '/..' . '/automattic/jetpack-sync/src/replicastore/class-table-checksum.php',
         'Automattic\\Jetpack\\Sync\\Replicastore_Interface' => __DIR__ . '/..' . '/automattic/jetpack-sync/src/interface-replicastore.php',
@@ -122,9 +124,9 @@ class ComposerStaticInit9559eef123208b7d1b9c15b978567267_backupⓥ0_1_0_beta
     public static function getInitializer(ClassLoader $loader)
     {
         return \Closure::bind(function () use ($loader) {
-            $loader->prefixLengthsPsr4 = ComposerStaticInit9559eef123208b7d1b9c15b978567267_backupⓥ0_1_0_beta::$prefixLengthsPsr4;
-            $loader->prefixDirsPsr4 = ComposerStaticInit9559eef123208b7d1b9c15b978567267_backupⓥ0_1_0_beta::$prefixDirsPsr4;
-            $loader->classMap = ComposerStaticInit9559eef123208b7d1b9c15b978567267_backupⓥ0_1_0_beta::$classMap;
+            $loader->prefixLengthsPsr4 = ComposerStaticInit9559eef123208b7d1b9c15b978567267_backupⓥ0_1_1_alpha::$prefixLengthsPsr4;
+            $loader->prefixDirsPsr4 = ComposerStaticInit9559eef123208b7d1b9c15b978567267_backupⓥ0_1_1_alpha::$prefixDirsPsr4;
+            $loader->classMap = ComposerStaticInit9559eef123208b7d1b9c15b978567267_backupⓥ0_1_1_alpha::$classMap;
 
         }, null, ClassLoader::class);
     }
