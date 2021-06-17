@@ -219,11 +219,11 @@ return array(
 		'path'    => $vendorDir . '/automattic/jetpack-sync/src/class-main.php'
 	),
 	'Automattic\\Jetpack\\ConnectionUI\\Admin' => array(
-		'version' => '1.1.9999999.9999999-dev',
+		'version' => '1.2.9999999.9999999-dev',
 		'path'    => $vendorDir . '/automattic/jetpack-connection-ui/src/class-admin.php'
 	),
 	'Automattic\\Jetpack\\ConnectionUI\\Initial_State' => array(
-		'version' => '1.1.9999999.9999999-dev',
+		'version' => '1.2.9999999.9999999-dev',
 		'path'    => $vendorDir . '/automattic/jetpack-connection-ui/src/class-initial-state.php'
 	),
 	'Automattic\\Jetpack\\Config' => array(
