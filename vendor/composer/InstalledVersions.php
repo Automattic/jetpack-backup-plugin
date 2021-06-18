@@ -33,7 +33,7 @@ private static $installed = array (
     array (
     ),
     'reference' => NULL,
-    'name' => 'automattic/jetpack-backup',
+    'name' => 'automattic/jetpack-backup-plugin',
   ),
   'versions' => 
   array (
@@ -64,7 +64,7 @@ private static $installed = array (
       ),
       'reference' => '8bc55f931afece35e30d7d5d1f150d4810292e5d',
     ),
-    'automattic/jetpack-backup' => 
+    'automattic/jetpack-backup-plugin' => 
     array (
       'pretty_version' => 'dev-master',
       'version' => 'dev-master',
