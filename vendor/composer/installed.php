@@ -38,6 +38,15 @@
       ),
       'reference' => '8bc55f931afece35e30d7d5d1f150d4810292e5d',
     ),
+    'automattic/jetpack-backup' => 
+    array (
+      'pretty_version' => '1.1.x-dev',
+      'version' => '1.1.9999999.9999999-dev',
+      'aliases' => 
+      array (
+      ),
+      'reference' => 'b4855ed56a1c2d22df3047f875cf686ee516904a',
+    ),
     'automattic/jetpack-backup-plugin' => 
     array (
       'pretty_version' => 'dev-master',

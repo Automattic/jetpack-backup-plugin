@@ -172,6 +172,69 @@
             "install-path": "../automattic/jetpack-autoloader"
         },
         {
+            "name": "automattic/jetpack-backup",
+            "version": "1.1.x-dev",
+            "version_normalized": "1.1.9999999.9999999-dev",
+            "dist": {
+                "type": "path",
+                "url": "/tmp/jetpack-build/Automattic/jetpack-backup",
+                "reference": "b4855ed56a1c2d22df3047f875cf686ee516904a"
+            },
+            "require": {
+                "automattic/jetpack-connection": "^1.28"
+            },
+            "require-dev": {
+                "automattic/jetpack-changelogger": "^1.2",
+                "automattic/wordbless": "@dev",
+                "yoast/phpunit-polyfills": "0.2.0"
+            },
+            "type": "library",
+            "extra": {
+                "autotagger": true,
+                "mirror-repo": "Automattic/jetpack-backup",
+                "changelogger": {
+                    "link-template": "https://github.com/Automattic/jetpack-backup/compare/v${old}...v${new}"
+                },
+                "branch-alias": {
+                    "dev-master": "1.1.x-dev"
+                }
+            },
+            "installation-source": "dist",
+            "autoload": {
+                "files": [
+                    "actions.php"
+                ],
+                "classmap": [
+                    "src/"
+                ]
+            },
+            "scripts": {
+                "phpunit": [
+                    "@composer install",
+                    "./vendor/phpunit/phpunit/phpunit --colors=always"
+                ],
+                "test-coverage": [
+                    "@composer install",
+                    "phpdbg -d memory_limit=2048M -d max_execution_time=900 -qrr ./vendor/bin/phpunit --coverage-clover \"$COVERAGE_DIR/clover.xml\""
+                ],
+                "test-php": [
+                    "@composer phpunit"
+                ],
+                "post-update-cmd": [
+                    "php -r \"copy('vendor/automattic/wordbless/src/dbless-wpdb.php', 'wordpress/wp-content/db.php');\""
+                ]
+            },
+            "license": [
+                "GPL-2.0-or-later"
+            ],
+            "description": "Tools to assist with backing up Jetpack sites.",
+            "transport-options": {
+                "monorepo": true,
+                "relative": false
+            },
+            "install-path": "../automattic/jetpack-backup"
+        },
+        {
             "name": "automattic/jetpack-config",
             "version": "1.4.x-dev",
             "version_normalized": "1.4.9999999.9999999-dev",

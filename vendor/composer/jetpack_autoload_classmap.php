@@ -230,6 +230,14 @@ return array(
 		'version' => '1.4.9999999.9999999-dev',
 		'path'    => $vendorDir . '/automattic/jetpack-config/src/class-config.php'
 	),
+	'Automattic\\Jetpack\\Backup\\REST_Controller' => array(
+		'version' => '1.1.9999999.9999999-dev',
+		'path'    => $vendorDir . '/automattic/jetpack-backup/src/class-rest-controller.php'
+	),
+	'Automattic\\Jetpack\\Backup\\Helper_Script_Manager' => array(
+		'version' => '1.1.9999999.9999999-dev',
+		'path'    => $vendorDir . '/automattic/jetpack-backup/src/class-helper-script-manager.php'
+	),
 	'Automattic\\Jetpack\\Identity_Crisis' => array(
 		'version' => '0.1.9999999.9999999-dev',
 		'path'    => $vendorDir . '/automattic/jetpack-identity-crisis/src/class-identity-crisis.php'

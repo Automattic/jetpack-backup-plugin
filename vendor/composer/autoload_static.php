@@ -8,6 +8,7 @@ class ComposerStaticInit9559eef123208b7d1b9c15b978567267_backupⓥ0_2_0_alpha
 {
     public static $files = array (
         'bce4ecd6aabb2a2948e06d0e2c4ea9a6' => __DIR__ . '/..' . '/automattic/jetpack-connection/legacy/load-ixr.php',
+        'd4eb94df91a729802d18373ee8cdc79f' => __DIR__ . '/..' . '/automattic/jetpack-backup/actions.php',
     );
 
     public static $prefixLengthsPsr4 = array (
@@ -33,6 +34,8 @@ class ComposerStaticInit9559eef123208b7d1b9c15b978567267_backupⓥ0_2_0_alpha
         'Automattic\\Jetpack\\Autoloader\\AutoloadProcessor' => __DIR__ . '/..' . '/automattic/jetpack-autoloader/src/AutoloadProcessor.php',
         'Automattic\\Jetpack\\Autoloader\\CustomAutoloaderPlugin' => __DIR__ . '/..' . '/automattic/jetpack-autoloader/src/CustomAutoloaderPlugin.php',
         'Automattic\\Jetpack\\Autoloader\\ManifestGenerator' => __DIR__ . '/..' . '/automattic/jetpack-autoloader/src/ManifestGenerator.php',
+        'Automattic\\Jetpack\\Backup\\Helper_Script_Manager' => __DIR__ . '/..' . '/automattic/jetpack-backup/src/class-helper-script-manager.php',
+        'Automattic\\Jetpack\\Backup\\REST_Controller' => __DIR__ . '/..' . '/automattic/jetpack-backup/src/class-rest-controller.php',
         'Automattic\\Jetpack\\Config' => __DIR__ . '/..' . '/automattic/jetpack-config/src/class-config.php',
         'Automattic\\Jetpack\\ConnectionUI\\Admin' => __DIR__ . '/..' . '/automattic/jetpack-connection-ui/src/class-admin.php',
         'Automattic\\Jetpack\\ConnectionUI\\Initial_State' => __DIR__ . '/..' . '/automattic/jetpack-connection-ui/src/class-initial-state.php',
