@@ -14,6 +14,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Changed
 - Init 0.2.0-alpha cycle.
+- Update node version requirement to 14.16.1
 
 ## 0.1.0-beta - 2021-06-15
 ### Added
