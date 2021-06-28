@@ -39,6 +39,7 @@ return array(
     'Automattic\\Jetpack\\Device_Detection' => $vendorDir . '/automattic/jetpack-device-detection/src/class-device-detection.php',
     'Automattic\\Jetpack\\Device_Detection\\User_Agent_Info' => $vendorDir . '/automattic/jetpack-device-detection/src/class-user-agent-info.php',
     'Automattic\\Jetpack\\Heartbeat' => $vendorDir . '/automattic/jetpack-heartbeat/src/class-heartbeat.php',
+    'Automattic\\Jetpack\\IdentityCrisis\\REST_Endpoints' => $vendorDir . '/automattic/jetpack-identity-crisis/src/class-rest-endpoints.php',
     'Automattic\\Jetpack\\Identity_Crisis' => $vendorDir . '/automattic/jetpack-identity-crisis/src/class-identity-crisis.php',
     'Automattic\\Jetpack\\Password_Checker' => $vendorDir . '/automattic/jetpack-password-checker/src/class-password-checker.php',
     'Automattic\\Jetpack\\Redirect' => $vendorDir . '/automattic/jetpack-redirect/src/class-redirect.php',
