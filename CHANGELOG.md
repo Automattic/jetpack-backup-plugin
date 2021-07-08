@@ -11,6 +11,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Added
 - Add backup package dependency.
+- Added Backup UI, placeholders, and supporting end points.
 
 ### Changed
 - Init 0.2.0-alpha cycle.
