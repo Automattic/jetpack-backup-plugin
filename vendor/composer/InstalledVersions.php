@@ -44,7 +44,7 @@ private static $installed = array (
       'aliases' => 
       array (
       ),
-      'reference' => '5d13775f364d5a74c656add924c8dae5dba8e6b5',
+      'reference' => 'e8def4d8159fb694e69dba35c24afff3ccc0c20d',
     ),
     'automattic/jetpack-assets' => 
     array (
@@ -53,7 +53,7 @@ private static $installed = array (
       'aliases' => 
       array (
       ),
-      'reference' => '3e7b06e9d43685e54863afc5fe4e353396750f7a',
+      'reference' => '1cefb51be5bd1bc5075f16a4bd29f1b4a4b4a2fb',
     ),
     'automattic/jetpack-autoloader' => 
     array (
@@ -62,7 +62,7 @@ private static $installed = array (
       'aliases' => 
       array (
       ),
-      'reference' => '26282f6bdb8d116843065ca5d3257c01c6d5036b',
+      'reference' => 'b8554833266497ec73e090ca0587e0ef66d53981',
     ),
     'automattic/jetpack-backup' => 
     array (
@@ -71,7 +71,7 @@ private static $installed = array (
       'aliases' => 
       array (
       ),
-      'reference' => '9d6796ecc741f88f21922d5da94a75fe451897dc',
+      'reference' => 'b611f3ddf778e8e94aa497da9413887714e2ec43',
     ),
     'automattic/jetpack-backup-plugin' => 
     array (
@@ -89,7 +89,7 @@ private static $installed = array (
       'aliases' => 
       array (
       ),
-      'reference' => '0340b325921b23939d71ef65c2ffd5e2825198db',
+      'reference' => '4019cc98d23f8f50dee372cde3b63ed56b3c4e62',
     ),
     'automattic/jetpack-connection' => 
     array (
@@ -98,7 +98,7 @@ private static $installed = array (
       'aliases' => 
       array (
       ),
-      'reference' => 'e664f620242deff0d363b470e2aba7f89fa00fc9',
+      'reference' => 'bff5075a4c3143a8729e445e4cb91fec2b15c303',
     ),
     'automattic/jetpack-connection-ui' => 
     array (
@@ -107,7 +107,7 @@ private static $installed = array (
       'aliases' => 
       array (
       ),
-      'reference' => 'bf7ba6b0472f4fef2e2fdec130c8ac87e9ebffbf',
+      'reference' => '00ab4057bb92a9f4fda6af33f82c7f67ed899f68',
     ),
     'automattic/jetpack-constants' => 
     array (
@@ -116,7 +116,7 @@ private static $installed = array (
       'aliases' => 
       array (
       ),
-      'reference' => 'ca5b13e63c8a6bf451c8941e8545dae19f95e0f5',
+      'reference' => 'f60b8bfeecf1a6a2aa0fedc9ac178072f1c73a9a',
     ),
     'automattic/jetpack-device-detection' => 
     array (
@@ -125,7 +125,7 @@ private static $installed = array (
       'aliases' => 
       array (
       ),
-      'reference' => 'b41f686ad979249f3e13c265056190b4dd831843',
+      'reference' => '4cf4a7777420bc59a6e66dd86fb5acfee1ec7889',
     ),
     'automattic/jetpack-heartbeat' => 
     array (
@@ -134,7 +134,7 @@ private static $installed = array (
       'aliases' => 
       array (
       ),
-      'reference' => '4c48a7008d2819bfd5f5b11e6d678db308d984bb',
+      'reference' => 'd03c5a479c9a2f6576ce998e5741dab431b1a76e',
     ),
     'automattic/jetpack-identity-crisis' => 
     array (
@@ -143,7 +143,7 @@ private static $installed = array (
       'aliases' => 
       array (
       ),
-      'reference' => '864772b66079f662762801a548b50549403fa1e1',
+      'reference' => 'aa5f47eb8b792bac485f2b52fed35e7724116a71',
     ),
     'automattic/jetpack-logo' => 
     array (
@@ -152,7 +152,7 @@ private static $installed = array (
       'aliases' => 
       array (
       ),
-      'reference' => 'd79b4fa44f4bc7b67c6c92818ae4267238043087',
+      'reference' => '8ae2e69d4dfc20bbd35e466e9ecfa466deeacf07',
     ),
     'automattic/jetpack-options' => 
     array (
@@ -161,7 +161,7 @@ private static $installed = array (
       'aliases' => 
       array (
       ),
-      'reference' => '04ef29d49123515a1ad12ec48f9bffcbcfc01a64',
+      'reference' => 'd6530e67e6301d50741fab1b388b46b924c982c4',
     ),
     'automattic/jetpack-password-checker' => 
     array (
@@ -170,7 +170,7 @@ private static $installed = array (
       'aliases' => 
       array (
       ),
-      'reference' => '7fbf2b42bcb5f3e13eda5e1c771220b3812f4775',
+      'reference' => '72fe50bda341d06e8e5e644a20c945b3699a0c8e',
     ),
     'automattic/jetpack-redirect' => 
     array (
@@ -179,7 +179,7 @@ private static $installed = array (
       'aliases' => 
       array (
       ),
-      'reference' => '1e42c1b25b45520da213a83d3e78841f8d693957',
+      'reference' => 'b5dea321860366c8de0919c47ff6e926a711f662',
     ),
     'automattic/jetpack-roles' => 
     array (
@@ -188,7 +188,7 @@ private static $installed = array (
       'aliases' => 
       array (
       ),
-      'reference' => 'ec7d04c22e4b0a3f867a69c183687239a088c567',
+      'reference' => '0df6a3843cc4a6da9c83e2d3bf0a75995194d0ee',
     ),
     'automattic/jetpack-status' => 
     array (
@@ -197,16 +197,16 @@ private static $installed = array (
       'aliases' => 
       array (
       ),
-      'reference' => '7b2969df7c09af0613daff842da3e3dc0c4fae3f',
+      'reference' => '8f0d3ee91f558a99e664c37e57634b11839c300b',
     ),
     'automattic/jetpack-sync' => 
     array (
-      'pretty_version' => '1.23.x-dev',
-      'version' => '1.23.9999999.9999999-dev',
+      'pretty_version' => '1.24.x-dev',
+      'version' => '1.24.9999999.9999999-dev',
       'aliases' => 
       array (
       ),
-      'reference' => 'a05560ce77b8fd6fdee92f089b514f50bd86e3a5',
+      'reference' => '9d9d068cbf09bbe05a373900cda77dfc20536c41',
     ),
     'automattic/jetpack-terms-of-service' => 
     array (
@@ -215,7 +215,7 @@ private static $installed = array (
       'aliases' => 
       array (
       ),
-      'reference' => '27031b44afbc2c089f73dc84552954c187c9d480',
+      'reference' => '20b2736156b1c9621cee838ae346ab738bd08c06',
     ),
     'automattic/jetpack-tracking' => 
     array (
@@ -224,7 +224,7 @@ private static $installed = array (
       'aliases' => 
       array (
       ),
-      'reference' => '000bd61cb73da08fed0087b2f8eaaad35fde8fd7',
+      'reference' => '6df008053a8c0a0079f000e934cb0191e2e075e3',
     ),
   ),
 );
