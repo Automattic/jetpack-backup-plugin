@@ -15,6 +15,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Changed
 - Init 0.2.0-alpha cycle.
+- Reorganized Admin.js to facilitate integration
 - Update lock file
 - Update node version requirement to 14.16.1
 
