@@ -14,6 +14,7 @@ This is an alpha version! The changes listed here are not final.
 - Added Backup UI, placeholders, and supporting end points.
 
 ### Changed
+- Adjusted the RNA connection usage as per its recent backward-incompatible changes.
 - Init 0.2.0-alpha cycle.
 - Reorganized Admin.js to facilitate integration
 - Update lock file
