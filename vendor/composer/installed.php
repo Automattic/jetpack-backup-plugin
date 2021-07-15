@@ -45,7 +45,7 @@
       'aliases' => 
       array (
       ),
-      'reference' => 'e0b1d5074fbe5149c533b583ccc044b1133306fd',
+      'reference' => '900df1cb0127e7a0d82f63b60f42016a4cdfeb7b',
     ),
     'automattic/jetpack-backup-plugin' => 
     array (
@@ -72,7 +72,7 @@
       'aliases' => 
       array (
       ),
-      'reference' => 'c5b290968f8b50e953a2e28f8366f8ec22ba99a7',
+      'reference' => '7710937c1522cb9cc1f1257a1bbd3078d8056426',
     ),
     'automattic/jetpack-connection-ui' => 
     array (
@@ -180,7 +180,7 @@
       'aliases' => 
       array (
       ),
-      'reference' => '5077f631cbe1b754392fd072ccdb8e3df624d3cb',
+      'reference' => '110a5ca420e516f27fcb36719e4ea15f1026f110',
     ),
     'automattic/jetpack-terms-of-service' => 
     array (
