@@ -13,6 +13,7 @@ This is an alpha version! The changes listed here are not final.
 - Add backup package dependency.
 - Added Backup UI, placeholders, and supporting end points.
 - Added design for No Backup Capabilities view. Removed unused CSS. Minor styling fixes.
+- Adds Jetpack header and footer
 
 ### Changed
 - Adjusted the RNA connection usage as per its recent backward-incompatible changes.
