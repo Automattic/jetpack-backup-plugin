@@ -18,6 +18,7 @@ This is an alpha version! The changes listed here are not final.
 ### Changed
 - Adjusted the RNA connection usage as per its recent backward-incompatible changes.
 - Changed backup storage and heartbeat info blocks to only display with a backup plan
+- Connection: replace ConnectButton with ConnectScreen
 - Init 0.2.0-alpha cycle.
 - Reorganized Admin.js to facilitate integration
 - Update lock file
