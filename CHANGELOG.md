@@ -14,6 +14,7 @@ This is an alpha version! The changes listed here are not final.
 - Added Backup UI, placeholders, and supporting end points.
 - Added design for No Backup Capabilities view. Removed unused CSS. Minor styling fixes.
 - Adds Jetpack header and footer
+- Integrate ConnectionStatusCard component for managing the site/user connection.
 
 ### Changed
 - Adjusted the RNA connection usage as per its recent backward-incompatible changes.
