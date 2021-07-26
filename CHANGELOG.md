@@ -21,6 +21,7 @@ This is an alpha version! The changes listed here are not final.
 - Connection: replace ConnectButton with ConnectScreen
 - Init 0.2.0-alpha cycle.
 - Reorganized Admin.js to facilitate integration
+- Updated all external links to use redirect service
 - Updated styles wrapping ConnectScreen
 - Update lock file
 - Update node version requirement to 14.16.1
