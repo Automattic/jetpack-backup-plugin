@@ -21,6 +21,7 @@ This is an alpha version! The changes listed here are not final.
 - Changed backup storage and heartbeat info blocks to only display with a backup plan
 - Connection: replace ConnectButton with ConnectScreen
 - Init 0.2.0-alpha cycle.
+- Manually adjust Monorepo package version refs for 10.0 release.
 - Reorganized Admin.js to facilitate integration
 - Updated all external links to use redirect service
 - Updated styles wrapping ConnectScreen
