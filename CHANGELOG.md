@@ -24,6 +24,7 @@ This is an alpha version! The changes listed here are not final.
 - Manually adjust Monorepo package version refs for 10.0 release.
 - Reorganized Admin.js to facilitate integration
 - Updated all external links to use redirect service
+- Updated package dependencies
 - Updated styles wrapping ConnectScreen
 - Update lock file
 - Update node version requirement to 14.16.1
