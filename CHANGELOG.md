@@ -17,6 +17,7 @@ This is an alpha version! The changes listed here are not final.
 - Integrate ConnectionStatusCard component for managing the site/user connection.
 
 ### Changed
+- Added site to jetpack redirect to be used when redirect is updated
 - Adjusted the RNA connection usage as per its recent backward-incompatible changes.
 - Changed backup storage and heartbeat info blocks to only display with a backup plan
 - Connection: replace ConnectButton with ConnectScreen
