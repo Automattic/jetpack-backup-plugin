@@ -30,6 +30,9 @@ This is an alpha version! The changes listed here are not final.
 - Update lock file
 - Update node version requirement to 14.16.1
 
+### Fixed
+- Fix minor styling issue for the "no plan" page.
+
 ## 0.1.0-beta - 2021-06-15
 ### Added
 - Added RNA connection to the plugin.
