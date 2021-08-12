@@ -11,6 +11,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Changed
 - Janitorial: start new release cycle
+- Updated Jetpack Backup menu item title and icon
 
 ## 0.2.0-beta - 2021-08-12
 ### Added
