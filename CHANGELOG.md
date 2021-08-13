@@ -11,6 +11,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Changed
 - Updated Jetpack Backup menu item title and icon
+- Updated readme.txt to add additional info
 
 ## 0.2.0-beta - 2021-08-12
 ### Added
