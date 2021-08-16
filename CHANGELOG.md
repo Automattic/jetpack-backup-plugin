@@ -11,6 +11,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Changed
 - Janitorial: start new release cycle
+- Update components version number
 - Updated Jetpack Backup menu item title and icon
 - Updated readme.txt to add additional info
 
