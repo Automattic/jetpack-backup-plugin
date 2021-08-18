@@ -9,6 +9,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 This is an alpha version! The changes listed here are not final.
 
+### Added
+- Soft-fail if Jetpack is active and not version 10 or higher
+
 ### Changed
 - Janitorial: start new release cycle
 - Update components version number
