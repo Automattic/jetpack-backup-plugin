@@ -17,6 +17,7 @@ This is an alpha version! The changes listed here are not final.
 - Update components version number
 - Updated Jetpack Backup menu item title and icon
 - Updated readme.txt to add additional info
+- Updated short description on readme.txt to conform to the 151 characters limit
 
 ### Fixed
 - Added a state to display before a first backup starts
