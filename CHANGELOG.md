@@ -15,25 +15,21 @@ This is an alpha version! The changes listed here are not final.
 ### Changed
 - Janitorial: start new release cycle
 - Update components version number
-- Updated Jetpack Backup menu item title and icon
-- Updated readme.txt to add additional info
-- Updated short description on readme.txt to conform to the 151 characters limit
 
-### Fixed
-- Added a state to display before a first backup starts
-
-## 0.2.0-beta - 2021-08-12
+## 0.2.0 - 2021-08-18
 ### Added
 - Added Backup UI, placeholders, and supporting end points.
 - Added design for No Backup Capabilities view. Removed unused CSS. Minor styling fixes.
-- Adds Jetpack header and footer
-- Add UI options to manage your Jetpack connection
+- Added Jetpack header and footer
+- Added UI options to manage your Jetpack connection
 
 ### Changed
-- Updated all external links to use jetpack redirect service
 - Changed backup storage and heartbeat info blocks to only display with a backup plan
+- Updated all external links to use jetpack redirect service
+- Updated Jetpack Backup menu item title and icon
 
 ### Fixed
+- Added a state to display before a first backup starts
 - Fix minor styling issue for the "no plan" page.
 
 ## 0.1.0-beta - 2021-06-15
