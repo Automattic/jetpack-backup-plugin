@@ -16,6 +16,7 @@ This is an alpha version! The changes listed here are not final.
 ### Changed
 - Janitorial: start new release cycle
 - Update components version number
+- Use the "withConnectionStatus" HOC for ConnectScreen component.
 
 ## 0.2.0 - 2021-08-18
 ### Added
