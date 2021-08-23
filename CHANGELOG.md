@@ -12,6 +12,7 @@ This is an alpha version! The changes listed here are not final.
 ### Added
 - Soft-fail if Jetpack is active and not version 10 or higher
 - Update Backup plugin readme text and remove dummy tag
+- Update readme.md installation instructions
 
 ### Changed
 - Janitorial: start new release cycle
