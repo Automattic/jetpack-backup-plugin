@@ -21,6 +21,9 @@ This is an alpha version! The changes listed here are not final.
 - Update to latest webpack, webpack-cli and calypso-build
 - Use the "withConnectionStatus" HOC for ConnectScreen component.
 
+### Fixed
+- Bring back the disappeared connection screen image.
+
 ## 0.2.0 - 2021-08-18
 ### Added
 - Added Backup UI, placeholders, and supporting end points.
