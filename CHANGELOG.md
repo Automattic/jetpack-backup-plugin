@@ -18,6 +18,7 @@ This is an alpha version! The changes listed here are not final.
 - Janitorial: start new release cycle
 - Update components version number
 - Updated package dependencies
+- Updated package dependencies.
 - Update to latest webpack, webpack-cli and calypso-build
 - Use the "withConnectionStatus" HOC for ConnectScreen component.
 
