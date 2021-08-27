@@ -16,9 +16,11 @@ This is an alpha version! The changes listed here are not final.
 
 ### Changed
 - Janitorial: start new release cycle
+- Tests: update PHPUnit polyfills dependency (yoast/phpunit-polyfills).
 - Update components version number
 - Updated package dependencies
 - Updated package dependencies.
+- Update package dependencies
 - Update to latest webpack, webpack-cli and calypso-build
 - Use the "withConnectionStatus" HOC for ConnectScreen component.
 
