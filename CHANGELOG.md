@@ -20,8 +20,10 @@ This is an alpha version! The changes listed here are not final.
 - Update components version number
 - Updated package dependencies
 - Updated package dependencies.
+- Updated package dependencies.
 - Update package dependencies
 - Update to latest webpack, webpack-cli and calypso-build
+- Use Node 16.7.0 in tooling. This shouldn't change the behavior of the code itself.
 - Use the "withConnectionStatus" HOC for ConnectScreen component.
 
 ### Removed
