@@ -33,6 +33,7 @@ This is an alpha version! The changes listed here are not final.
 - Removed unused method
 
 ### Fixed
+- Adjust dashboard styling.
 - Bring back the disappeared connection screen image.
 
 ## 0.2.0 - 2021-08-18
