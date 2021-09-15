@@ -27,6 +27,7 @@ This is an alpha version! The changes listed here are not final.
 - Updated package dependencies.
 - Updated package dependencies.
 - Updated package dependencies.
+- Updated styles for bbuttons in backup panel and spacing for sections below
 - Update package dependencies
 - Update to latest webpack, webpack-cli and calypso-build
 - Use Node 16.7.0 in tooling. This shouldn't change the behavior of the code itself.
