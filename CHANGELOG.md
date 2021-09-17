@@ -39,6 +39,7 @@ This is an alpha version! The changes listed here are not final.
 ### Fixed
 - Adjust dashboard styling.
 - Bring back the disappeared connection screen image.
+- Updated scss files for sass division deprecation.
 
 ## 0.2.0 - 2021-08-18
 ### Added
