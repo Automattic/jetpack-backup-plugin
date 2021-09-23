@@ -98,7 +98,7 @@ private static $installed = array (
       'aliases' => 
       array (
       ),
-      'reference' => '2d2603b5ecfbdd994ca2f495c6f4bd7b2d3bc661',
+      'reference' => '4d4842889abaf7b89eb3d81b47c73d2edae3ad8c',
     ),
     'automattic/jetpack-connection-ui' => 
     array (
