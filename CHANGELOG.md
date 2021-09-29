@@ -17,6 +17,7 @@ This is an alpha version! The changes listed here are not final.
 ### Changed
 - Allow Node ^14.17.6 to be used in this project. This shouldn't change the behavior of the code itself.
 - Janitorial: start new release cycle
+- Switched the connection screen to withConnectionScreen HOC for pulling connection status.
 - Tests: update PHPUnit polyfills dependency (yoast/phpunit-polyfills).
 - Update components version number
 - Updated package dependencies
