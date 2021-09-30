@@ -196,7 +196,7 @@
             'type' => 'library',
             'install_path' => __DIR__ . '/../automattic/jetpack-tracking',
             'aliases' => array(),
-            'reference' => 'c887719c1ae459181a351c556ca18b6f1733a102',
+            'reference' => '16aa84dd8557cf55598e4db950d83591f80fdcee',
             'dev_requirement' => false,
         ),
     ),

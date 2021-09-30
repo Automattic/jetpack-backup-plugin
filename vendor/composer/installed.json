@@ -1083,7 +1083,7 @@
             "dist": {
                 "type": "path",
                 "url": "/tmp/jetpack-build/Automattic/jetpack-tracking",
-                "reference": "c887719c1ae459181a351c556ca18b6f1733a102"
+                "reference": "16aa84dd8557cf55598e4db950d83591f80fdcee"
             },
             "require": {
                 "automattic/jetpack-assets": "^1.11",
@@ -1093,6 +1093,7 @@
             },
             "require-dev": {
                 "automattic/jetpack-changelogger": "^2.0",
+                "brain/monkey": "2.6.0",
                 "yoast/phpunit-polyfills": "1.0.1"
             },
             "type": "library",
