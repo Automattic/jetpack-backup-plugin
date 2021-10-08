@@ -14,6 +14,7 @@ This is an alpha version! The changes listed here are not final.
 - Soft-fail if Jetpack is active and not version 10 or higher
 - Update Backup plugin readme text and remove dummy tag
 - Update readme.md installation instructions
+- Uses admin-ui to register the admin menu
 
 ### Changed
 - Allow Node ^14.17.6 to be used in this project. This shouldn't change the behavior of the code itself.
