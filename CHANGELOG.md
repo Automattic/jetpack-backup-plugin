@@ -11,6 +11,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Added
 - Added link to the plugins list table for "Settings" to match other Jetpack plugins.
+- Plugin now disconnects Jetpack on deactivation if it's the last plugin using the connection
 - Soft-fail if Jetpack is active and not version 10 or higher
 - Update Backup plugin readme text and remove dummy tag
 - Update readme.md installation instructions
