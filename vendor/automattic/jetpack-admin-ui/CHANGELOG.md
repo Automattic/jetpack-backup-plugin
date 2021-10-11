@@ -12,5 +12,8 @@ This is an alpha version! The changes listed here are not final.
 ### Added
 - Created the package
 
+### Changed
+- Updated package dependencies
+
 ### Fixed
 - Fixing menu visibility issues
