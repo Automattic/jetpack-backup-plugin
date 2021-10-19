@@ -11,8 +11,9 @@ This is an alpha version! The changes listed here are not final.
 
 ### Changed
 - Bump the RNA API version.
+- Updated version numbers and Stable Tag
 
-## 1.0.0-beta - 2021-10-13
+## 1.0.0 - 2021-10-13
 ### Added
 - Added link to the plugins list table for "Settings" to match other Jetpack plugins.
 - Plugin now disconnects Jetpack on deactivation if it's the last plugin using the connection.
