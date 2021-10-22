@@ -11,6 +11,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Changed
 - Bump the RNA API version.
+- Package version bump.
 - Readme: update descriptions to match the Backup plugin more accurately.
 - Updated version numbers and Stable Tag
 
