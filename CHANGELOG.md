@@ -13,6 +13,7 @@ This is an alpha version! The changes listed here are not final.
 - Bump the RNA API version.
 - Package version bump.
 - Readme: update descriptions to match the Backup plugin more accurately.
+- Set `convertDeprecationsToExceptions` true in PHPUnit config.
 - Updated package dependencies
 - Updated version numbers and Stable Tag
 
