@@ -16,6 +16,7 @@ This is an alpha version! The changes listed here are not final.
 - Set `convertDeprecationsToExceptions` true in PHPUnit config.
 - Updated package dependencies
 - Updated version numbers and Stable Tag
+- Update PHPUnit configs to include just what needs coverage rather than include everything then try to exclude stuff that doesn't.
 
 ## 1.0.0 - 2021-10-13
 ### Added
