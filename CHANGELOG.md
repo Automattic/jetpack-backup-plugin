@@ -26,6 +26,9 @@ This is an alpha version! The changes listed here are not final.
 ### Removed
 - Remove use of `gulp` in build, all it was doing was wrapping `webpack`.
 
+### Fixed
+- Backup: removed backup-in-progress animation on small viewports
+
 ## 1.0.0 - 2021-10-13
 ### Added
 - Added link to the plugins list table for "Settings" to match other Jetpack plugins.
