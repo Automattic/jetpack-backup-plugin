@@ -28,6 +28,7 @@ This is an alpha version! The changes listed here are not final.
 - Update PHPUnit configs to include just what needs coverage rather than include everything then try to exclude stuff that doesn't.
 - Update upgrade button link target to point to checkout
 - Update webpack build config.
+- Use `Assets::register_script()` to load Webpack-built script.
 
 ### Removed
 - Remove use of `gulp` in build, all it was doing was wrapping `webpack`.
