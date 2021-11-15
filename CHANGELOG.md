@@ -16,6 +16,7 @@ This is an alpha version! The changes listed here are not final.
 - Package version bump.
 - Readme: update descriptions to match the Backup plugin more accurately.
 - Set `convertDeprecationsToExceptions` true in PHPUnit config.
+- The Admin page now promotes the new real-time Backup products.
 - Updated package dependencies
 - Updated package dependencies
 - Updated package dependencies
