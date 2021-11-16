@@ -417,10 +417,9 @@
             "dist": {
                 "type": "path",
                 "url": "/tmp/jetpack-build/Automattic/jetpack-connection-ui",
-                "reference": "2cb9bf321b58a3499bb815a7fdca85a2c07d16c5"
+                "reference": "c36026996fe23d80128c994e56808122c5f1df85"
             },
             "require": {
-                "automattic/jetpack-assets": "^1.12",
                 "automattic/jetpack-connection": "^1.30",
                 "automattic/jetpack-constants": "^1.6",
                 "automattic/jetpack-device-detection": "^1.4",

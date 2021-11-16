@@ -34,6 +34,7 @@ This is an alpha version! The changes listed here are not final.
 - Remove use of `gulp` in build, all it was doing was wrapping `webpack`.
 
 ### Fixed
+- Assets: revert use of the new method added to register scripts
 - Backup: removed backup-in-progress animation on small viewports
 
 ## 1.0.0 - 2021-10-13
