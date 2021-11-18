@@ -36,6 +36,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Fixed
 - Backup: removed backup-in-progress animation on small viewports
+- Fix a bug that prevented the IDC UI from displaying when the site is in an identity crisis.
 
 ## 1.0.0 - 2021-10-13
 ### Added
