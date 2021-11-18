@@ -15,6 +15,7 @@ This is an alpha version! The changes listed here are not final.
 ### Changed
 - Bump the RNA API version.
 - Change initial screen for first backup.
+- Import RNA styles from base styles package.
 - Make the plugin use RNA Connection for connection state.
 - Package version bump.
 - Readme: update descriptions to match the Backup plugin more accurately.
