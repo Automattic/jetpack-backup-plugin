@@ -42,10 +42,6 @@ return array(
 		'version' => '1.6.0.0',
 		'path'    => $vendorDir . '/automattic/jetpack-connection-ui/src/class-admin.php'
 	),
-	'Automattic\\Jetpack\\Config' => array(
-		'version' => '1.5.3.0',
-		'path'    => $vendorDir . '/automattic/jetpack-config/src/class-config.php'
-	),
 	'Automattic\\Jetpack\\Backup\\Helper_Script_Manager' => array(
 		'version' => '1.1.8.0',
 		'path'    => $vendorDir . '/automattic/jetpack-backup/src/class-helper-script-manager.php'
@@ -58,17 +54,13 @@ return array(
 		'version' => '1.1.8.0',
 		'path'    => $vendorDir . '/automattic/jetpack-backup/src/class-package-version.php'
 	),
+	'Automattic\\Jetpack\\Config' => array(
+		'version' => '1.5.3.0',
+		'path'    => $vendorDir . '/automattic/jetpack-config/src/class-config.php'
+	),
 	'Automattic\\Jetpack\\Admin_UI\\Admin_Menu' => array(
 		'version' => '0.1.1.0',
 		'path'    => $vendorDir . '/automattic/jetpack-admin-ui/src/class-admin-menu.php'
-	),
-	'Automattic\\Jetpack\\Device_Detection' => array(
-		'version' => '1.4.9.0',
-		'path'    => $vendorDir . '/automattic/jetpack-device-detection/src/class-device-detection.php'
-	),
-	'Automattic\\Jetpack\\Device_Detection\\User_Agent_Info' => array(
-		'version' => '1.4.9.0',
-		'path'    => $vendorDir . '/automattic/jetpack-device-detection/src/class-user-agent-info.php'
 	),
 	'Automattic\\Jetpack\\Sync\\Server' => array(
 		'version' => '1.27.3.0',
@@ -265,6 +257,14 @@ return array(
 	'Automattic\\Jetpack\\Sync\\Utils' => array(
 		'version' => '1.27.3.0',
 		'path'    => $vendorDir . '/automattic/jetpack-sync/src/class-utils.php'
+	),
+	'Automattic\\Jetpack\\Device_Detection' => array(
+		'version' => '1.4.9.0',
+		'path'    => $vendorDir . '/automattic/jetpack-device-detection/src/class-device-detection.php'
+	),
+	'Automattic\\Jetpack\\Device_Detection\\User_Agent_Info' => array(
+		'version' => '1.4.9.0',
+		'path'    => $vendorDir . '/automattic/jetpack-device-detection/src/class-user-agent-info.php'
 	),
 	'Automattic\\Jetpack\\IdentityCrisis\\REST_Endpoints' => array(
 		'version' => '0.4.2.0',
