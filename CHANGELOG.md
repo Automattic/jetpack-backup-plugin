@@ -31,6 +31,38 @@ This is an alpha version! The changes listed here are not final.
 - Updated package dependencies
 - Updated package dependencies
 - Updated package dependencies
+- Updated package dependencies.
+- Updated package dependencies.
+- Updated package dependencies.
+- Updated package dependencies.
+- Updated package dependencies.
+- Updated package dependencies.
+- Updated package dependencies.
+- Updated package dependencies.
+- Updated package dependencies.
+- Updated package dependencies.
+- Updated package dependencies.
+- Updated package dependencies.
+- Updated package dependencies.
+- Updated package dependencies.
+- Updated package dependencies.
+- Updated package dependencies.
+- Updated package dependencies.
+- Updated package dependencies.
+- Updated package dependencies.
+- Updated package dependencies.
+- Updated package dependencies.
+- Updated package dependencies.
+- Updated package dependencies.
+- Updated package dependencies.
+- Updated package dependencies.
+- Updated package dependencies.
+- Updated package dependencies.
+- Updated package dependencies.
+- Updated package dependencies.
+- Updated package dependencies.
+- Updated package dependencies.
+- Updated package dependencies.
 - Updated version numbers and Stable Tag
 - Update PHPUnit configs to include just what needs coverage rather than include everything then try to exclude stuff that doesn't.
 - Update upgrade button link target to point to checkout
@@ -38,11 +70,16 @@ This is an alpha version! The changes listed here are not final.
 - Use `Assets::register_script()` to load Webpack-built script.
 
 ### Removed
-- Remove the Connection UI activation.
 - Remove use of `gulp` in build, all it was doing was wrapping `webpack`.
 
 ### Fixed
 - Backup: removed backup-in-progress animation on small viewports
+
+## 1.0.1 - 2021-11-22
+### Removed
+- Remove the Connection UI activation.
+
+### Fixed
 - Fix a bug that prevented the IDC UI from displaying when the site is in an identity crisis.
 
 ## 1.0.0 - 2021-10-13
