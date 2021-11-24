@@ -17,6 +17,7 @@ This is an alpha version! The changes listed here are not final.
 ### Changed
 - Bump the RNA API version.
 - Change initial screen for first backup.
+- Colors: update Jetpack Primary color to match latest brand book.
 - Detect when a backup will retry and update error screen content.
 - Import RNA styles from base styles package.
 - Make the plugin use RNA Connection for connection state.
@@ -31,6 +32,7 @@ This is an alpha version! The changes listed here are not final.
 - Updated package dependencies
 - Updated package dependencies
 - Updated package dependencies
+- Updated package dependencies.
 - Updated package dependencies.
 - Updated package dependencies.
 - Updated package dependencies.
