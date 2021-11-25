@@ -70,10 +70,12 @@ This is an alpha version! The changes listed here are not final.
 - Updated package dependencies.
 - Updated package dependencies.
 - Updated package dependencies.
+- Updated package dependencies.
 - Updated version numbers and Stable Tag
 - Update PHPUnit configs to include just what needs coverage rather than include everything then try to exclude stuff that doesn't.
 - Update upgrade button link target to point to checkout
 - Update webpack build config.
+- Uses the Connection Initial State for the React app
 - Use `Assets::register_script()` to load Webpack-built script.
 
 ### Removed
