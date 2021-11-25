@@ -23,6 +23,7 @@ This is an alpha version! The changes listed here are not final.
 - Make the plugin use RNA Connection for connection state.
 - Package version bump.
 - Readme: update descriptions to match the Backup plugin more accurately.
+- Remove now-redundant `output.filename` from Webpack config.
 - Set `convertDeprecationsToExceptions` true in PHPUnit config.
 - The Admin page now promotes the new real-time Backup products.
 - Updated package dependencies
@@ -32,6 +33,7 @@ This is an alpha version! The changes listed here are not final.
 - Updated package dependencies
 - Updated package dependencies
 - Updated package dependencies
+- Updated package dependencies.
 - Updated package dependencies.
 - Updated package dependencies.
 - Updated package dependencies.
