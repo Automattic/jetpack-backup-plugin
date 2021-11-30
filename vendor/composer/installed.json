@@ -417,7 +417,7 @@
             "dist": {
                 "type": "path",
                 "url": "/tmp/jetpack-build/Automattic/jetpack-connection-ui",
-                "reference": "da280a17b1fd7dd351f6c8c300dd8df2007ec9e9"
+                "reference": "d8dab9f1e35e062e1d9e793a077b7bf28d333c15"
             },
             "require": {
                 "automattic/jetpack-assets": "^1.13",
@@ -454,6 +454,10 @@
                 "build-production": [
                     "Composer\\Config::disableProcessTimeout",
                     "pnpm run build"
+                ],
+                "watch": [
+                    "Composer\\Config::disableProcessTimeout",
+                    "pnpm run watch"
                 ]
             },
             "license": [

@@ -88,7 +88,7 @@
             'type' => 'library',
             'install_path' => __DIR__ . '/../automattic/jetpack-connection-ui',
             'aliases' => array(),
-            'reference' => 'da280a17b1fd7dd351f6c8c300dd8df2007ec9e9',
+            'reference' => 'd8dab9f1e35e062e1d9e793a077b7bf28d333c15',
             'dev_requirement' => false,
         ),
         'automattic/jetpack-constants' => array(
