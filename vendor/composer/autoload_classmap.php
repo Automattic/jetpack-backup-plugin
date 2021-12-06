@@ -47,6 +47,7 @@ return array(
     'Automattic\\Jetpack\\Heartbeat' => $vendorDir . '/automattic/jetpack-heartbeat/src/class-heartbeat.php',
     'Automattic\\Jetpack\\IdentityCrisis\\REST_Endpoints' => $vendorDir . '/automattic/jetpack-identity-crisis/src/class-rest-endpoints.php',
     'Automattic\\Jetpack\\Identity_Crisis' => $vendorDir . '/automattic/jetpack-identity-crisis/src/class-identity-crisis.php',
+    'Automattic\\Jetpack\\My_Jetpack\\Initializer' => $vendorDir . '/automattic/jetpack-my-jetpack/src/class-initializer.php',
     'Automattic\\Jetpack\\Password_Checker' => $vendorDir . '/automattic/jetpack-password-checker/src/class-password-checker.php',
     'Automattic\\Jetpack\\Redirect' => $vendorDir . '/automattic/jetpack-redirect/src/class-redirect.php',
     'Automattic\\Jetpack\\Roles' => $vendorDir . '/automattic/jetpack-roles/src/class-roles.php',

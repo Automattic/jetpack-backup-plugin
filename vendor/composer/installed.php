@@ -136,6 +136,15 @@
             'reference' => '1d8d46c3ea9d686a8a39e561b9c4f1a648d2694e',
             'dev_requirement' => false,
         ),
+        'automattic/jetpack-my-jetpack' => array(
+            'pretty_version' => '0.1.x-dev',
+            'version' => '0.1.9999999.9999999-dev',
+            'type' => 'library',
+            'install_path' => __DIR__ . '/../automattic/jetpack-my-jetpack',
+            'aliases' => array(),
+            'reference' => '6ae6ff68196f6391e26b7ace080178bbe87c7b40',
+            'dev_requirement' => false,
+        ),
         'automattic/jetpack-options' => array(
             'pretty_version' => '1.14.x-dev',
             'version' => '1.14.9999999.9999999-dev',

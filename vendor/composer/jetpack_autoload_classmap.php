@@ -34,6 +34,10 @@ return array(
 		'version' => 'dev-master',
 		'path'    => $baseDir . '/src/php/class-initial-state.php'
 	),
+	'Automattic\\Jetpack\\My_Jetpack\\Initializer' => array(
+		'version' => '0.1.9999999.9999999-dev',
+		'path'    => $vendorDir . '/automattic/jetpack-my-jetpack/src/class-initializer.php'
+	),
 	'Automattic\\Jetpack\\ConnectionUI\\Admin' => array(
 		'version' => '2.1.9999999.9999999-dev',
 		'path'    => $vendorDir . '/automattic/jetpack-connection-ui/src/class-admin.php'
