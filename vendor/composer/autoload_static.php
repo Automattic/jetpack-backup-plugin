@@ -7,6 +7,7 @@ namespace Composer\Autoload;
 class ComposerStaticInit9559eef123208b7d1b9c15b978567267_backupⓥ1_1_0_alpha
 {
     public static $files = array (
+        '3773ef3f09c37da5478d578e32b03a4b' => __DIR__ . '/..' . '/automattic/jetpack-assets/actions.php',
         'd4eb94df91a729802d18373ee8cdc79f' => __DIR__ . '/..' . '/automattic/jetpack-backup/actions.php',
     );
 
