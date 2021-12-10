@@ -12,6 +12,7 @@ This is an alpha version! The changes listed here are not final.
 ### Added
 - Add consumer_slug config to webpack
 - adds My Jetpack page work in progress behind a feature flag
+- Janitorial: add watch command to the plugin.
 - Pass connected plugin information to disconnect dialog flow, include analytics scripts
 - Redirect to Jetpack Backup plugin page when the plugin is activated.
 - Use monorepo `validate-es` script to validate Webpack builds.
