@@ -35,7 +35,7 @@ return array(
 		'path'    => $baseDir . '/src/php/class-initial-state.php'
 	),
 	'Automattic\\Jetpack\\My_Jetpack\\Initializer' => array(
-		'version' => '0.1.9999999.9999999-dev',
+		'version' => '0.2.9999999.9999999-dev',
 		'path'    => $vendorDir . '/automattic/jetpack-my-jetpack/src/class-initializer.php'
 	),
 	'Automattic\\Jetpack\\ConnectionUI\\Admin' => array(
@@ -63,7 +63,7 @@ return array(
 		'path'    => $vendorDir . '/automattic/jetpack-backup/src/class-rest-controller.php'
 	),
 	'Automattic\\Jetpack\\Admin_UI\\Admin_Menu' => array(
-		'version' => '0.1.9999999.9999999-dev',
+		'version' => '0.2.9999999.9999999-dev',
 		'path'    => $vendorDir . '/automattic/jetpack-admin-ui/src/class-admin-menu.php'
 	),
 	'Automattic\\Jetpack\\Device_Detection\\User_Agent_Info' => array(
