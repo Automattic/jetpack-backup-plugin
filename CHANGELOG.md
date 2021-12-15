@@ -23,6 +23,7 @@ This is an alpha version! The changes listed here are not final.
 - Change initial screen for first backup.
 - Colors: update Jetpack Primary color to match latest brand book.
 - Detect when a backup will retry and update error screen content.
+- General: update WordPress version requirements to WordPress 5.8
 - Import RNA styles from base styles package.
 - Make the plugin use RNA Connection for connection state.
 - Package version bump.
