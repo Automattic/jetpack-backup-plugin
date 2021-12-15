@@ -25,6 +25,7 @@ This is an alpha version! The changes listed here are not final.
 - Detect when a backup will retry and update error screen content.
 - General: update WordPress version requirements to WordPress 5.8
 - Import RNA styles from base styles package.
+- Make Admin UI consume layout components
 - Make the plugin use RNA Connection for connection state.
 - Package version bump.
 - Readme: update descriptions to match the Backup plugin more accurately.
