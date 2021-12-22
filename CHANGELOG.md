@@ -20,6 +20,7 @@ This is an alpha version! The changes listed here are not final.
 - Use monorepo `validate-es` script to validate Webpack builds.
 
 ### Changed
+- Bump package versions.
 - Bump the RNA API version.
 - Change initial screen for first backup.
 - Colors: update Jetpack Primary color to match latest brand book.
@@ -40,6 +41,7 @@ This is an alpha version! The changes listed here are not final.
 - Updated package dependencies
 - Updated package dependencies
 - Updated package dependencies
+- Updated package dependencies.
 - Updated package dependencies.
 - Updated package dependencies.
 - Updated package dependencies.
