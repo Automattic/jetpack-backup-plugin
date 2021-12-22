@@ -4,5 +4,16 @@ return array(
   'domain' => 'jetpack-backup',
   'type' => 'plugins',
   'packages' => array(
+    'jetpack-password-checker' => '0.0.0',
+    'jetpack-assets' => '0.0.0',
+    'jetpack-tracking' => '0.0.0',
+    'jetpack-heartbeat' => '0.0.0',
+    'jetpack-connection' => '0.0.0',
+    'jetpack-idc' => '0.0.0',
+    'jetpack-sync' => '0.0.0',
+    'jetpack-backup-pkg' => '0.0.0',
+    'jetpack-config' => '0.0.0',
+    'jetpack-connection-ui' => '0.0.0',
+    'jetpack-my-jetpack' => '0.0.0',
   ),
 );
