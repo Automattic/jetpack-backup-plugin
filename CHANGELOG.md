@@ -25,6 +25,7 @@ This is an alpha version! The changes listed here are not final.
 - Change initial screen for first backup.
 - Colors: update Jetpack Primary color to match latest brand book.
 - Detect when a backup will retry and update error screen content.
+- Drop isRegistered and isUserConnected params from ConnectionStatusCard component
 - General: update WordPress version requirements to WordPress 5.8
 - Import RNA styles from base styles package.
 - Make Admin UI consume layout components
