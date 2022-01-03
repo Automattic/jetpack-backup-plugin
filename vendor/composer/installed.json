@@ -311,14 +311,14 @@
             "dist": {
                 "type": "path",
                 "url": "/tmp/jetpack-build/Automattic/jetpack-composer-plugin",
-                "reference": "f735ab851a056d663ac810249bddf5b7d17ecdf3"
+                "reference": "36b002de3b1d0e7f7330ac534cc54a275b3188d7"
             },
             "require": {
                 "composer-plugin-api": "^2.1.0"
             },
             "require-dev": {
                 "automattic/jetpack-changelogger": "^3.0",
-                "composer/composer": "^2.1",
+                "composer/composer": "2.2.3",
                 "yoast/phpunit-polyfills": "1.0.2"
             },
             "type": "composer-plugin",
