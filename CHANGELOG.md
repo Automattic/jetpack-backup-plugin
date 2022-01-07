@@ -126,6 +126,7 @@ This is an alpha version! The changes listed here are not final.
 - Use `Assets::register_script()` to load Webpack-built script.
 
 ### Removed
+- Remove use of deprecated `~` in sass-loader imports.
 - Remove use of `gulp` in build, all it was doing was wrapping `webpack`.
 
 ### Fixed
