@@ -20,6 +20,7 @@ This is an alpha version! The changes listed here are not final.
 - Use monorepo `validate-es` script to validate Webpack builds.
 
 ### Changed
+- Added pricing information to Jetpack Connection screen
 - Bump package versions.
 - Bump the RNA API version.
 - Change initial screen for first backup.
