@@ -36,6 +36,7 @@ This is an alpha version! The changes listed here are not final.
 - Remove now-redundant `output.filename` from Webpack config.
 - Set `convertDeprecationsToExceptions` true in PHPUnit config.
 - The Admin page now promotes the new real-time Backup products.
+- Update content shown on backup segments section.
 - Updated package dependencies
 - Updated package dependencies
 - Updated package dependencies
