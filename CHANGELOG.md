@@ -137,6 +137,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Fixed
 - Backup: removed backup-in-progress animation on small viewports
+- Check that the Assets::alias_textdomains_from_file method exists before calling it.
 - Use `@automattic/babel-plugin-replace-textdomain` to ensure proper textdomains in JS bundles.
 
 ## 1.0.1 - 2021-11-22
