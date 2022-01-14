@@ -5,131 +5,31 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## 1.1.0-alpha - unreleased
+## 1.1.1-alpha - unreleased
 
 This is an alpha version! The changes listed here are not final.
 
+### Changed
+- Updated package dependencies.
+- Updated package dependencies.
+
+## 1.1.0-beta - 2022-01-13
 ### Added
-- Add a dependency on the automattic/jetpack-composer-plugin Composer package.
-- Add consumer_slug config to webpack
-- adds My Jetpack page work in progress behind a feature flag
-- Janitorial: add watch command to the plugin.
-- Load the Composer package assets i18n map.
-- Pass connected plugin information to disconnect dialog flow, include analytics scripts
+- Added My Jetpack page work in progress behind a feature flag.
+- Added pricing information to Jetpack Connection screen.
+- Pass connected plugin information to disconnect dialog flow, include analytics scripts.
 - Redirect to Jetpack Backup plugin page when the plugin is activated.
 - Use monorepo `validate-es` script to validate Webpack builds.
 
 ### Changed
-- Added pricing information to Jetpack Connection screen
-- Bump package versions.
-- Bump the RNA API version.
 - Change initial screen for first backup.
-- Colors: update Jetpack Primary color to match latest brand book.
 - Detect when a backup will retry and update error screen content.
-- Drop isRegistered and isUserConnected params from ConnectionStatusCard component
-- General: update WordPress version requirements to WordPress 5.8
 - Import RNA styles from base styles package.
-- Make Admin UI consume layout components
-- Make the plugin use RNA Connection for connection state.
-- Package version bump.
-- Readme: update descriptions to match the Backup plugin more accurately.
-- Remove now-redundant `output.filename` from Webpack config.
-- Set `convertDeprecationsToExceptions` true in PHPUnit config.
+- Make Admin UI consume layout components.
 - The Admin page now promotes the new real-time Backup products.
-- Update content shown on backup segments section.
-- Updated package dependencies
-- Updated package dependencies
-- Updated package dependencies
-- Updated package dependencies
-- Updated package dependencies
-- Updated package dependencies
-- Updated package dependencies
-- Updated package dependencies
-- Updated package dependencies
-- Updated package dependencies
-- Updated package dependencies
-- Updated package dependencies
-- Updated package dependencies
-- Updated package dependencies.
-- Updated package dependencies.
-- Updated package dependencies.
-- Updated package dependencies.
-- Updated package dependencies.
-- Updated package dependencies.
-- Updated package dependencies.
-- Updated package dependencies.
-- Updated package dependencies.
-- Updated package dependencies.
-- Updated package dependencies.
-- Updated package dependencies.
-- Updated package dependencies.
-- Updated package dependencies.
-- Updated package dependencies.
-- Updated package dependencies.
-- Updated package dependencies.
-- Updated package dependencies.
-- Updated package dependencies.
-- Updated package dependencies.
-- Updated package dependencies.
-- Updated package dependencies.
-- Updated package dependencies.
-- Updated package dependencies.
-- Updated package dependencies.
-- Updated package dependencies.
-- Updated package dependencies.
-- Updated package dependencies.
-- Updated package dependencies.
-- Updated package dependencies.
-- Updated package dependencies.
-- Updated package dependencies.
-- Updated package dependencies.
-- Updated package dependencies.
-- Updated package dependencies.
-- Updated package dependencies.
-- Updated package dependencies.
-- Updated package dependencies.
-- Updated package dependencies.
-- Updated package dependencies.
-- Updated package dependencies.
-- Updated package dependencies.
-- Updated package dependencies.
-- Updated package dependencies.
-- Updated package dependencies.
-- Updated package dependencies.
-- Updated package dependencies.
-- Updated package dependencies.
-- Updated package dependencies.
-- Updated package dependencies.
-- Updated package dependencies.
-- Updated package dependencies.
-- Updated package dependencies.
-- Updated package dependencies.
-- Updated package dependencies.
-- Updated package dependencies.
-- Updated package dependencies.
-- Updated package dependencies.
-- Updated package dependencies.
-- Updated package dependencies.
-- Updated package dependencies.
-- Updated package dependencies.
-- Updated package dependencies.
-- Updated package dependencies.
-- Updated package dependencies.
-- Updated package dependencies.
-- Updated package dependencies.
-- Updated package dependencies.
-- Updated package dependencies.
-- Updated package dependencies.
-- Updated package dependencies.
-- Updated package dependencies.
-- Updated package dependencies.
-- Updated package dependencies.
-- Updated package dependencies.
-- Updated version numbers and Stable Tag
-- Update PHPUnit configs to include just what needs coverage rather than include everything then try to exclude stuff that doesn't.
-- Update upgrade button link target to point to checkout
-- Update webpack build config.
-- Uses the Connection Initial State for the React app
+- Updated content shown on backup segments section.
+- Updated Jetpack Primary color to match latest brand book.
+- Updated upgrade button link target to point to checkout.
 - Use `Assets::register_script()` to load Webpack-built script.
 
 ### Removed
@@ -137,8 +37,7 @@ This is an alpha version! The changes listed here are not final.
 - Remove use of `gulp` in build, all it was doing was wrapping `webpack`.
 
 ### Fixed
-- Backup: removed backup-in-progress animation on small viewports
-- Check that the Assets::alias_textdomains_from_file method exists before calling it.
+- Removed backup-in-progress animation on small viewports
 - Use `@automattic/babel-plugin-replace-textdomain` to ensure proper textdomains in JS bundles.
 
 ## 1.0.1 - 2021-11-22
