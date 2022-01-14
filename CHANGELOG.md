@@ -10,6 +10,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 This is an alpha version! The changes listed here are not final.
 
 ### Changed
+- General: update required node version to v16.13.2
+- Updated package dependencies.
 - Updated package dependencies.
 - Updated package dependencies.
 
