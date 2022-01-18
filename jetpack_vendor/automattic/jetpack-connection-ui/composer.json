@@ -21,11 +21,9 @@
 	"repositories": [],
 	"scripts": {
 		"build-development": [
-			"Composer\\Config::disableProcessTimeout",
 			"pnpm run build"
 		],
 		"build-production": [
-			"Composer\\Config::disableProcessTimeout",
 			"NODE_ENV=production pnpm run build"
 		],
 		"watch": [
