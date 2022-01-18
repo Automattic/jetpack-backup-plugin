@@ -35,7 +35,7 @@ return array(
 		'path'    => $baseDir . '/src/php/class-initial-state.php'
 	),
 	'Automattic\\Jetpack\\My_Jetpack\\Initializer' => array(
-		'version' => '0.3.9999999.9999999-dev',
+		'version' => '0.4.9999999.9999999-dev',
 		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-my-jetpack/src/class-initializer.php'
 	),
 	'Automattic\\Jetpack\\ConnectionUI\\Admin' => array(
@@ -434,12 +434,16 @@ return array(
 		'version' => '1.9.9999999.9999999-dev',
 		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-terms-of-service/src/class-terms-of-service.php'
 	),
+	'Automattic\\Jetpack\\Status\\Visitor' => array(
+		'version' => '1.10.9999999.9999999-dev',
+		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-status/src/class-visitor.php'
+	),
 	'Automattic\\Jetpack\\Status\\Host' => array(
-		'version' => '1.9.9999999.9999999-dev',
+		'version' => '1.10.9999999.9999999-dev',
 		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-status/src/class-host.php'
 	),
 	'Automattic\\Jetpack\\Status' => array(
-		'version' => '1.9.9999999.9999999-dev',
+		'version' => '1.10.9999999.9999999-dev',
 		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-status/src/class-status.php'
 	),
 	'Jetpack_Options' => array(

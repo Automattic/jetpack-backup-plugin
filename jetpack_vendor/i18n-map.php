@@ -14,6 +14,6 @@ return array(
     'jetpack-backup-pkg' => '1.2.9999999-dev',
     'jetpack-config' => '1.6.9999999-dev',
     'jetpack-connection-ui' => '2.3.9999999-dev',
-    'jetpack-my-jetpack' => '0.3.9999999-dev',
+    'jetpack-my-jetpack' => '0.4.9999999-dev',
   ),
 );
