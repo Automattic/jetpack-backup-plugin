@@ -38,6 +38,18 @@ return array(
 		'version' => '0.4.9999999.9999999-dev',
 		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-my-jetpack/src/class-initializer.php'
 	),
+	'Automattic\\Jetpack\\My_Jetpack\\REST_Products' => array(
+		'version' => '0.4.9999999.9999999-dev',
+		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-my-jetpack/src/class-rest-products.php'
+	),
+	'Automattic\\Jetpack\\My_Jetpack\\Products' => array(
+		'version' => '0.4.9999999.9999999-dev',
+		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-my-jetpack/src/class-products.php'
+	),
+	'Automattic\\Jetpack\\My_Jetpack\\REST_Purchases' => array(
+		'version' => '0.4.9999999.9999999-dev',
+		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-my-jetpack/src/class-rest-purchases.php'
+	),
 	'Automattic\\Jetpack\\ConnectionUI\\Admin' => array(
 		'version' => '2.3.9999999.9999999-dev',
 		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-connection-ui/src/class-admin.php'
