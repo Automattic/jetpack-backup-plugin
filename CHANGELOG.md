@@ -22,6 +22,9 @@ This is an alpha version! The changes listed here are not final.
 - Updated package dependencies.
 - Updated package dependencies.
 
+### Fixed
+- Correct wrong use of class instead of className prop.
+
 ## 1.1.0-beta - 2022-01-13
 ### Added
 - Added My Jetpack page work in progress behind a feature flag.
