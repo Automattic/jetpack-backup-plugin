@@ -106,6 +106,7 @@ class ComposerStaticInit9559eef123208b7d1b9c15b978567267_backupⓥ1_1_1_alpha
         'Automattic\\Jetpack\\Sync\\Modules\\Plugins' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-sync/src/modules/class-plugins.php',
         'Automattic\\Jetpack\\Sync\\Modules\\Posts' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-sync/src/modules/class-posts.php',
         'Automattic\\Jetpack\\Sync\\Modules\\Protect' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-sync/src/modules/class-protect.php',
+        'Automattic\\Jetpack\\Sync\\Modules\\Search' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-sync/src/modules/class-search.php',
         'Automattic\\Jetpack\\Sync\\Modules\\Stats' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-sync/src/modules/class-stats.php',
         'Automattic\\Jetpack\\Sync\\Modules\\Term_Relationships' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-sync/src/modules/class-term-relationships.php',
         'Automattic\\Jetpack\\Sync\\Modules\\Terms' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-sync/src/modules/class-terms.php',

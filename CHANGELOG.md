@@ -10,6 +10,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 This is an alpha version! The changes listed here are not final.
 
 ### Changed
+- Dependency Update from sync 1.28 to 1.29
 - General: update required node version to v16.13.2
 - Update composer.lock
 - Updated package dependencies.
