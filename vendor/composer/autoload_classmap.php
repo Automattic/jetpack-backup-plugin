@@ -53,6 +53,7 @@ return array(
     'Automattic\\Jetpack\\Identity_Crisis' => $baseDir . '/jetpack_vendor/automattic/jetpack-identity-crisis/src/class-identity-crisis.php',
     'Automattic\\Jetpack\\My_Jetpack\\Initializer' => $baseDir . '/jetpack_vendor/automattic/jetpack-my-jetpack/src/class-initializer.php',
     'Automattic\\Jetpack\\My_Jetpack\\Products' => $baseDir . '/jetpack_vendor/automattic/jetpack-my-jetpack/src/class-products.php',
+    'Automattic\\Jetpack\\My_Jetpack\\Products\\Boost' => $baseDir . '/jetpack_vendor/automattic/jetpack-my-jetpack/src/products/class-boost.php',
     'Automattic\\Jetpack\\My_Jetpack\\REST_Products' => $baseDir . '/jetpack_vendor/automattic/jetpack-my-jetpack/src/class-rest-products.php',
     'Automattic\\Jetpack\\My_Jetpack\\REST_Purchases' => $baseDir . '/jetpack_vendor/automattic/jetpack-my-jetpack/src/class-rest-purchases.php',
     'Automattic\\Jetpack\\Password_Checker' => $baseDir . '/jetpack_vendor/automattic/jetpack-password-checker/src/class-password-checker.php',

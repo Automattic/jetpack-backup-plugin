@@ -804,7 +804,7 @@
             "dist": {
                 "type": "path",
                 "url": "/tmp/jetpack-build/Automattic/jetpack-my-jetpack",
-                "reference": "ad97a66eaf58bfe8971f51227bfac443c92444fc"
+                "reference": "7c43f95c87fc07339e623d53bac96925d694ac5a"
             },
             "require": {
                 "automattic/jetpack-admin-ui": "^0.2",
@@ -813,6 +813,7 @@
             },
             "require-dev": {
                 "automattic/jetpack-changelogger": "^3.0",
+                "automattic/wordbless": "@dev",
                 "yoast/phpunit-polyfills": "1.0.3"
             },
             "type": "jetpack-library",
@@ -830,7 +831,8 @@
             "installation-source": "dist",
             "autoload": {
                 "classmap": [
-                    "src/"
+                    "src/",
+                    "src/products"
                 ]
             },
             "scripts": {
@@ -860,6 +862,9 @@
                 "watch": [
                     "Composer\\Config::disableProcessTimeout",
                     "pnpm run watch"
+                ],
+                "post-update-cmd": [
+                    "php -r \"copy('vendor/automattic/wordbless/src/dbless-wpdb.php', 'wordpress/wp-content/db.php');\""
                 ]
             },
             "license": [
