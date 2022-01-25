@@ -9,11 +9,11 @@ return array(
     'jetpack-tracking' => '1.14.0',
     'jetpack-heartbeat' => '1.4.0',
     'jetpack-idc' => '0.6.2',
-    'jetpack-connection' => '1.35.0',
-    'jetpack-sync' => '1.28.1',
     'jetpack-backup-pkg' => '1.2.1',
     'jetpack-config' => '1.6.0',
     'jetpack-connection-ui' => '2.3.1',
+    'jetpack-connection' => '1.35.0',
+    'jetpack-sync' => '1.28.1',
     'jetpack-my-jetpack' => '0.3.1',
   ),
 );
