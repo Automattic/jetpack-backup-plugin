@@ -4,21 +4,33 @@ return array(
   'domain' => 'jetpack-backup',
   'type' => 'plugins',
   'packages' => array(
-    'jetpack-password-checker' => array(
-      'path' => 'jetpack_vendor/automattic/jetpack-password-checker',
-      'ver' => '0.2.2',
-    ),
     'jetpack-assets' => array(
       'path' => 'jetpack_vendor/automattic/jetpack-assets',
       'ver' => '1.17.0',
+    ),
+    'jetpack-password-checker' => array(
+      'path' => 'jetpack_vendor/automattic/jetpack-password-checker',
+      'ver' => '0.2.2',
     ),
     'jetpack-tracking' => array(
       'path' => 'jetpack_vendor/automattic/jetpack-tracking',
       'ver' => '1.14.1',
     ),
+    'jetpack-heartbeat' => array(
+      'path' => 'jetpack_vendor/automattic/jetpack-heartbeat',
+      'ver' => '1.4.0',
+    ),
+    'jetpack-connection' => array(
+      'path' => 'jetpack_vendor/automattic/jetpack-connection',
+      'ver' => '1.36.1',
+    ),
     'jetpack-idc' => array(
       'path' => 'jetpack_vendor/automattic/jetpack-identity-crisis',
       'ver' => '0.6.4',
+    ),
+    'jetpack-sync' => array(
+      'path' => 'jetpack_vendor/automattic/jetpack-sync',
+      'ver' => '1.29.0',
     ),
     'jetpack-backup-pkg' => array(
       'path' => 'jetpack_vendor/automattic/jetpack-backup',
@@ -31,18 +43,6 @@ return array(
     'jetpack-connection-ui' => array(
       'path' => 'jetpack_vendor/automattic/jetpack-connection-ui',
       'ver' => '2.3.3',
-    ),
-    'jetpack-heartbeat' => array(
-      'path' => 'jetpack_vendor/automattic/jetpack-heartbeat',
-      'ver' => '1.4.0',
-    ),
-    'jetpack-connection' => array(
-      'path' => 'jetpack_vendor/automattic/jetpack-connection',
-      'ver' => '1.36.1',
-    ),
-    'jetpack-sync' => array(
-      'path' => 'jetpack_vendor/automattic/jetpack-sync',
-      'ver' => '1.29.0',
     ),
     'jetpack-my-jetpack' => array(
       'path' => 'jetpack_vendor/automattic/jetpack-my-jetpack',
