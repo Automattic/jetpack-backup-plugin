@@ -13,6 +13,7 @@ This is an alpha version! The changes listed here are not final.
 - Dependency Update from sync 1.28 to 1.29
 - General: update required node version to v16.13.2
 - Update composer.lock
+- Updated changelog and readme with 1.1.0 version identifier
 - Updated package dependencies.
 - Updated package dependencies.
 - Updated package dependencies.
@@ -32,7 +33,7 @@ This is an alpha version! The changes listed here are not final.
 - Correct wrong use of class instead of className prop.
 - Update root reqs for Jetpack
 
-## 1.1.0-beta - 2022-01-13
+## 1.1.0 - 2022-01-26
 ### Added
 - Added My Jetpack page work in progress behind a feature flag.
 - Added pricing information to Jetpack Connection screen.
