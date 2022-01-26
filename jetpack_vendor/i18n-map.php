@@ -16,10 +16,6 @@ return array(
       'path' => 'jetpack_vendor/automattic/jetpack-tracking',
       'ver' => '1.14.1',
     ),
-    'jetpack-heartbeat' => array(
-      'path' => 'jetpack_vendor/automattic/jetpack-heartbeat',
-      'ver' => '1.4.0',
-    ),
     'jetpack-idc' => array(
       'path' => 'jetpack_vendor/automattic/jetpack-identity-crisis',
       'ver' => '0.6.4',
@@ -35,6 +31,10 @@ return array(
     'jetpack-connection-ui' => array(
       'path' => 'jetpack_vendor/automattic/jetpack-connection-ui',
       'ver' => '2.3.3',
+    ),
+    'jetpack-heartbeat' => array(
+      'path' => 'jetpack_vendor/automattic/jetpack-heartbeat',
+      'ver' => '1.4.0',
     ),
     'jetpack-connection' => array(
       'path' => 'jetpack_vendor/automattic/jetpack-connection',
