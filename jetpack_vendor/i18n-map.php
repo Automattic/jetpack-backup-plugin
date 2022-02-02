@@ -44,6 +44,10 @@ return array(
       'path' => 'jetpack_vendor/automattic/jetpack-connection-ui',
       'ver' => '2.3.9999999-dev',
     ),
+    'jetpack-admin-ui' => array(
+      'path' => 'jetpack_vendor/automattic/jetpack-admin-ui',
+      'ver' => '0.2.9999999-dev',
+    ),
     'jetpack-my-jetpack' => array(
       'path' => 'jetpack_vendor/automattic/jetpack-my-jetpack',
       'ver' => '0.5.9999999-dev',
