@@ -14,6 +14,7 @@ This is an alpha version! The changes listed here are not final.
 - General: update required node version to v16.13.2
 - Update composer.lock
 - Updated changelog and readme with 1.1.0 version identifier
+- updated lock file
 - Updated package dependencies
 - Updated package dependencies.
 - Updated package dependencies.
