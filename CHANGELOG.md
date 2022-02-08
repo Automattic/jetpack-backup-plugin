@@ -16,6 +16,7 @@ This is an alpha version! The changes listed here are not final.
 - Updated changelog and readme with 1.1.0 version identifier
 - updated lock file
 - Updated package dependencies
+- Updated package dependencies
 - Updated package dependencies.
 - Updated package dependencies.
 - Updated package dependencies.
