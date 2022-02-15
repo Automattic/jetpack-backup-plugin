@@ -50,6 +50,7 @@ This is an alpha version! The changes listed here are not final.
 ### Fixed
 - Changed price default to null from 0 to fix prop warnings.
 - Correct wrong use of class instead of className prop.
+- update lock files
 - Update root reqs for Jetpack
 
 ## 1.1.0 - 2022-01-26
