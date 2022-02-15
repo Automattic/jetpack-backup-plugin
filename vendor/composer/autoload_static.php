@@ -152,6 +152,7 @@ class ComposerStaticInit9559eef123208b7d1b9c15b978567267_backupⓥ1_1_1_alpha
         'Composer\\InstalledVersions' => __DIR__ . '/..' . '/composer/InstalledVersions.php',
         'Initial_State' => __DIR__ . '/../..' . '/src/php/class-initial-state.php',
         'Jetpack_Backup' => __DIR__ . '/../..' . '/src/php/class-jetpack-backup.php',
+        'Jetpack_Backup_Upgrades' => __DIR__ . '/../..' . '/src/php/class-jetpack-backup-upgrades.php',
         'Jetpack_IXR_Client' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-connection/legacy/class-jetpack-ixr-client.php',
         'Jetpack_IXR_ClientMulticall' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-connection/legacy/class-jetpack-ixr-clientmulticall.php',
         'Jetpack_Options' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-options/legacy/class-jetpack-options.php',

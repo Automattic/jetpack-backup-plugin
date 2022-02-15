@@ -132,6 +132,7 @@ return array(
     'Composer\\InstalledVersions' => $vendorDir . '/composer/InstalledVersions.php',
     'Initial_State' => $baseDir . '/src/php/class-initial-state.php',
     'Jetpack_Backup' => $baseDir . '/src/php/class-jetpack-backup.php',
+    'Jetpack_Backup_Upgrades' => $baseDir . '/src/php/class-jetpack-backup-upgrades.php',
     'Jetpack_IXR_Client' => $baseDir . '/jetpack_vendor/automattic/jetpack-connection/legacy/class-jetpack-ixr-client.php',
     'Jetpack_IXR_ClientMulticall' => $baseDir . '/jetpack_vendor/automattic/jetpack-connection/legacy/class-jetpack-ixr-clientmulticall.php',
     'Jetpack_Options' => $baseDir . '/jetpack_vendor/automattic/jetpack-options/legacy/class-jetpack-options.php',

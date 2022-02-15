@@ -26,6 +26,10 @@ return array(
 		'version' => '2.10.9999999.9999999-dev',
 		'path'    => $vendorDir . '/automattic/jetpack-autoloader/src/ManifestGenerator.php'
 	),
+	'Jetpack_Backup_Upgrades' => array(
+		'version' => 'dev-master',
+		'path'    => $baseDir . '/src/php/class-jetpack-backup-upgrades.php'
+	),
 	'Jetpack_Backup' => array(
 		'version' => 'dev-master',
 		'path'    => $baseDir . '/src/php/class-jetpack-backup.php'
