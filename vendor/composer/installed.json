@@ -7,7 +7,7 @@
             "dist": {
                 "type": "path",
                 "url": "/tmp/jetpack-build/Automattic/jetpack-a8c-mc-stats",
-                "reference": "0aaa7a207d3d1ee2992a02bc2256c8913154f63e"
+                "reference": "38d8639f201d949b0a808098f699d0e1e0ceeced"
             },
             "require-dev": {
                 "automattic/jetpack-changelogger": "^3.0",
@@ -46,7 +46,6 @@
             ],
             "description": "Used to record internal usage stats for Automattic. Not visible to site owners.",
             "transport-options": {
-                "monorepo": true,
                 "relative": false
             },
             "install-path": "../../jetpack_vendor/automattic/jetpack-a8c-mc-stats"
@@ -58,7 +57,7 @@
             "dist": {
                 "type": "path",
                 "url": "/tmp/jetpack-build/Automattic/jetpack-admin-ui",
-                "reference": "b7934ddf185cc39b6933ee2b124f2d4619f24250"
+                "reference": "79928caa79aa228a26180e6b34a44ccae4d180cb"
             },
             "require-dev": {
                 "automattic/jetpack-changelogger": "^3.0",
@@ -105,7 +104,6 @@
             ],
             "description": "Generic Jetpack wp-admin UI elements",
             "transport-options": {
-                "monorepo": true,
                 "relative": false
             },
             "install-path": "../../jetpack_vendor/automattic/jetpack-admin-ui"
@@ -117,7 +115,7 @@
             "dist": {
                 "type": "path",
                 "url": "/tmp/jetpack-build/Automattic/jetpack-assets",
-                "reference": "84b033f53bd4e963a4180fd1055699f5b3e9f55f"
+                "reference": "4c8a935ed108d78db23ee8dacefb237ad4cc4d21"
             },
             "require": {
                 "automattic/jetpack-constants": "^1.6"
@@ -175,7 +173,6 @@
             ],
             "description": "Asset management utilities for Jetpack ecosystem packages",
             "transport-options": {
-                "monorepo": true,
                 "relative": false
             },
             "install-path": "../../jetpack_vendor/automattic/jetpack-assets"
@@ -187,7 +184,7 @@
             "dist": {
                 "type": "path",
                 "url": "/tmp/jetpack-build/Automattic/jetpack-autoloader",
-                "reference": "46ec4c591f17bc3e8401f6d143603b9925ed0d55"
+                "reference": "7beb2257b5fe028841fbee003ac1ce57e5f009f6"
             },
             "require": {
                 "composer-plugin-api": "^1.1 || ^2.0"
@@ -234,7 +231,6 @@
             ],
             "description": "Creates a custom autoloader for a plugin or theme.",
             "transport-options": {
-                "monorepo": true,
                 "relative": false
             },
             "install-path": "../automattic/jetpack-autoloader"
@@ -246,7 +242,7 @@
             "dist": {
                 "type": "path",
                 "url": "/tmp/jetpack-build/Automattic/jetpack-backup",
-                "reference": "47462fddd52d898e4c4093c0582b6cd44488609c"
+                "reference": "eb1bbf37a1e5c425df0660579a1cedac65acff85"
             },
             "require": {
                 "automattic/jetpack-connection": "^1.36",
@@ -300,7 +296,6 @@
             ],
             "description": "Tools to assist with backing up Jetpack sites.",
             "transport-options": {
-                "monorepo": true,
                 "relative": false
             },
             "install-path": "../../jetpack_vendor/automattic/jetpack-backup"
@@ -312,7 +307,7 @@
             "dist": {
                 "type": "path",
                 "url": "/tmp/jetpack-build/Automattic/jetpack-composer-plugin",
-                "reference": "e3dc4f34c5794af3646a45b267309185e9093430"
+                "reference": "ddefb090f0ac98e16c2307446d94b0dace9c8a04"
             },
             "require": {
                 "composer-plugin-api": "^2.1.0"
@@ -356,7 +351,6 @@
             ],
             "description": "A custom installer plugin for Composer to move Jetpack packages out of `vendor/` so WordPress's translation infrastructure will find their strings.",
             "transport-options": {
-                "monorepo": true,
                 "relative": false
             },
             "install-path": "../automattic/jetpack-composer-plugin"
@@ -368,7 +362,7 @@
             "dist": {
                 "type": "path",
                 "url": "/tmp/jetpack-build/Automattic/jetpack-config",
-                "reference": "4324f29c633d602e3b21f2631a740d0f6fd9a6fd"
+                "reference": "a5f6e740e0d3242991a912243c044ed43927bd6f"
             },
             "require-dev": {
                 "automattic/jetpack-changelogger": "^3.0"
@@ -396,7 +390,6 @@
             ],
             "description": "Jetpack configuration package that initializes other packages and configures Jetpack's functionality. Can be used as a base for all variants of Jetpack package usage.",
             "transport-options": {
-                "monorepo": true,
                 "relative": false
             },
             "install-path": "../../jetpack_vendor/automattic/jetpack-config"
@@ -408,7 +401,7 @@
             "dist": {
                 "type": "path",
                 "url": "/tmp/jetpack-build/Automattic/jetpack-connection",
-                "reference": "6d8cd5fe12b1c97d09ff9ce97ba0d3e8e5b8d262"
+                "reference": "cdbbe3d5712f9df5e5240e1c60673b798675d563"
             },
             "require": {
                 "automattic/jetpack-a8c-mc-stats": "^1.4",
@@ -468,7 +461,6 @@
             ],
             "description": "Everything needed to connect to the Jetpack infrastructure",
             "transport-options": {
-                "monorepo": true,
                 "relative": false
             },
             "install-path": "../../jetpack_vendor/automattic/jetpack-connection"
@@ -480,7 +472,7 @@
             "dist": {
                 "type": "path",
                 "url": "/tmp/jetpack-build/Automattic/jetpack-connection-ui",
-                "reference": "f5b0d460ea719292604898b244412e709ef54378"
+                "reference": "09f68e731dbc4e09d51649e546b0f8e06ae0ee4b"
             },
             "require": {
                 "automattic/jetpack-assets": "^1.17",
@@ -527,7 +519,6 @@
             ],
             "description": "Jetpack Connection UI",
             "transport-options": {
-                "monorepo": true,
                 "relative": false
             },
             "install-path": "../../jetpack_vendor/automattic/jetpack-connection-ui"
@@ -539,7 +530,7 @@
             "dist": {
                 "type": "path",
                 "url": "/tmp/jetpack-build/Automattic/jetpack-constants",
-                "reference": "592ccf774ebad1c41d9f2fedfd24bca0f23a8a84"
+                "reference": "0e9b4bd366648353c7fd9f839435e5c8c29e8609"
             },
             "require-dev": {
                 "automattic/jetpack-changelogger": "^3.0",
@@ -579,7 +570,6 @@
             ],
             "description": "A wrapper for defining constants in a more testable way.",
             "transport-options": {
-                "monorepo": true,
                 "relative": false
             },
             "install-path": "../../jetpack_vendor/automattic/jetpack-constants"
@@ -591,7 +581,7 @@
             "dist": {
                 "type": "path",
                 "url": "/tmp/jetpack-build/Automattic/jetpack-device-detection",
-                "reference": "a759956c6ddc16746434de85b58d8a69f12b90d3"
+                "reference": "311be8ccc2b418bafebea093e2dfac87fcf21087"
             },
             "require-dev": {
                 "automattic/jetpack-changelogger": "^3.0",
@@ -630,7 +620,6 @@
             ],
             "description": "A way to detect device types based on User-Agent header.",
             "transport-options": {
-                "monorepo": true,
                 "relative": false
             },
             "install-path": "../../jetpack_vendor/automattic/jetpack-device-detection"
@@ -642,7 +631,7 @@
             "dist": {
                 "type": "path",
                 "url": "/tmp/jetpack-build/Automattic/jetpack-heartbeat",
-                "reference": "23e1386d446eed8d88b12b92dd0a6478690c0b40"
+                "reference": "a229b471bf8fc97d8591ead45e9456aa48a2bf27"
             },
             "require": {
                 "automattic/jetpack-a8c-mc-stats": "^1.4",
@@ -674,7 +663,6 @@
             ],
             "description": "This adds a cronjob that sends a batch of internal automattic stats to wp.com once a day",
             "transport-options": {
-                "monorepo": true,
                 "relative": false
             },
             "install-path": "../../jetpack_vendor/automattic/jetpack-heartbeat"
@@ -686,7 +674,7 @@
             "dist": {
                 "type": "path",
                 "url": "/tmp/jetpack-build/Automattic/jetpack-identity-crisis",
-                "reference": "abd553578c980836e472a8f598dce719c5ddbf4d"
+                "reference": "7e86efe098b79298378c9e0862678a94a1c5f7fc"
             },
             "require": {
                 "automattic/jetpack-assets": "^1.17",
@@ -752,7 +740,6 @@
             ],
             "description": "Identity Crisis.",
             "transport-options": {
-                "monorepo": true,
                 "relative": false
             },
             "install-path": "../../jetpack_vendor/automattic/jetpack-identity-crisis"
@@ -764,7 +751,7 @@
             "dist": {
                 "type": "path",
                 "url": "/tmp/jetpack-build/Automattic/jetpack-logo",
-                "reference": "15f9c9bd0448665399f5a54661fa5f90b1fb9ea7"
+                "reference": "4db2b9b711883be6a44f32360140c37a1b83f4d2"
             },
             "require-dev": {
                 "automattic/jetpack-changelogger": "^3.0",
@@ -803,7 +790,6 @@
             ],
             "description": "A logo for Jetpack",
             "transport-options": {
-                "monorepo": true,
                 "relative": false
             },
             "install-path": "../../jetpack_vendor/automattic/jetpack-logo"
@@ -815,7 +801,7 @@
             "dist": {
                 "type": "path",
                 "url": "/tmp/jetpack-build/Automattic/jetpack-my-jetpack",
-                "reference": "30a2f7e34100ec5388b8b798f8c76324eb2f804b"
+                "reference": "1e0443bf3cb685ae5733e24770d3e2fa95c8adcc"
             },
             "require": {
                 "automattic/jetpack-admin-ui": "^0.2",
@@ -892,7 +878,6 @@
             ],
             "description": "WP Admin page with information and configuration shared among all Jetpack stand-alone plugins",
             "transport-options": {
-                "monorepo": true,
                 "relative": false
             },
             "install-path": "../../jetpack_vendor/automattic/jetpack-my-jetpack"
@@ -904,7 +889,7 @@
             "dist": {
                 "type": "path",
                 "url": "/tmp/jetpack-build/Automattic/jetpack-options",
-                "reference": "0a279d6a987df989a3ce9c7eb521235387e1193a"
+                "reference": "35f0d15502cd3eae5ce22d0529f6e090fa83d690"
             },
             "require": {
                 "automattic/jetpack-constants": "^1.6"
@@ -935,7 +920,6 @@
             ],
             "description": "A wrapper for wp-options to manage specific Jetpack options.",
             "transport-options": {
-                "monorepo": true,
                 "relative": false
             },
             "install-path": "../../jetpack_vendor/automattic/jetpack-options"
@@ -947,7 +931,7 @@
             "dist": {
                 "type": "path",
                 "url": "/tmp/jetpack-build/Automattic/jetpack-password-checker",
-                "reference": "405098d2af6c6a0aba0dc8b56904ecc09ba0b65d"
+                "reference": "e5f04ad59c7e3f065586aee41e720bd5ed2bec43"
             },
             "require-dev": {
                 "automattic/jetpack-changelogger": "^3.0",
@@ -991,7 +975,6 @@
             ],
             "description": "Password Checker.",
             "transport-options": {
-                "monorepo": true,
                 "relative": false
             },
             "install-path": "../../jetpack_vendor/automattic/jetpack-password-checker"
@@ -1003,7 +986,7 @@
             "dist": {
                 "type": "path",
                 "url": "/tmp/jetpack-build/Automattic/jetpack-plugins-installer",
-                "reference": "3f86393dbca581c39d075f59931ebeca6d45785b"
+                "reference": "74e4e3911d96f0dede658fab6c7e67973d86b5a0"
             },
             "require": {
                 "automattic/jetpack-a8c-mc-stats": "^1.4"
@@ -1046,7 +1029,6 @@
             ],
             "description": "Handle installation of plugins from WP.org",
             "transport-options": {
-                "monorepo": true,
                 "relative": false
             },
             "install-path": "../automattic/jetpack-plugins-installer"
@@ -1058,7 +1040,7 @@
             "dist": {
                 "type": "path",
                 "url": "/tmp/jetpack-build/Automattic/jetpack-redirect",
-                "reference": "63dce07334abc3fddad99616f0ee857aa0e02036"
+                "reference": "425882ecbabf9e4eb49ce0d4e29e841464440794"
             },
             "require": {
                 "automattic/jetpack-status": "^1.10"
@@ -1101,7 +1083,6 @@
             ],
             "description": "Utilities to build URLs to the jetpack.com/redirect/ service",
             "transport-options": {
-                "monorepo": true,
                 "relative": false
             },
             "install-path": "../../jetpack_vendor/automattic/jetpack-redirect"
@@ -1113,7 +1094,7 @@
             "dist": {
                 "type": "path",
                 "url": "/tmp/jetpack-build/Automattic/jetpack-roles",
-                "reference": "fef9a52f8d0cc1679e491cd610a643c99dfd4453"
+                "reference": "2516cfe8375f716092072d46776845ad52881082"
             },
             "require-dev": {
                 "automattic/jetpack-changelogger": "^3.0",
@@ -1153,7 +1134,6 @@
             ],
             "description": "Utilities, related with user roles and capabilities.",
             "transport-options": {
-                "monorepo": true,
                 "relative": false
             },
             "install-path": "../../jetpack_vendor/automattic/jetpack-roles"
@@ -1165,7 +1145,7 @@
             "dist": {
                 "type": "path",
                 "url": "/tmp/jetpack-build/Automattic/jetpack-status",
-                "reference": "fe9c14fd8861621015d805bbb4876e6e3e6653f6"
+                "reference": "8556cfcfd678a311089a5e23b1c97f180be3d7db"
             },
             "require": {
                 "automattic/jetpack-constants": "^1.6"
@@ -1208,7 +1188,6 @@
             ],
             "description": "Used to retrieve information about the current status of Jetpack and the site overall.",
             "transport-options": {
-                "monorepo": true,
                 "relative": false
             },
             "install-path": "../../jetpack_vendor/automattic/jetpack-status"
@@ -1220,7 +1199,7 @@
             "dist": {
                 "type": "path",
                 "url": "/tmp/jetpack-build/Automattic/jetpack-sync",
-                "reference": "8e68aa0f6b70afaf6b283d2d07179d70043e25dd"
+                "reference": "dace65134ba0616fa97a7156d0b458adb5e3870e"
             },
             "require": {
                 "automattic/jetpack-connection": "^1.36",
@@ -1277,7 +1256,6 @@
             ],
             "description": "Everything needed to allow syncing to the WP.com infrastructure.",
             "transport-options": {
-                "monorepo": true,
                 "relative": false
             },
             "install-path": "../../jetpack_vendor/automattic/jetpack-sync"
@@ -1289,7 +1267,7 @@
             "dist": {
                 "type": "path",
                 "url": "/tmp/jetpack-build/Automattic/jetpack-terms-of-service",
-                "reference": "4c8e86e5083c4c20b473245d1f56e6eb8896136a"
+                "reference": "dbf6f97f094e4c406e111537cb37f7a3cd1b8eb4"
             },
             "require": {
                 "automattic/jetpack-options": "^1.14",
@@ -1333,7 +1311,6 @@
             ],
             "description": "Everything need to manage the terms of service state",
             "transport-options": {
-                "monorepo": true,
                 "relative": false
             },
             "install-path": "../../jetpack_vendor/automattic/jetpack-terms-of-service"
@@ -1345,7 +1322,7 @@
             "dist": {
                 "type": "path",
                 "url": "/tmp/jetpack-build/Automattic/jetpack-tracking",
-                "reference": "98a00df58d64532a1c9c160e1a4af8d1d301f9e5"
+                "reference": "4b38b51d16c9df86dbad486f9b632dfd48bfd6da"
             },
             "require": {
                 "automattic/jetpack-assets": "^1.17",
@@ -1393,7 +1370,6 @@
             ],
             "description": "Tracking for Jetpack",
             "transport-options": {
-                "monorepo": true,
                 "relative": false
             },
             "install-path": "../../jetpack_vendor/automattic/jetpack-tracking"
