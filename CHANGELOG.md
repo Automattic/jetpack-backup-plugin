@@ -50,6 +50,7 @@ This is an alpha version! The changes listed here are not final.
 - update lock files
 
 ### Fixed
+- Backup: Update spacing for all containers
 - Changed price default to null from 0 to fix prop warnings.
 - Correct wrong use of class instead of className prop.
 - update lock file
