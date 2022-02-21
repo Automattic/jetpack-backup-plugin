@@ -5,7 +5,7 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## 1.1.1-alpha - unreleased
+## 1.2.0-alpha - unreleased
 
 This is an alpha version! The changes listed here are not final.
 
@@ -15,6 +15,7 @@ This is an alpha version! The changes listed here are not final.
 ### Changed
 - Dependency Update from sync 1.28 to 1.29
 - General: update required node version to v16.13.2
+- Transition from showing plan and connection status to relying on My Jetpack's presentation for that information
 - Update composer.lock
 - Updated changelog and readme with 1.1.0 version identifier
 - updated lock file
