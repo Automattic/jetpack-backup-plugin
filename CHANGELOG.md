@@ -5,65 +5,17 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## 1.2.0-alpha - unreleased
-
-This is an alpha version! The changes listed here are not final.
-
+## 1.2.0-beta - 2022-02-22
 ### Added
-- Do not disable plugin connection, and fix DB for those who have done it
+- Smarter connection handling when disconnecting.
+- Added My Jetpack.
 
 ### Changed
-- Dependency Update from sync 1.28 to 1.29
-- General: update required node version to v16.13.2
-- Transition from showing plan and connection status to relying on My Jetpack's presentation for that information
-- Update composer.lock
-- Updated changelog and readme with 1.1.0 version identifier
-- updated lock file
-- Updated package dependencies
-- Updated package dependencies
-- Updated package dependencies.
-- Updated package dependencies.
-- Updated package dependencies.
-- Updated package dependencies.
-- Updated package dependencies.
-- Updated package dependencies.
-- Updated package dependencies.
-- Updated package dependencies.
-- Updated package dependencies.
-- Updated package dependencies.
-- Updated package dependencies.
-- Updated package dependencies.
-- Updated package dependencies.
-- Updated package dependencies.
-- Updated package dependencies.
-- Updated package dependencies.
-- Updated package dependencies.
-- Updated package dependencies.
-- Updated package dependencies.
-- Updated package dependencies.
-- Updated package dependencies.
-- Updated package dependencies.
-- Updated package dependencies.
-- Updated package dependencies.
-- Updated package dependencies.
-- Updated package dependencies.
-- Updated package dependencies.
-- Updated package dependencies.
-- Updated package dependencies.
-- Updated package dependencies.
-- Updated package dependencies.
-- Updated package dependencies.
-- Updated package dependencies.
-- update lock file
-- update lock files
+- Updated: Upgraded from Jetpack Sync 1.28 to 1.29
 
 ### Fixed
-- Backup: Update spacing for all containers
-- Changed price default to null from 0 to fix prop warnings.
-- Correct wrong use of class instead of className prop.
-- update lock file
-- update lock files
-- Update root reqs for Jetpack
+- Backup: Update spacing for all containers.
+- Fixed various JavaScript warnings.
 
 ## 1.1.0 - 2022-01-26
 ### Added
