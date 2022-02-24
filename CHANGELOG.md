@@ -12,6 +12,7 @@ This is an alpha version! The changes listed here are not final.
 ### Changed
 - Updated package dependencies.
 - Updated package dependencies.
+- Updated package dependencies.
 
 ## 1.2.0-beta - 2022-02-22
 ### Added
