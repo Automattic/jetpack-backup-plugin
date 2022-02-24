@@ -130,7 +130,7 @@ return array(
     'Automattic\\Jetpack\\Sync\\Simple_Codec' => $baseDir . '/jetpack_vendor/automattic/jetpack-sync/src/class-simple-codec.php',
     'Automattic\\Jetpack\\Sync\\Users' => $baseDir . '/jetpack_vendor/automattic/jetpack-sync/src/class-users.php',
     'Automattic\\Jetpack\\Sync\\Utils' => $baseDir . '/jetpack_vendor/automattic/jetpack-sync/src/class-utils.php',
-    'Automattic\\Jetpack\\Terms_Of_Service' => $baseDir . '/jetpack_vendor/automattic/jetpack-terms-of-service/src/class-terms-of-service.php',
+    'Automattic\\Jetpack\\Terms_Of_Service' => $baseDir . '/jetpack_vendor/automattic/jetpack-connection/src/class-terms-of-service.php',
     'Automattic\\Jetpack\\Tracking' => $baseDir . '/jetpack_vendor/automattic/jetpack-tracking/src/class-tracking.php',
     'Composer\\InstalledVersions' => $vendorDir . '/composer/InstalledVersions.php',
     'Initial_State' => $baseDir . '/src/php/class-initial-state.php',

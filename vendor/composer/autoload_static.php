@@ -150,7 +150,7 @@ class ComposerStaticInit9559eef123208b7d1b9c15b978567267_backupⓥ1_2_1_alpha
         'Automattic\\Jetpack\\Sync\\Simple_Codec' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-sync/src/class-simple-codec.php',
         'Automattic\\Jetpack\\Sync\\Users' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-sync/src/class-users.php',
         'Automattic\\Jetpack\\Sync\\Utils' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-sync/src/class-utils.php',
-        'Automattic\\Jetpack\\Terms_Of_Service' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-terms-of-service/src/class-terms-of-service.php',
+        'Automattic\\Jetpack\\Terms_Of_Service' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-connection/src/class-terms-of-service.php',
         'Automattic\\Jetpack\\Tracking' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-tracking/src/class-tracking.php',
         'Composer\\InstalledVersions' => __DIR__ . '/..' . '/composer/InstalledVersions.php',
         'Initial_State' => __DIR__ . '/../..' . '/src/php/class-initial-state.php',
