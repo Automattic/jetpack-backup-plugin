@@ -142,22 +142,6 @@ return array(
 		'version' => '0.2.4.0',
 		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-admin-ui/src/class-admin-menu.php'
 	),
-	'Automattic\\Jetpack\\Plugins_Installer' => array(
-		'version' => '0.1.0.0',
-		'path'    => $vendorDir . '/automattic/jetpack-plugins-installer/src/class-plugins-installer.php'
-	),
-	'Automattic\\Jetpack\\Automatic_Install_Skin' => array(
-		'version' => '0.1.0.0',
-		'path'    => $vendorDir . '/automattic/jetpack-plugins-installer/src/class-automatic-install-skin.php'
-	),
-	'Automattic\\Jetpack\\Device_Detection' => array(
-		'version' => '1.4.13.0',
-		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-device-detection/src/class-device-detection.php'
-	),
-	'Automattic\\Jetpack\\Device_Detection\\User_Agent_Info' => array(
-		'version' => '1.4.13.0',
-		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-device-detection/src/class-user-agent-info.php'
-	),
 	'Automattic\\Jetpack\\Sync\\Replicastore_Interface' => array(
 		'version' => '1.30.0.0',
 		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-sync/src/interface-replicastore.php'
@@ -369,6 +353,22 @@ return array(
 	'Automattic\\Jetpack\\Sync\\Default_Filter_Settings' => array(
 		'version' => '1.30.0.0',
 		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-sync/src/class-default-filter-settings.php'
+	),
+	'Automattic\\Jetpack\\Plugins_Installer' => array(
+		'version' => '0.1.0.0',
+		'path'    => $vendorDir . '/automattic/jetpack-plugins-installer/src/class-plugins-installer.php'
+	),
+	'Automattic\\Jetpack\\Automatic_Install_Skin' => array(
+		'version' => '0.1.0.0',
+		'path'    => $vendorDir . '/automattic/jetpack-plugins-installer/src/class-automatic-install-skin.php'
+	),
+	'Automattic\\Jetpack\\Device_Detection' => array(
+		'version' => '1.4.13.0',
+		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-device-detection/src/class-device-detection.php'
+	),
+	'Automattic\\Jetpack\\Device_Detection\\User_Agent_Info' => array(
+		'version' => '1.4.13.0',
+		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-device-detection/src/class-user-agent-info.php'
 	),
 	'Automattic\\Jetpack\\Password_Checker' => array(
 		'version' => '0.2.2.0',
