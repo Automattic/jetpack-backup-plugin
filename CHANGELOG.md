@@ -9,20 +9,14 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 This is an alpha version! The changes listed here are not final.
 
-### Changed
-- Updated package dependencies.
-- Updated package dependencies.
-- Updated package dependencies.
-- Updated package dependencies.
-- Updated package dependencies.
-
-## 1.2.0-beta - 2022-02-22
+## 1.2.0 - 2022-02-28
 ### Added
-- Smarter connection handling when disconnecting.
 - Added My Jetpack.
+- Smarter connection handling when disconnecting.
 
 ### Changed
 - Updated: Upgraded from Jetpack Sync 1.28 to 1.29
+- Updated package dependencies.
 
 ### Fixed
 - Backup: Update spacing for all containers.
