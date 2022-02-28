@@ -39,71 +39,71 @@ return array(
 		'path'    => $baseDir . '/src/php/class-initial-state.php'
 	),
 	'Automattic\\Jetpack\\My_Jetpack\\REST_Products' => array(
-		'version' => '0.6.4.0',
+		'version' => '0.6.6.0',
 		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-my-jetpack/src/class-rest-products.php'
 	),
 	'Automattic\\Jetpack\\My_Jetpack\\Wpcom_Products' => array(
-		'version' => '0.6.4.0',
+		'version' => '0.6.6.0',
 		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-my-jetpack/src/class-wpcom-products.php'
 	),
 	'Automattic\\Jetpack\\My_Jetpack\\REST_Purchases' => array(
-		'version' => '0.6.4.0',
+		'version' => '0.6.6.0',
 		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-my-jetpack/src/class-rest-purchases.php'
 	),
 	'Automattic\\Jetpack\\My_Jetpack\\Initializer' => array(
-		'version' => '0.6.4.0',
+		'version' => '0.6.6.0',
 		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-my-jetpack/src/class-initializer.php'
 	),
 	'Automattic\\Jetpack\\My_Jetpack\\Product' => array(
-		'version' => '0.6.4.0',
+		'version' => '0.6.6.0',
 		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-my-jetpack/src/products/class-product.php'
 	),
 	'Automattic\\Jetpack\\My_Jetpack\\Module_Product' => array(
-		'version' => '0.6.4.0',
+		'version' => '0.6.6.0',
 		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-my-jetpack/src/products/class-module-product.php'
 	),
 	'Automattic\\Jetpack\\My_Jetpack\\Products\\Videopress' => array(
-		'version' => '0.6.4.0',
+		'version' => '0.6.6.0',
 		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-my-jetpack/src/products/class-videopress.php'
 	),
 	'Automattic\\Jetpack\\My_Jetpack\\Products\\Boost' => array(
-		'version' => '0.6.4.0',
+		'version' => '0.6.6.0',
 		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-my-jetpack/src/products/class-boost.php'
 	),
 	'Automattic\\Jetpack\\My_Jetpack\\Products\\Search' => array(
-		'version' => '0.6.4.0',
+		'version' => '0.6.6.0',
 		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-my-jetpack/src/products/class-search.php'
 	),
 	'Automattic\\Jetpack\\My_Jetpack\\Products\\Scan' => array(
-		'version' => '0.6.4.0',
+		'version' => '0.6.6.0',
 		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-my-jetpack/src/products/class-scan.php'
 	),
 	'Automattic\\Jetpack\\My_Jetpack\\Products\\Backup' => array(
-		'version' => '0.6.4.0',
+		'version' => '0.6.6.0',
 		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-my-jetpack/src/products/class-backup.php'
 	),
 	'Automattic\\Jetpack\\My_Jetpack\\Products\\Security' => array(
-		'version' => '0.6.4.0',
+		'version' => '0.6.6.0',
 		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-my-jetpack/src/products/class-security.php'
 	),
 	'Automattic\\Jetpack\\My_Jetpack\\Products\\Anti_Spam' => array(
-		'version' => '0.6.4.0',
+		'version' => '0.6.6.0',
 		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-my-jetpack/src/products/class-anti-spam.php'
 	),
 	'Automattic\\Jetpack\\My_Jetpack\\Products\\Extras' => array(
-		'version' => '0.6.4.0',
+		'version' => '0.6.6.0',
 		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-my-jetpack/src/products/class-extras.php'
 	),
 	'Automattic\\Jetpack\\My_Jetpack\\Products\\Crm' => array(
-		'version' => '0.6.4.0',
+		'version' => '0.6.6.0',
 		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-my-jetpack/src/products/class-crm.php'
 	),
 	'Automattic\\Jetpack\\My_Jetpack\\Hybrid_Product' => array(
-		'version' => '0.6.4.0',
+		'version' => '0.6.6.0',
 		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-my-jetpack/src/products/class-hybrid-product.php'
 	),
 	'Automattic\\Jetpack\\My_Jetpack\\Products' => array(
-		'version' => '0.6.4.0',
+		'version' => '0.6.6.0',
 		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-my-jetpack/src/class-products.php'
 	),
 	'Automattic\\Jetpack\\ConnectionUI\\Admin' => array(
@@ -141,6 +141,22 @@ return array(
 	'Automattic\\Jetpack\\Admin_UI\\Admin_Menu' => array(
 		'version' => '0.2.4.0',
 		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-admin-ui/src/class-admin-menu.php'
+	),
+	'Automattic\\Jetpack\\Plugins_Installer' => array(
+		'version' => '0.1.0.0',
+		'path'    => $vendorDir . '/automattic/jetpack-plugins-installer/src/class-plugins-installer.php'
+	),
+	'Automattic\\Jetpack\\Automatic_Install_Skin' => array(
+		'version' => '0.1.0.0',
+		'path'    => $vendorDir . '/automattic/jetpack-plugins-installer/src/class-automatic-install-skin.php'
+	),
+	'Automattic\\Jetpack\\Device_Detection' => array(
+		'version' => '1.4.13.0',
+		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-device-detection/src/class-device-detection.php'
+	),
+	'Automattic\\Jetpack\\Device_Detection\\User_Agent_Info' => array(
+		'version' => '1.4.13.0',
+		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-device-detection/src/class-user-agent-info.php'
 	),
 	'Automattic\\Jetpack\\Sync\\Replicastore_Interface' => array(
 		'version' => '1.30.0.0',
@@ -354,22 +370,6 @@ return array(
 		'version' => '1.30.0.0',
 		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-sync/src/class-default-filter-settings.php'
 	),
-	'Automattic\\Jetpack\\Plugins_Installer' => array(
-		'version' => '0.1.0.0',
-		'path'    => $vendorDir . '/automattic/jetpack-plugins-installer/src/class-plugins-installer.php'
-	),
-	'Automattic\\Jetpack\\Automatic_Install_Skin' => array(
-		'version' => '0.1.0.0',
-		'path'    => $vendorDir . '/automattic/jetpack-plugins-installer/src/class-automatic-install-skin.php'
-	),
-	'Automattic\\Jetpack\\Device_Detection' => array(
-		'version' => '1.4.13.0',
-		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-device-detection/src/class-device-detection.php'
-	),
-	'Automattic\\Jetpack\\Device_Detection\\User_Agent_Info' => array(
-		'version' => '1.4.13.0',
-		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-device-detection/src/class-user-agent-info.php'
-	),
 	'Automattic\\Jetpack\\Password_Checker' => array(
 		'version' => '0.2.2.0',
 		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-password-checker/src/class-password-checker.php'
@@ -527,15 +527,15 @@ return array(
 		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-terms-of-service/src/class-terms-of-service.php'
 	),
 	'Automattic\\Jetpack\\Status\\Visitor' => array(
-		'version' => '1.11.0.0',
+		'version' => '1.11.2.0',
 		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-status/src/class-visitor.php'
 	),
 	'Automattic\\Jetpack\\Status' => array(
-		'version' => '1.11.0.0',
+		'version' => '1.11.2.0',
 		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-status/src/class-status.php'
 	),
 	'Automattic\\Jetpack\\Status\\Host' => array(
-		'version' => '1.11.0.0',
+		'version' => '1.11.2.0',
 		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-status/src/class-host.php'
 	),
 	'Jetpack_Options' => array(
