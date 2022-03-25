@@ -14,6 +14,9 @@ This is an alpha version! The changes listed here are not final.
 - Updated package dependencies
 - Updated package dependencies
 
+### Fixed
+- Fixed progress state in admin page to use real site title (name)
+
 ## 1.2.0 - 2022-02-28
 ### Added
 - Added My Jetpack.
