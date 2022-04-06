@@ -157,7 +157,7 @@ class ComposerStaticInit9559eef123208b7d1b9c15b978567267_backupⓥ1_2_1_alpha
         'Automattic\\Jetpack\\Sync\\Users' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-sync/src/class-users.php',
         'Automattic\\Jetpack\\Sync\\Utils' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-sync/src/class-utils.php',
         'Automattic\\Jetpack\\Terms_Of_Service' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-connection/src/class-terms-of-service.php',
-        'Automattic\\Jetpack\\Tracking' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-tracking/src/class-tracking.php',
+        'Automattic\\Jetpack\\Tracking' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-connection/src/class-tracking.php',
         'Composer\\InstalledVersions' => __DIR__ . '/..' . '/composer/InstalledVersions.php',
         'Initial_State' => __DIR__ . '/../..' . '/src/php/class-initial-state.php',
         'Jetpack_Backup' => __DIR__ . '/../..' . '/src/php/class-jetpack-backup.php',
@@ -166,8 +166,8 @@ class ComposerStaticInit9559eef123208b7d1b9c15b978567267_backupⓥ1_2_1_alpha
         'Jetpack_IXR_ClientMulticall' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-connection/legacy/class-jetpack-ixr-clientmulticall.php',
         'Jetpack_Options' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-options/legacy/class-jetpack-options.php',
         'Jetpack_Signature' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-connection/legacy/class-jetpack-signature.php',
-        'Jetpack_Tracks_Client' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-tracking/legacy/class-jetpack-tracks-client.php',
-        'Jetpack_Tracks_Event' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-tracking/legacy/class-jetpack-tracks-event.php',
+        'Jetpack_Tracks_Client' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-connection/legacy/class-jetpack-tracks-client.php',
+        'Jetpack_Tracks_Event' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-connection/legacy/class-jetpack-tracks-event.php',
         'Jetpack_XMLRPC_Server' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-connection/legacy/class-jetpack-xmlrpc-server.php',
     );
 
