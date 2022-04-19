@@ -11,6 +11,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Changed
 - Updated package dependencies
+- Update package.json metadata.
 
 ### Fixed
 - Fixed progress state in admin page to use real site title (name)
