@@ -44,9 +44,13 @@ return array(
       'path' => 'jetpack_vendor/automattic/jetpack-plugins-installer',
       'ver' => '0.1.9999999-dev',
     ),
+    'jetpack-licensing' => array(
+      'path' => 'jetpack_vendor/automattic/jetpack-licensing',
+      'ver' => '1.7.9999999-dev',
+    ),
     'jetpack-my-jetpack' => array(
       'path' => 'jetpack_vendor/automattic/jetpack-my-jetpack',
-      'ver' => '1.1.9999999-dev',
+      'ver' => '1.2.9999999-dev',
     ),
   ),
 );
