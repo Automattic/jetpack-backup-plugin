@@ -13,6 +13,7 @@ This is an alpha version! The changes listed here are not final.
 - Update My Jetpack to require licensing package when licensing UI enabled in My Jetpack
 
 ### Changed
+- Backup plugin UI now lives in the Backup package
 - Updated package dependencies
 - Update package.json metadata.
 
