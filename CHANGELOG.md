@@ -14,6 +14,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Changed
 - Backup plugin UI now lives in the Backup package
+- Janitorial: require a more recent version of WordPress now that WP 6.0 is coming out.
 - Updated package dependencies
 - Update package.json metadata.
 
