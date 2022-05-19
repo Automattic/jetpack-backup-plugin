@@ -5,21 +5,13 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## 1.3.0-alpha - unreleased
-
-This is an alpha version! The changes listed here are not final.
-
-### Added
-- Update My Jetpack to require licensing package when licensing UI enabled in My Jetpack
-
+## 1.3.0 - 2022-05-19
 ### Changed
-- Backup plugin UI now lives in the Backup package
-- Janitorial: require a more recent version of WordPress now that WP 6.0 is coming out.
+- Now requires WordPress 5.9 since WordPress 6.0 is just around the corner.
 - Updated package dependencies
-- Update package.json metadata.
 
 ### Fixed
-- Fixed progress state in admin page to use real site title (name)
+- Fixed progress state in admin page to use real site title.
 
 ## 1.2.0 - 2022-02-28
 ### Added
