@@ -27,27 +27,27 @@ return array(
 		'path'    => $vendorDir . '/automattic/jetpack-autoloader/src/AutoloadFileWriter.php'
 	),
 	'Automattic\\Jetpack\\Backup\\REST_Controller' => array(
-		'version' => '1.3.4.0',
+		'version' => '1.3.5.0',
 		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-backup/src/class-rest-controller.php'
 	),
 	'Automattic\\Jetpack\\Backup\\Initial_State' => array(
-		'version' => '1.3.4.0',
+		'version' => '1.3.5.0',
 		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-backup/src/class-initial-state.php'
 	),
 	'Automattic\\Jetpack\\Backup\\Package_Version' => array(
-		'version' => '1.3.4.0',
+		'version' => '1.3.5.0',
 		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-backup/src/class-package-version.php'
 	),
 	'Jetpack_Backup' => array(
-		'version' => '1.3.4.0',
+		'version' => '1.3.5.0',
 		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-backup/src/class-jetpack-backup.php'
 	),
 	'Automattic\\Jetpack\\Backup\\Helper_Script_Manager' => array(
-		'version' => '1.3.4.0',
+		'version' => '1.3.5.0',
 		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-backup/src/class-helper-script-manager.php'
 	),
 	'Automattic\\Jetpack\\Backup\\Jetpack_Backup_Upgrades' => array(
-		'version' => '1.3.4.0',
+		'version' => '1.3.5.0',
 		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-backup/src/class-jetpack-backup-upgrades.php'
 	),
 	'Automattic\\Jetpack\\Sync\\Dedicated_Sender' => array(
