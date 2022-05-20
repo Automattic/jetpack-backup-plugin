@@ -20,10 +20,6 @@ return array(
       'path' => 'jetpack_vendor/automattic/jetpack-assets',
       'ver' => '1.17.14',
     ),
-    'jetpack-idc' => array(
-      'path' => 'jetpack_vendor/automattic/jetpack-identity-crisis',
-      'ver' => '0.8.11',
-    ),
     'jetpack-plugins-installer' => array(
       'path' => 'jetpack_vendor/automattic/jetpack-plugins-installer',
       'ver' => '0.1.2',
@@ -43,6 +39,10 @@ return array(
     'jetpack-backup-pkg' => array(
       'path' => 'jetpack_vendor/automattic/jetpack-backup',
       'ver' => '1.3.4',
+    ),
+    'jetpack-idc' => array(
+      'path' => 'jetpack_vendor/automattic/jetpack-identity-crisis',
+      'ver' => '0.8.11',
     ),
     'jetpack-sync' => array(
       'path' => 'jetpack_vendor/automattic/jetpack-sync',
