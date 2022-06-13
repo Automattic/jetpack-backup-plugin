@@ -12,6 +12,9 @@ This is an alpha version! The changes listed here are not final.
 ### Added
 - Added Social card to My Jetpack.
 
+### Changed
+- Updated package dependencies.
+
 ## 1.3.0 - 2022-05-19
 ### Changed
 - Now requires WordPress 5.9 since WordPress 6.0 is just around the corner.
