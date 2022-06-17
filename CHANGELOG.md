@@ -13,6 +13,7 @@ This is an alpha version! The changes listed here are not final.
 - Added Social card to My Jetpack.
 
 ### Changed
+- Renaming master to trunk.
 - Updated package dependencies.
 
 ## 1.3.0 - 2022-05-19
