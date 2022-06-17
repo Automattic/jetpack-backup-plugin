@@ -14,6 +14,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Changed
 - Renaming master to trunk.
+- Renaming `master` references to `trunk`
 - Updated package dependencies.
 
 ## 1.3.0 - 2022-05-19
