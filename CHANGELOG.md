@@ -5,16 +5,12 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## 1.4.0-alpha - unreleased
-
-This is an alpha version! The changes listed here are not final.
-
+## 1.4.0 - 2022-06-28
 ### Added
 - Added Social card to My Jetpack.
 
 ### Changed
-- Renaming master to trunk.
-- Renaming `master` references to `trunk`
+- Renamed main branch `master` references to `trunk`
 - Updated package dependencies.
 
 ## 1.3.0 - 2022-05-19
