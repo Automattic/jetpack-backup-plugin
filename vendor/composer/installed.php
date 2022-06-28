@@ -79,7 +79,7 @@
             'type' => 'jetpack-library',
             'install_path' => __DIR__ . '/../../jetpack_vendor/automattic/jetpack-config',
             'aliases' => array(),
-            'reference' => 'bdbc7bc38fecbea97f5182a74ea14788a1882fe8',
+            'reference' => '7831330456dd49e9813b35d0fb210301df2bf1b7',
             'dev_requirement' => false,
         ),
         'automattic/jetpack-connection' => array(
