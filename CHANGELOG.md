@@ -12,6 +12,9 @@ This is an alpha version! The changes listed here are not final.
 ### Added
 - Init 1.4.1 cycle
 
+### Changed
+- Plugin activation: Only redirect when activating from the Plugins page in the browser
+
 ## 1.4.0 - 2022-06-28
 ### Added
 - Added Social card to My Jetpack.
