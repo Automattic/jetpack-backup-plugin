@@ -11,6 +11,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Added
 - Init 1.4.1 cycle
+- My Jetpack includes JITMs
 
 ### Changed
 - Plugin activation: Only redirect when activating from the Plugins page in the browser
