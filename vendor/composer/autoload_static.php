@@ -45,8 +45,6 @@ class ComposerStaticInit9559eef123208b7d1b9c15b978567267_backupⓥ1_4_2_alpha
         'Automattic\\Jetpack\\Composer\\Manager' => __DIR__ . '/..' . '/automattic/jetpack-composer-plugin/src/class-manager.php',
         'Automattic\\Jetpack\\Composer\\Plugin' => __DIR__ . '/..' . '/automattic/jetpack-composer-plugin/src/class-plugin.php',
         'Automattic\\Jetpack\\Config' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-config/src/class-config.php',
-        'Automattic\\Jetpack\\ConnectionUI\\Admin' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-connection-ui/src/class-admin.php',
-        'Automattic\\Jetpack\\ConnectionUI\\Initial_State' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-connection-ui/src/class-initial-state.php',
         'Automattic\\Jetpack\\Connection\\Client' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-connection/src/class-client.php',
         'Automattic\\Jetpack\\Connection\\Error_Handler' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-connection/src/class-error-handler.php',
         'Automattic\\Jetpack\\Connection\\Initial_State' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-connection/src/class-initial-state.php',

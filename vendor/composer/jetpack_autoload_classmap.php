@@ -342,14 +342,6 @@ return array(
 		'version' => '2.1.9999999.9999999-dev',
 		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-my-jetpack/src/products/class-security.php'
 	),
-	'Automattic\\Jetpack\\ConnectionUI\\Admin' => array(
-		'version' => '2.4.9999999.9999999-dev',
-		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-connection-ui/src/class-admin.php'
-	),
-	'Automattic\\Jetpack\\ConnectionUI\\Initial_State' => array(
-		'version' => '2.4.9999999.9999999-dev',
-		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-connection-ui/src/class-initial-state.php'
-	),
 	'Automattic\\Jetpack\\Config' => array(
 		'version' => '1.9.9999999.9999999-dev',
 		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-config/src/class-config.php'

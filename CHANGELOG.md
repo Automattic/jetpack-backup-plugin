@@ -12,6 +12,9 @@ This is an alpha version! The changes listed here are not final.
 ### Changed
 - Updated package dependencies.
 
+### Removed
+- Removed connection-ui package dependency
+
 ## 1.4.1 - 2022-09-08
 ### Added
 - Include contextual notifications from My Jetpack [#22452]
