@@ -12,6 +12,7 @@ This is an alpha version! The changes listed here are not final.
 ### Changed
 - Compatibility: WordPress 6.1 compatibility
 - Updated package dependencies.
+- Update README references from Jetpack Backup to Jetpack VaultPress Backup
 
 ### Removed
 - Removed connection-ui package dependency
