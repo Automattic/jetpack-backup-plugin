@@ -10,6 +10,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 This is an alpha version! The changes listed here are not final.
 
 ### Changed
+- Add real-time backups details in plugin FAQs
 - Compatibility: WordPress 6.1 compatibility
 - Updated package dependencies.
 - Update README references from Jetpack Backup to Jetpack VaultPress Backup
