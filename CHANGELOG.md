@@ -12,6 +12,7 @@ This is an alpha version! The changes listed here are not final.
 ### Changed
 - Add real-time backups details in plugin FAQs
 - Compatibility: WordPress 6.1 compatibility
+- Rename plugin name to Jetpack VaultPress Backup
 - Updated package dependencies.
 - Update README references from Jetpack Backup to Jetpack VaultPress Backup
 
