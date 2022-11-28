@@ -5,19 +5,22 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## 1.4.2-alpha - unreleased
+## 1.4.3-alpha - unreleased
 
 This is an alpha version! The changes listed here are not final.
 
 ### Changed
-- Add real-time backups details in plugin FAQs
-- Compatibility: WordPress 6.1 compatibility
-- Rename plugin name to Jetpack VaultPress Backup
-- Updated package dependencies.
-- Update README references from Jetpack Backup to Jetpack VaultPress Backup
+- Init 1.4.3-alpha
+
+## 1.4.2-beta - 2022-11-28
+### Changed
+- Add real-time backups details in plugin FAQs [#27470]
+- Compatibility: WordPress 6.1 compatibility [#27084]
+- Rename plugin name to Jetpack VaultPress Backup [#27432] [#27411]
+- Updated package dependencies. [#26072]
 
 ### Removed
-- Removed connection-ui package dependency
+- Remove connection-ui package dependency [#26381]
 
 ## 1.4.1 - 2022-09-08
 ### Added
