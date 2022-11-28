@@ -5,7 +5,7 @@
 	"license": "GPL-2.0-or-later",
 	"require": {
 		"automattic/jetpack-autoloader": "^2.11.12",
-		"automattic/jetpack-backup": "^1.10.4-alpha",
+		"automattic/jetpack-backup": "^1.10.4",
 		"automattic/jetpack-composer-plugin": "^1.1.6",
 		"automattic/jetpack-plugins-installer": "^0.2.1"
 	},
@@ -21,10 +21,11 @@
 	"scripts": {
 		"watch": "echo 'This script is actually watching the Jetpack Backup package, not the plugin' && jetpack watch packages/backup"
 	},
+	"repositories": [],
 	"minimum-stability": "dev",
 	"prefer-stable": true,
 	"config": {
-		"autoloader-suffix": "9559eef123208b7d1b9c15b978567267_backupⓥ1_4_2_alpha",
+		"autoloader-suffix": "9559eef123208b7d1b9c15b978567267_backupⓥ1_4_2_beta",
 		"allow-plugins": {
 			"automattic/jetpack-autoloader": true,
 			"automattic/jetpack-composer-plugin": true
