@@ -11,6 +11,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Changed
 - Init 1.4.3-alpha
+- Updated package dependencies.
 
 ## 1.4.2-beta - 2022-11-28
 ### Changed
