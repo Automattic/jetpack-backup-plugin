@@ -10,10 +10,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 This is an alpha version! The changes listed here are not final.
 
 ### Changed
+- Backport changelog and readme from release
 - Init 1.4.3-alpha
 - Updated package dependencies.
 
-## 1.4.2-beta - 2022-11-28
+## 1.4.2 - 2022-12-06
 ### Changed
 - Add real-time backups details in plugin FAQs [#27470]
 - Compatibility: WordPress 6.1 compatibility [#27084]
