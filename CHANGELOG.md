@@ -12,6 +12,7 @@ This is an alpha version! The changes listed here are not final.
 ### Changed
 - Backport changelog and readme from release
 - Init 1.4.3-alpha
+- Update Backup logo
 - Updated package dependencies.
 
 ## 1.4.2 - 2022-12-06
