@@ -245,7 +245,7 @@
             "dist": {
                 "type": "path",
                 "url": "/tmp/jetpack-build/Automattic/jetpack-backup",
-                "reference": "c770129d9af29f4c9f32a897410a3232206bf154"
+                "reference": "756e7e74e1abc5b6b5b5d555fc2e63dc7338778f"
             },
             "require": {
                 "automattic/jetpack-admin-ui": "^0.2.15-alpha",
@@ -293,6 +293,9 @@
                 ],
                 "test-coverage": [
                     "php -dpcov.directory=. ./vendor/bin/phpunit --coverage-clover \"$COVERAGE_DIR/clover.xml\""
+                ],
+                "test-js": [
+                    "pnpm run test"
                 ],
                 "test-php": [
                     "@composer phpunit"
