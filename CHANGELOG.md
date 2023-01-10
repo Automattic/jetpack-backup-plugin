@@ -9,12 +9,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 This is an alpha version! The changes listed here are not final.
 
+## 1.4.3 - 2023-01-10
 ### Changed
-- Updated readme
-
-## 1.4.3-beta - 2023-01-02
-### Changed
-- Update Backup logo [#27802]
+- Updated Backup logo. [#27802]
 - Updated package dependencies. [#27688, #27874]
 
 ## 1.4.2 - 2022-12-06
