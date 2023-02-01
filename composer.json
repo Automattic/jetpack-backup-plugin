@@ -37,7 +37,7 @@
 		"autotagger": {
 			"v": false
 		},
-		"release-branch-prefix": "backup",
+		"release-branch-prefix": "jetpack",
 		"wp-plugin-slug": "jetpack-backup",
 		"wp-svn-autopublish": true
 	},
