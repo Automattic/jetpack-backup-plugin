@@ -9,7 +9,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 This is an alpha version! The changes listed here are not final.
 
-## 1.4.4-beta - 2023-02-01
+## 1.4.4 - 2023-02-07
 ### Changed
 - Updated package dependencies. [#28218]
 
