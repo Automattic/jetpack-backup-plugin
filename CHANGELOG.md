@@ -11,6 +11,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Changed
 - Backup: Update description headline, add video
+- Updated package dependencies.
 
 ## 1.4.4 - 2023-02-07
 ### Changed
