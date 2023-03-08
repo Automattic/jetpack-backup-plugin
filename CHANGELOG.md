@@ -9,7 +9,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 This is an alpha version! The changes listed here are not final.
 
-## 1.5 - 2023-03-07
+## 1.5-beta - 2023-02-28
 ### Changed
 - Backup: Update description headline, add video [#28890]
 - Updated package dependencies. [#28910]
