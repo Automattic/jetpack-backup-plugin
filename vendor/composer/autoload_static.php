@@ -74,6 +74,7 @@ class ComposerStaticInit9559eef123208b7d1b9c15b978567267_backupⓥ1_6_alpha
         'Automattic\\Jetpack\\Errors' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-status/src/class-errors.php',
         'Automattic\\Jetpack\\Files' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-status/src/class-files.php',
         'Automattic\\Jetpack\\Heartbeat' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-connection/src/class-heartbeat.php',
+        'Automattic\\Jetpack\\IP\\Utils' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-ip/src/class-utils.php',
         'Automattic\\Jetpack\\IdentityCrisis\\REST_Endpoints' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-identity-crisis/src/class-rest-endpoints.php',
         'Automattic\\Jetpack\\IdentityCrisis\\UI' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-identity-crisis/src/class-ui.php',
         'Automattic\\Jetpack\\Identity_Crisis' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-identity-crisis/src/class-identity-crisis.php',
