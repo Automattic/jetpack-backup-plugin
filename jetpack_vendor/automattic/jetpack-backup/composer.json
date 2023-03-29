@@ -6,13 +6,13 @@
 	"require": {
 		"automattic/jetpack-assets": "^1.17.34",
 		"automattic/jetpack-admin-ui": "^0.2.17",
-		"automattic/jetpack-autoloader": "^2.11.16",
+		"automattic/jetpack-autoloader": "^2.11.18",
 		"automattic/jetpack-composer-plugin": "^1.1.10",
-		"automattic/jetpack-config": "^1.14.0",
-		"automattic/jetpack-connection": "^1.51.2",
+		"automattic/jetpack-config": "^1.15.1",
+		"automattic/jetpack-connection": "^1.51.4",
 		"automattic/jetpack-identity-crisis": "^0.8.40",
-		"automattic/jetpack-sync": "^1.47.3",
-		"automattic/jetpack-status": "^1.16.2"
+		"automattic/jetpack-sync": "^1.47.4",
+		"automattic/jetpack-status": "^1.16.3"
 	},
 	"require-dev": {
 		"automattic/jetpack-changelogger": "^3.3.2",
