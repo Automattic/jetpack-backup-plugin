@@ -12,7 +12,7 @@ This is an alpha version! The changes listed here are not final.
 ### Changed
 - Updated package dependencies.
 
-## 1.6-beta - 2023-03-28
+## 1.6 - 2023-04-04
 ### Changed
 - General: indicate full compatibility with the latest version of WordPress, 6.2. [#29341]
 - Updated package dependencies. [#29434]
