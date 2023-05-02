@@ -10,8 +10,8 @@
 		"automattic/jetpack-composer-plugin": "^1.1.10",
 		"automattic/jetpack-config": "^1.15.2",
 		"automattic/jetpack-connection": "^1.51.8-alpha",
-		"automattic/jetpack-identity-crisis": "^0.8.45-alpha",
-		"automattic/jetpack-sync": "^1.47.7",
+		"automattic/jetpack-identity-crisis": "^0.8.46-alpha",
+		"automattic/jetpack-sync": "^1.47.9-alpha",
 		"automattic/jetpack-status": "^1.17.0"
 	},
 	"require-dev": {
