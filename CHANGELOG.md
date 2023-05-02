@@ -9,9 +9,10 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 This is an alpha version! The changes listed here are not final.
 
 ### Changed
+- Amended changelogs.
 - Remove conditional rendering from zendesk chat widget component due to it being handled by an api endpoint now
 
-## 1.7-beta - 2023-04-25
+## 1.7 - 2023-05-02
 ### Changed
 - Updated package dependencies. [#29565]
 - Update WordPress version requirements. Now requires version 6.1. [#30120]
