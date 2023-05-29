@@ -4,15 +4,14 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
-## [1.8-alpha] - unreleased
+## [1.9-alpha] - unreleased
 
 This is an alpha version! The changes listed here are not final.
 
+## [1.8-beta] - 2023-05-29
 ### Changed
-- Amended changelogs.
-- General: update link references to releases in changelog.
-- Remove conditional rendering from zendesk chat widget component due to it being handled by an api endpoint now
-- Updated package dependencies.
+- General: update link references to releases in changelog. [#30634]
+- Updated package dependencies. [#30493]
 
 ## 1.7 - 2023-05-02
 ### Changed
@@ -170,4 +169,5 @@ This is an alpha version! The changes listed here are not final.
 ### Fixed
 - Use `absoluteRuntime` in babel JS build to avoid module not found errors.
 
-[1.8-alpha]: https://github.com/Automattic/jetpack-backup-plugin/compare/1.7...1.8-alpha
+[1.9-alpha]: https://github.com/Automattic/jetpack-backup-plugin/compare/1.8-beta...1.9-alpha
+[1.8-beta]: https://github.com/Automattic/jetpack-backup-plugin/compare/1.7...1.8-beta
