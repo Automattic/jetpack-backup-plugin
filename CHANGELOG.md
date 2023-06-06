@@ -8,6 +8,9 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
 This is an alpha version! The changes listed here are not final.
 
+### Changed
+- Update connection module to have an RNA option that updates the design
+
 ## [1.8] - 2023-06-06
 ### Changed
 - General: update link references to releases in changelog. [#30634]
