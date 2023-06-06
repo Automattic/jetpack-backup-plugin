@@ -8,7 +8,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
 This is an alpha version! The changes listed here are not final.
 
-## [1.8-beta] - 2023-05-29
+## [1.8] - 2023-06-06
 ### Changed
 - General: update link references to releases in changelog. [#30634]
 - Updated package dependencies. [#30493]
@@ -169,5 +169,5 @@ This is an alpha version! The changes listed here are not final.
 ### Fixed
 - Use `absoluteRuntime` in babel JS build to avoid module not found errors.
 
-[1.9-alpha]: https://github.com/Automattic/jetpack-backup-plugin/compare/1.8-beta...1.9-alpha
-[1.8-beta]: https://github.com/Automattic/jetpack-backup-plugin/compare/1.7...1.8-beta
+[1.9-alpha]: https://github.com/Automattic/jetpack-backup-plugin/compare/1.8...1.9-alpha
+[1.8]: https://github.com/Automattic/jetpack-backup-plugin/compare/1.7...1.8
