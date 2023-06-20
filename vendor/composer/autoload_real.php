@@ -32,25 +32,18 @@ class ComposerAutoloaderInit9559eef123208b7d1b9c15b978567267_backupⓥ1_9_alpha
         $loader->setClassMapAuthoritative(true);
         $loader->register(true);
 
-        $includeFiles = \Composer\Autoload\ComposerStaticInit9559eef123208b7d1b9c15b978567267_backupⓥ1_9_alpha::$files;
-        foreach ($includeFiles as $fileIdentifier => $file) {
-            composerRequire9559eef123208b7d1b9c15b978567267_backupⓥ1_9_alpha($fileIdentifier, $file);
+        $filesToLoad = \Composer\Autoload\ComposerStaticInit9559eef123208b7d1b9c15b978567267_backupⓥ1_9_alpha::$files;
+        $requireFile = \Closure::bind(static function ($fileIdentifier, $file) {
+            if (empty($GLOBALS['__composer_autoload_files'][$fileIdentifier])) {
+                $GLOBALS['__composer_autoload_files'][$fileIdentifier] = true;
+
+                require $file;
+            }
+        }, null, null);
+        foreach ($filesToLoad as $fileIdentifier => $file) {
+            $requireFile($fileIdentifier, $file);
         }
 
         return $loader;
-    }
-}
-
-/**
- * @param string $fileIdentifier
- * @param string $file
- * @return void
- */
-function composerRequire9559eef123208b7d1b9c15b978567267_backupⓥ1_9_alpha($fileIdentifier, $file)
-{
-    if (empty($GLOBALS['__composer_autoload_files'][$fileIdentifier])) {
-        $GLOBALS['__composer_autoload_files'][$fileIdentifier] = true;
-
-        require $file;
     }
 }
