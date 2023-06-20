@@ -13,6 +13,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Changed
 - Update connection module to have an RNA option that updates the design
+- Updated package dependencies.
 
 ## [1.8] - 2023-06-06
 ### Changed
