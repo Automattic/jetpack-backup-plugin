@@ -4,17 +4,14 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
-## [1.9-alpha] - unreleased
-
-This is an alpha version! The changes listed here are not final.
-
+## [1.9-beta] - 2023-06-26
 ### Added
-- Add authentication to zendesk chat widget
-- Add video section to backup connect page
+- Add authentication to Zendesk chat widget [#31339]
+- Add video section to Backup connect page [#31260]
 
 ### Changed
-- Update connection module to have an RNA option that updates the design
-- Updated package dependencies.
+- Update connection module to have an RNA option that updates the design [#31201]
+- Updated package dependencies. [#31308]
 
 ## [1.8] - 2023-06-06
 ### Changed
@@ -177,5 +174,5 @@ This is an alpha version! The changes listed here are not final.
 ### Fixed
 - Use `absoluteRuntime` in babel JS build to avoid module not found errors.
 
-[1.9-alpha]: https://github.com/Automattic/jetpack-backup-plugin/compare/1.8...1.9-alpha
+[1.9-beta]: https://github.com/Automattic/jetpack-backup-plugin/compare/1.8...1.9-beta
 [1.8]: https://github.com/Automattic/jetpack-backup-plugin/compare/1.7...1.8
