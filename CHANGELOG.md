@@ -8,6 +8,9 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
 This is an alpha version! The changes listed here are not final.
 
+### Changed
+- Updated package dependencies.
+
 ## [1.9] - 2023-07-05
 ### Added
 - Add authentication to Zendesk chat widget. [#31339]
