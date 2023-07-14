@@ -63,23 +63,23 @@ return array(
 		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-plugins-installer/src/class-automatic-install-skin.php'
 	),
 	'Automattic\\Jetpack\\Backup\\Helper_Script_Manager' => array(
-		'version' => '1.16.3.0-alpha1689278781',
+		'version' => '1.16.3.0-alpha1689328613',
 		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-backup/src/class-helper-script-manager.php'
 	),
 	'Automattic\\Jetpack\\Backup\\Initial_State' => array(
-		'version' => '1.16.3.0-alpha1689278781',
+		'version' => '1.16.3.0-alpha1689328613',
 		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-backup/src/class-initial-state.php'
 	),
 	'Automattic\\Jetpack\\Backup\\Jetpack_Backup_Upgrades' => array(
-		'version' => '1.16.3.0-alpha1689278781',
+		'version' => '1.16.3.0-alpha1689328613',
 		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-backup/src/class-jetpack-backup-upgrades.php'
 	),
 	'Automattic\\Jetpack\\Backup\\Package_Version' => array(
-		'version' => '1.16.3.0-alpha1689278781',
+		'version' => '1.16.3.0-alpha1689328613',
 		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-backup/src/class-package-version.php'
 	),
 	'Automattic\\Jetpack\\Backup\\REST_Controller' => array(
-		'version' => '1.16.3.0-alpha1689278781',
+		'version' => '1.16.3.0-alpha1689328613',
 		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-backup/src/class-rest-controller.php'
 	),
 	'Automattic\\Jetpack\\Composer\\Manager' => array(
@@ -215,15 +215,15 @@ return array(
 		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-ip/src/class-utils.php'
 	),
 	'Automattic\\Jetpack\\IdentityCrisis\\REST_Endpoints' => array(
-		'version' => '0.8.51.0-alpha1689278781',
+		'version' => '0.8.51.0-alpha1689328613',
 		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-identity-crisis/src/class-rest-endpoints.php'
 	),
 	'Automattic\\Jetpack\\IdentityCrisis\\UI' => array(
-		'version' => '0.8.51.0-alpha1689278781',
+		'version' => '0.8.51.0-alpha1689328613',
 		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-identity-crisis/src/class-ui.php'
 	),
 	'Automattic\\Jetpack\\Identity_Crisis' => array(
-		'version' => '0.8.51.0-alpha1689278781',
+		'version' => '0.8.51.0-alpha1689328613',
 		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-identity-crisis/src/class-identity-crisis.php'
 	),
 	'Automattic\\Jetpack\\JITMS\\JITM' => array(
@@ -623,7 +623,7 @@ return array(
 		'path'    => $vendorDir . '/automattic/jetpack-autoloader/src/class-hook-manager.php'
 	),
 	'Jetpack_Backup' => array(
-		'version' => '1.16.3.0-alpha1689278781',
+		'version' => '1.16.3.0-alpha1689328613',
 		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-backup/src/class-jetpack-backup.php'
 	),
 	'Jetpack_IXR_Client' => array(
