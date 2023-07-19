@@ -9,10 +9,10 @@
 		"automattic/jetpack-autoloader": "^2.11.21",
 		"automattic/jetpack-composer-plugin": "^1.1.11",
 		"automattic/jetpack-config": "^1.15.3",
-		"automattic/jetpack-connection": "^1.54.1-alpha",
+		"automattic/jetpack-connection": "^1.54.1",
 		"automattic/jetpack-identity-crisis": "^0.8.51",
 		"automattic/jetpack-sync": "^1.51.0",
-		"automattic/jetpack-status": "^1.18.0-alpha"
+		"automattic/jetpack-status": "^1.18.0"
 	},
 	"require-dev": {
 		"automattic/jetpack-changelogger": "^3.3.7",
