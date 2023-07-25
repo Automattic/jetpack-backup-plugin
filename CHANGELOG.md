@@ -4,6 +4,10 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
+## [2.1-alpha] - unreleased
+
+This is an alpha version! The changes listed here are not final.
+
 ## [2.0-beta] - 2023-07-25
 ### Changed
 - General: indicate full compatibility with the latest version of WordPress, 6.3. [#31910]
@@ -179,6 +183,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 ### Fixed
 - Use `absoluteRuntime` in babel JS build to avoid module not found errors.
 
+[2.1-alpha]: https://github.com/Automattic/jetpack-backup-plugin/compare/2.0-beta...2.1-alpha
 [2.0-beta]: https://github.com/Automattic/jetpack-backup-plugin/compare/1.9...2.0-beta
 [1.9]: https://github.com/Automattic/jetpack-backup-plugin/compare/1.8...1.9-beta
 [1.8]: https://github.com/Automattic/jetpack-backup-plugin/compare/1.7...1.8
