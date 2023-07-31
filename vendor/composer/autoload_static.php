@@ -164,6 +164,7 @@ class ComposerStaticInit9559eef123208b7d1b9c15b978567267_backupⓥ2_1_alpha
         'Automattic\\Jetpack\\Sync\\Package_Version' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-sync/src/class-package-version.php',
         'Automattic\\Jetpack\\Sync\\Queue' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-sync/src/class-queue.php',
         'Automattic\\Jetpack\\Sync\\Queue\\Queue_Storage_Options' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-sync/src/sync-queue/class-queue-storage-options.php',
+        'Automattic\\Jetpack\\Sync\\Queue\\Queue_Storage_Table' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-sync/src/sync-queue/class-queue-storage-table.php',
         'Automattic\\Jetpack\\Sync\\Queue_Buffer' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-sync/src/class-queue-buffer.php',
         'Automattic\\Jetpack\\Sync\\REST_Endpoints' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-sync/src/class-rest-endpoints.php',
         'Automattic\\Jetpack\\Sync\\REST_Sender' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-sync/src/class-rest-sender.php',
