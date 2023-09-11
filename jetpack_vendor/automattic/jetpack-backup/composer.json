@@ -5,14 +5,14 @@
 	"license": "GPL-2.0-or-later",
 	"require": {
 		"automattic/jetpack-assets": "^1.18.10",
-		"automattic/jetpack-admin-ui": "^0.2.22-alpha",
+		"automattic/jetpack-admin-ui": "^0.2.22",
 		"automattic/jetpack-autoloader": "^2.11.22",
 		"automattic/jetpack-composer-plugin": "^1.1.13",
 		"automattic/jetpack-config": "^1.15.3",
-		"automattic/jetpack-connection": "^1.57.3-alpha",
-		"automattic/jetpack-identity-crisis": "^0.10.4-alpha",
+		"automattic/jetpack-connection": "^1.57.3",
+		"automattic/jetpack-identity-crisis": "^0.10.4",
 		"automattic/jetpack-sync": "^1.57.0-alpha",
-		"automattic/jetpack-status": "^1.18.3-alpha"
+		"automattic/jetpack-status": "^1.18.3"
 	},
 	"require-dev": {
 		"automattic/jetpack-changelogger": "^3.3.8",
