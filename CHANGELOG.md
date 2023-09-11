@@ -10,6 +10,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Changed
 - General: update WordPress version requirements to WordPress 6.2.
+- Updated package dependencies.
 
 ## [2.1] - 2023-08-23
 ### Changed
