@@ -4,7 +4,7 @@
 	"type": "library",
 	"license": "GPL-2.0-or-later",
 	"require": {
-		"automattic/jetpack-autoloader": "^2.11.23",
+		"automattic/jetpack-autoloader": "^2.12.0-alpha",
 		"automattic/jetpack-backup": "^1.17.6",
 		"automattic/jetpack-composer-plugin": "^1.1.14",
 		"automattic/jetpack-plugins-installer": "^0.2.5",
