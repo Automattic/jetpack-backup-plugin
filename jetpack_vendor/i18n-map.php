@@ -14,7 +14,7 @@ return array(
     ),
     'jetpack-backup-pkg' => array(
       'path' => 'jetpack_vendor/automattic/jetpack-backup',
-      'ver' => '1.17.8-alpha1697047949',
+      'ver' => '1.17.8',
     ),
     'jetpack-config' => array(
       'path' => 'jetpack_vendor/automattic/jetpack-config',
@@ -26,7 +26,7 @@ return array(
     ),
     'jetpack-idc' => array(
       'path' => 'jetpack_vendor/automattic/jetpack-identity-crisis',
-      'ver' => '0.10.7-alpha1697047949',
+      'ver' => '0.10.7',
     ),
     'jetpack-ip' => array(
       'path' => 'jetpack_vendor/automattic/jetpack-ip',
@@ -42,7 +42,7 @@ return array(
     ),
     'jetpack-my-jetpack' => array(
       'path' => 'jetpack_vendor/automattic/jetpack-my-jetpack',
-      'ver' => '3.8.2-alpha1697133599',
+      'ver' => '3.8.2',
     ),
     'jetpack-password-checker' => array(
       'path' => 'jetpack_vendor/automattic/jetpack-password-checker',
@@ -54,7 +54,7 @@ return array(
     ),
     'jetpack-sync' => array(
       'path' => 'jetpack_vendor/automattic/jetpack-sync',
-      'ver' => '1.58.0-alpha1697195883',
+      'ver' => '1.58.0',
     ),
   ),
 );
