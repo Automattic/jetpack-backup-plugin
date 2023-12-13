@@ -15,6 +15,9 @@ This is an alpha version! The changes listed here are not final.
 - Updated package dependencies.
 - Update lockfile
 
+### Fixed
+- Improved helper script installer logging.
+
 ## [2.2] - 2023-09-20
 ### Changed
 - General: update WordPress version requirements to WordPress 6.2. [#32762]
