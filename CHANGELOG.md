@@ -8,6 +8,9 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
 This is an alpha version! The changes listed here are not final.
 
+### Fixed
+- Backup: Add namespace versioning to Helper_Script_Manager and other classes
+
 ## [2.3] - 2023-12-13
 ### Changed
 - General: indicate full compatibility with the latest version of WordPress, 6.4. [#33776]
