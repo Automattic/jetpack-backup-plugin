@@ -11,6 +11,9 @@ This is an alpha version! The changes listed here are not final.
 ### Changed
 - Updated package dependencies.
 
+### Fixed
+- Write helper script to ABSPATH by default, just like we did before
+
 ## [2.4] - 2024-01-04
 ### Fixed
 - Backup: Add namespace versioning to Helper_Script_Manager and other classes [#34739]
