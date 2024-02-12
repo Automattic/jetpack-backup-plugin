@@ -4,6 +4,13 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
+## [2.6-alpha] - unreleased
+
+This is an alpha version! The changes listed here are not final.
+
+### Added
+- New setting in /sties/$site/settings that is not relevant to this plugin.
+
 ## [2.5] - 2024-02-08
 ### Changed
 - Updated package dependencies. [#34882]
@@ -211,6 +218,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 - Use `absoluteRuntime` in babel JS build to avoid module not found errors.
 
 [2.2-beta]: https://github.com/Automattic/jetpack-backup-plugin/compare/2.1...2.2-beta
+[2.6-alpha]: https://github.com/Automattic/jetpack-backup-plugin/compare/2.5...2.6-alpha
 [2.5]: https://github.com/Automattic/jetpack-backup-plugin/compare/2.4...2.5
 [2.4]: https://github.com/Automattic/jetpack-backup-plugin/compare/2.3...2.4
 [2.3]: https://github.com/Automattic/jetpack-backup-plugin/compare/2.2...2.3
