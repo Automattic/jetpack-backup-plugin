@@ -11,6 +11,9 @@ This is an alpha version! The changes listed here are not final.
 ### Added
 - New setting in /sties/$site/settings that is not relevant to this plugin.
 
+### Changed
+- Updated package dependencies.
+
 ## [2.5] - 2024-02-08
 ### Changed
 - Updated package dependencies. [#34882]
