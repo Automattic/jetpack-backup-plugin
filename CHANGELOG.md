@@ -13,6 +13,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Changed
 - Updated package dependencies.
+- Update package lock
 
 ## [2.5] - 2024-02-08
 ### Changed
