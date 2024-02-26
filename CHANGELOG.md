@@ -10,6 +10,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Added
 - New setting in /sties/$site/settings that is not relevant to this plugin.
+- Real time backups: Add endpoints orders to be used in real-time backups jetpack
 
 ### Changed
 - General: indicate compatibility with the upcoming version of WordPress, 6.5.
