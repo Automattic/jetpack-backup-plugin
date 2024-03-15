@@ -12,7 +12,7 @@
 		"automattic/jetpack-composer-plugin": "^2.0.1",
 		"automattic/jetpack-config": "^2.0.1",
 		"automattic/jetpack-connection": "^2.4.1",
-		"automattic/jetpack-identity-crisis": "^0.17.3",
+		"automattic/jetpack-identity-crisis": "^0.17.4-alpha",
 		"automattic/jetpack-sync": "^2.10.1",
 		"automattic/jetpack-status": "^2.1.2"
 	},
