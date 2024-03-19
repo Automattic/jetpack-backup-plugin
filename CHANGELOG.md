@@ -18,6 +18,9 @@ This is an alpha version! The changes listed here are not final.
 - Updated package dependencies.
 - Update package lock
 
+### Fixed
+- Updated plugin description in readme.txt
+
 ## [2.5] - 2024-02-08
 ### Changed
 - Updated package dependencies. [#34882]
