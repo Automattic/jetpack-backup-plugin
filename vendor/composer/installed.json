@@ -7,7 +7,7 @@
             "dist": {
                 "type": "path",
                 "url": "/tmp/jetpack-build/Automattic/jetpack-a8c-mc-stats",
-                "reference": "dbbc4581067bfc990dc92928b5bb5a7fcd60e5bb"
+                "reference": "825c1d90a29b0200b1ac7df73ab625485119819a"
             },
             "require": {
                 "php": ">=7.0"
@@ -60,7 +60,7 @@
             "dist": {
                 "type": "path",
                 "url": "/tmp/jetpack-build/Automattic/jetpack-admin-ui",
-                "reference": "4788f4418c8c7557b0961f2db9e2d4a2f00d4fdf"
+                "reference": "f8d859824b2e7c8daee16ee1560b47ede294327d"
             },
             "require": {
                 "php": ">=7.0"
@@ -125,7 +125,7 @@
             "dist": {
                 "type": "path",
                 "url": "/tmp/jetpack-build/Automattic/jetpack-assets",
-                "reference": "7be60194043cda7b6685c73b20d9cbf03e45f125"
+                "reference": "f99009d9112e94e8e5460702a526788c41bcdb36"
             },
             "require": {
                 "automattic/jetpack-constants": "^2.0.1",
@@ -194,7 +194,7 @@
             "dist": {
                 "type": "path",
                 "url": "/tmp/jetpack-build/Automattic/jetpack-autoloader",
-                "reference": "c230ef69bd9561d7cfbc17fec7092c8a5ae9550c"
+                "reference": "52c41d84ac59417ec80d984e36478a6c0f2fabd9"
             },
             "require": {
                 "composer-plugin-api": "^1.1 || ^2.0",
@@ -260,7 +260,7 @@
             "dist": {
                 "type": "path",
                 "url": "/tmp/jetpack-build/Automattic/jetpack-backup",
-                "reference": "96c7e58cf140af4480b6aa80a96fd050b3ed5e88"
+                "reference": "2c949a4880fa14eb57be3dc4cf8d8ce759e9878d"
             },
             "require": {
                 "automattic/jetpack-admin-ui": "^0.4.1",
@@ -269,7 +269,7 @@
                 "automattic/jetpack-backup-helper-script-manager": "^0.2.4",
                 "automattic/jetpack-composer-plugin": "^2.0.1",
                 "automattic/jetpack-config": "^2.0.1",
-                "automattic/jetpack-connection": "^2.6.0",
+                "automattic/jetpack-connection": "^2.6.1-alpha",
                 "automattic/jetpack-identity-crisis": "^0.17.5-alpha",
                 "automattic/jetpack-status": "^2.1.3",
                 "automattic/jetpack-sync": "^2.10.3-alpha",
@@ -350,7 +350,7 @@
             "dist": {
                 "type": "path",
                 "url": "/tmp/jetpack-build/Automattic/jetpack-backup-helper-script-manager",
-                "reference": "f60e3e73fbe95ded992885b1e981fd75f80e711f"
+                "reference": "6d5da2686a2423230557a95013623d5bcee4410f"
             },
             "require": {
                 "php": ">=7.0"
@@ -410,7 +410,7 @@
             "dist": {
                 "type": "path",
                 "url": "/tmp/jetpack-build/Automattic/jetpack-boost-core",
-                "reference": "47e9b16ab09fc3114b1c314422810cf694ba4c99"
+                "reference": "7514713ddaf02f740b48e352d66200e510369085"
             },
             "require": {
                 "php": ">=7.0"
@@ -477,7 +477,7 @@
             "dist": {
                 "type": "path",
                 "url": "/tmp/jetpack-build/Automattic/jetpack-boost-speed-score",
-                "reference": "0fe868af41c38c817106fe9579a316cfa92c70d8"
+                "reference": "2f5bf741bf5b6082c982a59bd39897baae146392"
             },
             "require": {
                 "automattic/jetpack-boost-core": "^0.2.6-alpha",
@@ -553,7 +553,7 @@
             "dist": {
                 "type": "path",
                 "url": "/tmp/jetpack-build/Automattic/jetpack-composer-plugin",
-                "reference": "27671bc41c26ae39c8d9cf563063174ec6fdd645"
+                "reference": "b88e15b38a7dd69b858a60191f48fb205a892066"
             },
             "require": {
                 "composer-plugin-api": "^2.1.0",
@@ -613,7 +613,7 @@
             "dist": {
                 "type": "path",
                 "url": "/tmp/jetpack-build/Automattic/jetpack-config",
-                "reference": "5e8c4bc8d307b10d1b385154d10fee9bb907a5e2"
+                "reference": "c8f78e845d24a004f76b84dd56f1367794f34e1a"
             },
             "require": {
                 "php": ">=7.0"
@@ -653,12 +653,12 @@
         },
         {
             "name": "automattic/jetpack-connection",
-            "version": "2.6.0",
-            "version_normalized": "2.6.0.0",
+            "version": "2.6.1-alpha.1711023344",
+            "version_normalized": "2.6.1.0-alpha1711023344",
             "dist": {
                 "type": "path",
                 "url": "/tmp/jetpack-build/Automattic/jetpack-connection",
-                "reference": "69fafb4fab012ed7b35486b201d59678af4ff637"
+                "reference": "1f8354aa72b1ceb4cecb4ce25e565e89ebd7e47d"
             },
             "require": {
                 "automattic/jetpack-a8c-mc-stats": "^2.0.1",
@@ -737,7 +737,7 @@
             "dist": {
                 "type": "path",
                 "url": "/tmp/jetpack-build/Automattic/jetpack-constants",
-                "reference": "a947d0ac1af7063f23e19344954c65e91a893d8e"
+                "reference": "1fa5afdfc06c2f3d75a051e5d94503857022325a"
             },
             "require": {
                 "php": ">=7.0"
@@ -791,7 +791,7 @@
             "dist": {
                 "type": "path",
                 "url": "/tmp/jetpack-build/Automattic/jetpack-device-detection",
-                "reference": "ef470385113c3ba1dde6a4ce2a71d596a8874f7d"
+                "reference": "82b4c8f5bb8fdf79fe79d935b9dea37c145c915b"
             },
             "require": {
                 "php": ">=7.0"
@@ -844,11 +844,11 @@
             "dist": {
                 "type": "path",
                 "url": "/tmp/jetpack-build/Automattic/jetpack-identity-crisis",
-                "reference": "a86f8c911b48dda0c1c58f45012847bdf310b815"
+                "reference": "a9932e9c4f438ac44d04c43fc32eedc5a9a3bb2b"
             },
             "require": {
                 "automattic/jetpack-assets": "^2.1.5",
-                "automattic/jetpack-connection": "^2.6.0",
+                "automattic/jetpack-connection": "^2.6.1-alpha",
                 "automattic/jetpack-constants": "^2.0.1",
                 "automattic/jetpack-logo": "^2.0.2",
                 "automattic/jetpack-status": "^2.1.3",
@@ -923,7 +923,7 @@
             "dist": {
                 "type": "path",
                 "url": "/tmp/jetpack-build/Automattic/jetpack-ip",
-                "reference": "358a141436c56fbc4357c344d0b958b43294914f"
+                "reference": "924208deaa7d05f99f2937bc20e439335d7cf2c7"
             },
             "require": {
                 "php": ">=7.0"
@@ -981,12 +981,12 @@
             "dist": {
                 "type": "path",
                 "url": "/tmp/jetpack-build/Automattic/jetpack-jitm",
-                "reference": "23b49711db39feb0e784395e32ef61fb47a1dfba"
+                "reference": "f9784630fbc24515b3494e40ea3b4ed1975d8506"
             },
             "require": {
                 "automattic/jetpack-a8c-mc-stats": "^2.0.1",
                 "automattic/jetpack-assets": "^2.1.5",
-                "automattic/jetpack-connection": "^2.6.0",
+                "automattic/jetpack-connection": "^2.6.1-alpha",
                 "automattic/jetpack-device-detection": "^2.1.2",
                 "automattic/jetpack-logo": "^2.0.2",
                 "automattic/jetpack-redirect": "^2.0.1",
@@ -1056,10 +1056,10 @@
             "dist": {
                 "type": "path",
                 "url": "/tmp/jetpack-build/Automattic/jetpack-licensing",
-                "reference": "0f8010c93919a4db90fd8f34720f8bb5d715771a"
+                "reference": "0425488199d3cf3c2da8e2d2ebb1bfeb48ec3f05"
             },
             "require": {
-                "automattic/jetpack-connection": "^2.6.0",
+                "automattic/jetpack-connection": "^2.6.1-alpha",
                 "php": ">=7.0"
             },
             "require-dev": {
@@ -1118,7 +1118,7 @@
             "dist": {
                 "type": "path",
                 "url": "/tmp/jetpack-build/Automattic/jetpack-logo",
-                "reference": "0b6433766ee72ec7fea8c8060a25fd0f2a0a9894"
+                "reference": "67f609992f664c3871ed85a134781cfce37c7eb7"
             },
             "require": {
                 "php": ">=7.0"
@@ -1171,13 +1171,13 @@
             "dist": {
                 "type": "path",
                 "url": "/tmp/jetpack-build/Automattic/jetpack-my-jetpack",
-                "reference": "ccda477fbf1864cb5a46082b52659a49c9e6d705"
+                "reference": "c3255cefc9a104712463ed63cfa917aa5c5696f5"
             },
             "require": {
                 "automattic/jetpack-admin-ui": "^0.4.1",
                 "automattic/jetpack-assets": "^2.1.5",
                 "automattic/jetpack-boost-speed-score": "^0.3.8-alpha",
-                "automattic/jetpack-connection": "^2.6.0",
+                "automattic/jetpack-connection": "^2.6.1-alpha",
                 "automattic/jetpack-constants": "^2.0.1",
                 "automattic/jetpack-jitm": "^3.1.2-alpha",
                 "automattic/jetpack-licensing": "^2.0.2",
@@ -1265,7 +1265,7 @@
             "dist": {
                 "type": "path",
                 "url": "/tmp/jetpack-build/Automattic/jetpack-password-checker",
-                "reference": "d7083bece8e34bc73dd57d572c903e82df778556"
+                "reference": "e3e0e720ae1acf82c2dc80e194d10ed1ce221a56"
             },
             "require": {
                 "php": ">=7.0"
@@ -1326,10 +1326,10 @@
             "dist": {
                 "type": "path",
                 "url": "/tmp/jetpack-build/Automattic/jetpack-plans",
-                "reference": "6f657b8a28147f75d7a41d6f0ab94587b1aece53"
+                "reference": "a4d3c0cd9a9c5e99af66bf05b621970bb28299fb"
             },
             "require": {
-                "automattic/jetpack-connection": "^2.6.0",
+                "automattic/jetpack-connection": "^2.6.1-alpha",
                 "php": ">=7.0"
             },
             "require-dev": {
@@ -1394,7 +1394,7 @@
             "dist": {
                 "type": "path",
                 "url": "/tmp/jetpack-build/Automattic/jetpack-plugins-installer",
-                "reference": "fa29e8b8a2170b4f0a7a0b7a101a4e2ac94653f7"
+                "reference": "bcc014e86a880f6962eeb756e34ee2002372fea6"
             },
             "require": {
                 "automattic/jetpack-a8c-mc-stats": "^2.0.1",
@@ -1449,7 +1449,7 @@
             "dist": {
                 "type": "path",
                 "url": "/tmp/jetpack-build/Automattic/jetpack-redirect",
-                "reference": "d6b381b7c4001e14f40e59c59b858fb8f38748a6"
+                "reference": "bc44737e893f033bc2dd999c31ecf455723623ec"
             },
             "require": {
                 "automattic/jetpack-status": "^2.1.3",
@@ -1504,7 +1504,7 @@
             "dist": {
                 "type": "path",
                 "url": "/tmp/jetpack-build/Automattic/jetpack-roles",
-                "reference": "dc8907af541e13ff5a28c9655e1a5ecc6f4b0446"
+                "reference": "1e5ed0a1a6ddc619785063d2e060f8142f64b785"
             },
             "require": {
                 "php": ">=7.0"
@@ -1558,7 +1558,7 @@
             "dist": {
                 "type": "path",
                 "url": "/tmp/jetpack-build/Automattic/jetpack-status",
-                "reference": "0056729ade5fd36638e40cc0c08ab3cb32ec2799"
+                "reference": "e4fe6fc7a39bff59463930e7b07f561eac878df6"
             },
             "require": {
                 "automattic/jetpack-constants": "^2.0.1",
@@ -1614,10 +1614,10 @@
             "dist": {
                 "type": "path",
                 "url": "/tmp/jetpack-build/Automattic/jetpack-sync",
-                "reference": "ae6b2db30e1c0ff775574a09b2e9cc75ebef6c86"
+                "reference": "f4db3196c227857628996cc9623d5ff500dac81e"
             },
             "require": {
-                "automattic/jetpack-connection": "^2.6.0",
+                "automattic/jetpack-connection": "^2.6.1-alpha",
                 "automattic/jetpack-constants": "^2.0.1",
                 "automattic/jetpack-identity-crisis": "^0.17.5-alpha",
                 "automattic/jetpack-ip": "^0.2.2",
