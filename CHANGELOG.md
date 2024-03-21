@@ -20,6 +20,7 @@ This is an alpha version! The changes listed here are not final.
 - Update package lock
 
 ### Fixed
+- Backup: change some error messages to not trigger security scanners
 - Updated plugin description in readme.txt
 
 ## [2.5] - 2024-02-08
