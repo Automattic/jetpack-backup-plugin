@@ -10,6 +10,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Added
 - New setting in /sties/$site/settings that is not relevant to this plugin.
+- Packages: add version tracking for identity-crisis package.
 - Real time backups: Add endpoints orders to be used in real-time backups jetpack
 - Trigger red bubble notification when bad install is detected
 
