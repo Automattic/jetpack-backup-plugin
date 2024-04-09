@@ -8,13 +8,13 @@
 		"automattic/jetpack-assets": "^2.1.7",
 		"automattic/jetpack-admin-ui": "^0.4.1",
 		"automattic/jetpack-autoloader": "^3.0.5-alpha",
-		"automattic/jetpack-backup-helper-script-manager": "^0.2.6-alpha",
+		"automattic/jetpack-backup-helper-script-manager": "^0.2.6",
 		"automattic/jetpack-composer-plugin": "^2.0.1",
 		"automattic/jetpack-config": "^2.0.1",
-		"automattic/jetpack-connection": "^2.7.1-alpha",
-		"automattic/jetpack-identity-crisis": "^0.18.3-alpha",
-		"automattic/jetpack-sync": "^2.11.0-alpha",
-		"automattic/jetpack-status": "^2.2.1-alpha"
+		"automattic/jetpack-connection": "^2.7.1",
+		"automattic/jetpack-identity-crisis": "^0.18.3",
+		"automattic/jetpack-sync": "^2.11.1-alpha",
+		"automattic/jetpack-status": "^2.2.1"
 	},
 	"require-dev": {
 		"automattic/jetpack-changelogger": "^4.1.3-alpha",
