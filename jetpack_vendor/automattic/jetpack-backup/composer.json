@@ -13,7 +13,7 @@
 		"automattic/jetpack-config": "^2.0.1",
 		"automattic/jetpack-connection": "^2.7.1",
 		"automattic/jetpack-identity-crisis": "^0.18.3",
-		"automattic/jetpack-sync": "^2.11.1",
+		"automattic/jetpack-sync": "^2.12.0-alpha",
 		"automattic/jetpack-status": "^2.2.1"
 	},
 	"require-dev": {
