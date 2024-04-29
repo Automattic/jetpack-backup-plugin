@@ -9,6 +9,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 This is an alpha version! The changes listed here are not final.
 
 ### Added
+- Add Woocommerce event remove_order_items to Jetpack Sync
 - New setting in /sties/$site/settings that is not relevant to this plugin.
 - Packages: add version tracking for identity-crisis package.
 - Real time backups: Add endpoints orders to be used in real-time backups jetpack
