@@ -9,6 +9,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 This is an alpha version! The changes listed here are not final.
 
 ### Changed
+- Remove the explicit Plugin Install package dependency.
 - Updated package dependencies.
 
 ## [2.6] - 2024-05-09
