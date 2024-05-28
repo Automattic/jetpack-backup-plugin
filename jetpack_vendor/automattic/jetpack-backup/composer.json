@@ -11,11 +11,10 @@
 		"automattic/jetpack-backup-helper-script-manager": "^0.2.6",
 		"automattic/jetpack-composer-plugin": "^2.0.1",
 		"automattic/jetpack-config": "^2.0.2",
-		"automattic/jetpack-connection": "^2.8.6",
-		"automattic/jetpack-identity-crisis": "^0.20.0",
+		"automattic/jetpack-connection": "^2.9.0-alpha",
 		"automattic/jetpack-my-jetpack": "^4.24.1",
-		"automattic/jetpack-sync": "^3.0.0",
-		"automattic/jetpack-status": "^3.2.1"
+		"automattic/jetpack-sync": "^3.0.1-alpha",
+		"automattic/jetpack-status": "^3.2.2-alpha"
 	},
 	"require-dev": {
 		"automattic/jetpack-changelogger": "^4.2.4",
