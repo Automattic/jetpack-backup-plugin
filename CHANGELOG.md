@@ -11,6 +11,9 @@ This is an alpha version! The changes listed here are not final.
 ### Changed
 - Updated package dependencies.
 
+### Removed
+- General: update WordPress version requirements to WordPress 6.5.
+
 ## [2.7] - 2024-06-27
 ### Added
 - On-demand backups feature
