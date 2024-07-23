@@ -8,11 +8,11 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
 This is an alpha version! The changes listed here are not final.
 
-### Changed
-- Updated package dependencies.
-
 ### Removed
 - General: update WordPress version requirements to WordPress 6.5.
+
+### Fixed
+- Updated package dependencies.
 
 ## [2.7] - 2024-06-27
 ### Added
