@@ -12,6 +12,7 @@ This is an alpha version! The changes listed here are not final.
 - General: update WordPress version requirements to WordPress 6.5.
 
 ### Fixed
+- Lossless image optimization of images in projects/plugins [subdirectories from a* through social]
 - Updated package dependencies.
 
 ## [2.7] - 2024-06-27
