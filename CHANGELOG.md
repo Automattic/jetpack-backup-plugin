@@ -8,6 +8,9 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
 This is an alpha version! The changes listed here are not final.
 
+### Changed
+- Update composer lock file
+
 ### Removed
 - General: update WordPress version requirements to WordPress 6.5.
 
