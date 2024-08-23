@@ -10,6 +10,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Changed
 - Update composer lock file
+- Update README to include on-demand backups reference
 
 ### Removed
 - General: update WordPress version requirements to WordPress 6.5.
