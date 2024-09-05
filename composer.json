@@ -5,10 +5,10 @@
 	"license": "GPL-2.0-or-later",
 	"require": {
 		"automattic/jetpack-autoloader": "^3.0.10",
-		"automattic/jetpack-backup": "^3.4.7-alpha",
+		"automattic/jetpack-backup": "^3.4.7",
 		"automattic/jetpack-composer-plugin": "^2.0.3",
-		"automattic/jetpack-my-jetpack": "^4.35.1-alpha",
-		"automattic/jetpack-status": "^4.0.0-alpha"
+		"automattic/jetpack-my-jetpack": "^4.35.1",
+		"automattic/jetpack-status": "^4.0.0"
 	},
 	"require-dev": {
 		"yoast/phpunit-polyfills": "^1.1.1",
@@ -22,10 +22,11 @@
 	"scripts": {
 		"watch": "echo 'This script is actually watching the Jetpack Backup package, not the plugin' && jetpack watch packages/backup"
 	},
+	"repositories": [],
 	"minimum-stability": "dev",
 	"prefer-stable": true,
 	"config": {
-		"autoloader-suffix": "9559eef123208b7d1b9c15b978567267_backupⓥ2_8_alpha",
+		"autoloader-suffix": "9559eef123208b7d1b9c15b978567267_backupⓥ2_8",
 		"allow-plugins": {
 			"automattic/jetpack-autoloader": true,
 			"automattic/jetpack-composer-plugin": true
