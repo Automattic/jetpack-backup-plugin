@@ -4,22 +4,10 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
-## [2.8-alpha] - unreleased
-
-This is an alpha version! The changes listed here are not final.
-
+## [2.8] - 2024-09-05
 ### Changed
-- Update composer lock file
-- Update README to include on-demand backups reference
-
-### Removed
-- General: update WordPress version requirements to WordPress 6.5.
-
-### Fixed
-- Lossless image optimization for images (should improve performance with no visible changes).
-- Lossless image optimization of images in projects/plugins [subdirectories from a* through social]
-- Revert recent SVG image optimizations.
-- Updated package dependencies.
+- General: Update WordPress version requirements to WordPress 6.5. [#38382]
+- Docs: Update README to include on-demand backups reference. [#38960]
 
 ## [2.7] - 2024-06-27
 ### Added
@@ -250,7 +238,7 @@ This is an alpha version! The changes listed here are not final.
 - Use `absoluteRuntime` in babel JS build to avoid module not found errors.
 
 [2.2-beta]: https://github.com/Automattic/jetpack-backup-plugin/compare/2.1...2.2-beta
-[2.8-alpha]: https://github.com/Automattic/jetpack-backup-plugin/compare/2.7...2.8-alpha
+[2.8]: https://github.com/Automattic/jetpack-backup-plugin/compare/2.7...2.8
 [2.7]: https://github.com/Automattic/jetpack-backup-plugin/compare/2.6...2.7
 [2.6]: https://github.com/Automattic/jetpack-backup-plugin/compare/2.5...2.6
 [2.5]: https://github.com/Automattic/jetpack-backup-plugin/compare/2.4...2.5
