@@ -17,6 +17,7 @@ This is an alpha version! The changes listed here are not final.
 - Connection: Removed features_enabled deprecated method
 
 ### Fixed
+- General: ensure the notice displayed when running an old version of WordPress can always be displayed without errors.
 - My Jetpack: visual update to the GlobalNotice component look better on mobile.
 
 ## [2.9] - 2024-09-06
