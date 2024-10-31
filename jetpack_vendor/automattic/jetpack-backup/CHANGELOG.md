@@ -5,6 +5,13 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.4.16-alpha] - unreleased
+
+This is an alpha version! The changes listed here are not final.
+
+### Added
+- Enable test coverage.
+
 ## [3.4.15] - 2024-10-21
 ### Changed
 - Update dependencies. [#39781]
@@ -722,6 +729,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Add API endpoints and Jetpack Backup package for managing Help…
 
+[3.4.16-alpha]: https://github.com/Automattic/jetpack-backup/compare/v3.4.15...v3.4.16-alpha
 [3.4.15]: https://github.com/Automattic/jetpack-backup/compare/v3.4.14...v3.4.15
 [3.4.14]: https://github.com/Automattic/jetpack-backup/compare/v3.4.13...v3.4.14
 [3.4.13]: https://github.com/Automattic/jetpack-backup/compare/v3.4.12...v3.4.13
