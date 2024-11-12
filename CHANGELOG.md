@@ -9,6 +9,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 This is an alpha version! The changes listed here are not final.
 
 ### Added
+- Backup: added next daily backup schedule time on admin page
 - My Jetpack: update the recommendations section in My Jetpack to include a slider interaction for the cards.
 
 ### Changed
