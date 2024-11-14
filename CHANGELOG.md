@@ -4,28 +4,18 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
-## [3.0-alpha] - unreleased
-
-This is an alpha version! The changes listed here are not final.
-
+## [3.0] - 2024-11-14
 ### Added
-- Backup: added next daily backup schedule time on admin page
-- My Jetpack: update the recommendations section in My Jetpack to include a slider interaction for the cards.
+- Display next scheduled daily backup time on the admin page.
 
 ### Changed
-- General: indicate compatibility with the upcoming version of WordPress - 6.7.
-- Only include `wp-polyfill` as a script dependency when needed.
+- Exclude discarded backups from being counted as successful on the admin page.
+- General: Indicate compatibility with WordPress version 6.7.
 - Updated package dependencies.
-
-### Removed
-- Connection: Removed deprecated method features_available
-- Connection: Removed features_enabled deprecated method
-- General: Update minimum PHP version to 7.2.
-- General: Update minimum WordPress version to 6.6.
+- Various internal updates and improvements.
 
 ### Fixed
-- General: ensure the notice displayed when running an old version of WordPress can always be displayed without errors.
-- My Jetpack: visual update to the GlobalNotice component look better on mobile.
+- Resolved an issue on the pricing page where the loading placeholder remained visible after the price loaded.
 
 ## [2.9] - 2024-09-06
 ### Changed
@@ -265,7 +255,7 @@ This is an alpha version! The changes listed here are not final.
 - Use `absoluteRuntime` in babel JS build to avoid module not found errors.
 
 [2.2-beta]: https://github.com/Automattic/jetpack-backup-plugin/compare/2.1...2.2-beta
-[3.0-alpha]: https://github.com/Automattic/jetpack-backup-plugin/compare/2.9...3.0-alpha
+[3.0]: https://github.com/Automattic/jetpack-backup-plugin/compare/2.9...3.0
 [2.9]: https://github.com/Automattic/jetpack-backup-plugin/compare/2.8...2.9
 [2.8]: https://github.com/Automattic/jetpack-backup-plugin/compare/2.7...2.8
 [2.7]: https://github.com/Automattic/jetpack-backup-plugin/compare/2.6...2.7
