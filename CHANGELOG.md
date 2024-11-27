@@ -9,6 +9,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 This is an alpha version! The changes listed here are not final.
 
 ### Changed
+- Social | Changed My Jetpack CTA for Social from "Learn more" to "Activate"
 - Updated dependencies.
 
 ## [3.0] - 2024-11-14
