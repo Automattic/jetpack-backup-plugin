@@ -9,6 +9,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 This is an alpha version! The changes listed here are not final.
 
 ### Changed
+- Resolved an issue where revoked licenses were incorrectly treated as unattached. This caused users to be redirected to the license activation page after site connection, even when unattached licenses were not valid for activation.
 - Social | Changed My Jetpack CTA for Social from "Learn more" to "Activate"
 - Updated backup plugin screenshots
 - Updated dependencies.
