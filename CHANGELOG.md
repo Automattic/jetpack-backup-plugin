@@ -13,6 +13,7 @@ This is an alpha version! The changes listed here are not final.
 - Social | Changed My Jetpack CTA for Social from "Learn more" to "Activate"
 - Updated backup plugin screenshots
 - Updated dependencies.
+- Updated package dependencies.
 
 ## [3.0] - 2024-11-14
 ### Added
