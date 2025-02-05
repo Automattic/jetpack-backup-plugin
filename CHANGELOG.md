@@ -8,6 +8,9 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
 This is an alpha version! The changes listed here are not final.
 
+### Added
+- jetpack-components: Export the getRedirectUrl function with subpath
+
 ### Changed
 - Code: Use function-style exit() and die() with a default status code of 0.
 - Updated package dependencies.
