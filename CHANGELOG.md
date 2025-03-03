@@ -17,6 +17,7 @@ This is an alpha version! The changes listed here are not final.
 - Connection: Display connection status on Users page independent of the SSO module.
 - Updated composer.lock
 - Updated package dependencies.
+- Update package dependencies.
 - Update the unowned section from a product grid to a product list
 
 ## [3.1] - 2025-01-10
