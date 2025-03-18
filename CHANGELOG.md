@@ -20,6 +20,9 @@ This is an alpha version! The changes listed here are not final.
 - Update package dependencies.
 - Update the unowned section from a product grid to a product list
 
+### Fixed
+- Admin menu: Move backup admin menu addition to a function hooked into admin_menu, preventing PHP warnings.
+
 ## [3.1] - 2025-01-10
 ### Changed
 - Resolve an issue where revoked licenses were incorrectly treated as unattached. This caused users to be redirected to the license activation page after site connection, even when unattached licenses were not valid for activation. [#40215]
