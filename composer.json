@@ -5,9 +5,9 @@
 	"license": "GPL-2.0-or-later",
 	"require": {
 		"automattic/jetpack-autoloader": "^5.0.5",
-		"automattic/jetpack-backup": "^4.0.18-alpha",
+		"automattic/jetpack-backup": "^4.0.18",
 		"automattic/jetpack-composer-plugin": "^4.0.4",
-		"automattic/jetpack-my-jetpack": "^5.9.0-alpha",
+		"automattic/jetpack-my-jetpack": "^5.9.0",
 		"automattic/jetpack-status": "^5.0.10"
 	},
 	"require-dev": {
