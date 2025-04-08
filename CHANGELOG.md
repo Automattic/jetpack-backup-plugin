@@ -4,6 +4,13 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
+## [3.3-alpha] - unreleased
+
+This is an alpha version! The changes listed here are not final.
+
+### Added
+- Added more error logging.
+
 ## [3.2] - 2025-04-03
 ### Added
 - Adds Account Protection initialization. [#40925]
@@ -283,6 +290,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 - Use `absoluteRuntime` in babel JS build to avoid module not found errors.
 
 [2.2-beta]: https://github.com/Automattic/jetpack-backup-plugin/compare/2.1...2.2-beta
+[3.3-alpha]: https://github.com/Automattic/jetpack-backup-plugin/compare/3.2...3.3-alpha
 [3.2]: https://github.com/Automattic/jetpack-backup-plugin/compare/3.1...3.2
 [3.1]: https://github.com/Automattic/jetpack-backup-plugin/compare/3.0...3.1
 [3.0]: https://github.com/Automattic/jetpack-backup-plugin/compare/2.9...3.0
