@@ -10,6 +10,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Added
 - Added more error logging.
+- Adding My Jetpack tour.
 
 ## [3.2] - 2025-04-03
 ### Added
