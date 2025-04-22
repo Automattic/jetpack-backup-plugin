@@ -12,6 +12,9 @@ This is an alpha version! The changes listed here are not final.
 - Added more error logging.
 - Adding My Jetpack tour.
 
+### Fixed
+- My Jetpack: Fix social login getting stuck when email input not empty
+
 ## [3.2] - 2025-04-03
 ### Added
 - Adds Account Protection initialization. [#40925]
