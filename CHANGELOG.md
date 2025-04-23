@@ -12,6 +12,9 @@ This is an alpha version! The changes listed here are not final.
 - Added more error logging.
 - Adding My Jetpack tour.
 
+### Removed
+- General: Update minimum WordPress version to 6.7.
+
 ### Fixed
 - My Jetpack: Fix social login getting stuck when email input not empty
 
