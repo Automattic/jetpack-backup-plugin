@@ -12,6 +12,9 @@ This is an alpha version! The changes listed here are not final.
 - Added more error logging.
 - Adding My Jetpack tour.
 
+### Changed
+- My Jetpack: Updated the onboarding UI, changing it to a single button
+
 ### Removed
 - General: Update minimum WordPress version to 6.7.
 
