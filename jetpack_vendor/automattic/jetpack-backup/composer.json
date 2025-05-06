@@ -12,7 +12,7 @@
 		"automattic/jetpack-composer-plugin": "^4.0.5",
 		"automattic/jetpack-config": "^3.1.0",
 		"automattic/jetpack-connection": "^6.11.2",
-		"automattic/jetpack-my-jetpack": "^5.13.1",
+		"automattic/jetpack-my-jetpack": "^5.14.0-alpha",
 		"automattic/jetpack-sync": "^4.12.0",
 		"automattic/jetpack-status": "^5.1.4"
 	},
@@ -68,7 +68,7 @@
 			"link-template": "https://github.com/Automattic/jetpack-backup/compare/v${old}...v${new}"
 		},
 		"branch-alias": {
-			"dev-trunk": "4.1.x-dev"
+			"dev-trunk": "4.2.x-dev"
 		}
 	},
 	"config": {
