@@ -1839,7 +1839,7 @@
             "dist": {
                 "type": "path",
                 "url": "/tmp/jetpack-build/Automattic/jetpack-sync",
-                "reference": "4a10affcccb8858f1557d0c658fa57859270cb9e"
+                "reference": "d631fb31ee23f403b4ec7c68082a4b6613cd94bc"
             },
             "require": {
                 "automattic/jetpack-connection": "^6.13.2",
@@ -1854,7 +1854,7 @@
                 "automattic/jetpack-changelogger": "^6.0.5",
                 "automattic/jetpack-search": "@dev",
                 "automattic/jetpack-test-environment": "@dev",
-                "automattic/jetpack-waf": "@dev",
+                "automattic/jetpack-waf": "^0.24.4",
                 "automattic/phpunit-select-config": "^1.0.3",
                 "yoast/phpunit-polyfills": "^4.0.0"
             },
