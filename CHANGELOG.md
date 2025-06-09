@@ -4,37 +4,33 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
-## [3.3-alpha] - unreleased
-
-This is an alpha version! The changes listed here are not final.
-
+## [3.3] - 2025-06-09
 ### Added
-- Added more error logging.
-- Adding My Jetpack tour.
+- Add more error logging. [#42959]
+- Add My Jetpack tour. [#42880]
 
 ### Changed
-- jetpack-assets now requires jetpack-status so updating composer lock files.
-- My Jetpack: Hide backup failure notice when backups are deactivated.
-- My Jetpack: Optimize the images for onboarding slider for faster page load.
-- My Jetpack: Updated the onboarding UI, changing it to a single button
-- Update package dependencies.
+- My Jetpack: Hide backup failure notice when backups are deactivated. [#43568]
+- My Jetpack: Optimize the images for onboarding slider for faster page load. [#43473]
+- My Jetpack: Update the onboarding UI, changing it to a single button. [#43203]
+- Update package dependencies. [#43085] [#43425] [#43839]
 
 ### Removed
-- General: Update minimum WordPress version to 6.7.
+- General: Update minimum WordPress version to 6.7. [#43192]
 
 ### Fixed
-- JS Packages: Decrease CSS priority of global styles to prevent them from applying within the editor
-- My Jetpack: Fixed Onboarding UI responsiveness at 600px.
-- My Jetpack: Fix readability of license activation button on hover.
-- My Jetpack: Fix social login getting stuck when email input not empty
+- Block editor: Fix layout issues with the Media Library modal buttons. [#43035]
+- My Jetpack: Fix Onboarding UI responsiveness at 600px. [#43533]
+- My Jetpack: Fix readability of license activation button on hover. [#43550]
+- My Jetpack: Ensure social login does not get stuck when email input is not empty. [#43158]
 
 ## [3.2] - 2025-04-03
 ### Added
-- Adds Account Protection initialization. [#40925]
-- Components: Export the getRedirectUrl function with subpath [#41078]
+- Add Account Protection initialization. [#40925]
+- Components: Export the getRedirectUrl function with subpath. [#41078]
 - Connection: Disconnect all other users before disconnecting connection owner account. [#41923]
 - Improve the onboarding experience of Jetpack guiding the users through a new onboarding process. [#42757]
-- My Jetpack: An onboarding screen has been implemented to provide clear, step-by-step instructions for new users connecting to Jetpack. [#42523]
+- My Jetpack: Introduce a new onboarding screen to provide clear, step-by-step instructions for new users connecting to Jetpack. [#42523]
 
 ### Changed
 - Code: Use function-style `exit()` and `die()` with a default status code of 0. [#41167]
@@ -307,7 +303,7 @@ This is an alpha version! The changes listed here are not final.
 - Use `absoluteRuntime` in babel JS build to avoid module not found errors.
 
 [2.2-beta]: https://github.com/Automattic/jetpack-backup-plugin/compare/2.1...2.2-beta
-[3.3-alpha]: https://github.com/Automattic/jetpack-backup-plugin/compare/3.2...3.3-alpha
+[3.3]: https://github.com/Automattic/jetpack-backup-plugin/compare/3.2...3.3
 [3.2]: https://github.com/Automattic/jetpack-backup-plugin/compare/3.1...3.2
 [3.1]: https://github.com/Automattic/jetpack-backup-plugin/compare/3.0...3.1
 [3.0]: https://github.com/Automattic/jetpack-backup-plugin/compare/2.9...3.0
