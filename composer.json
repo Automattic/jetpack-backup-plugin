@@ -7,7 +7,7 @@
 		"automattic/jetpack-autoloader": "^5.0.8",
 		"automattic/jetpack-backup": "^4.2.8",
 		"automattic/jetpack-composer-plugin": "^4.0.5",
-		"automattic/jetpack-my-jetpack": "^5.16.8",
+		"automattic/jetpack-my-jetpack": "^5.17.0-alpha",
 		"automattic/jetpack-status": "^5.3.1"
 	},
 	"require-dev": {

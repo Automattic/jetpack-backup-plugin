@@ -8,6 +8,9 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
 This is an alpha version! The changes listed here are not final.
 
+### Changed
+- My Jetpack: Updating Stats card to include a chart for better analytics.
+
 ### Fixed
 - JITM: Fix ineffective caching due to expired plugin sync transient
 
