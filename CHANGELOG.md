@@ -13,6 +13,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Changed
 - My Jetpack: Enabled access to My Jetpack on WP Multisite.
+- My Jetpack: Unify the user connection flow with a unified screen.
 - My Jetpack: Updating Stats card to include a chart for better analytics.
 - Sync: Ignore the ActivityPub Outbox CPT
 - Update package dependencies.
