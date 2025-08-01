@@ -21,6 +21,7 @@ This is an alpha version! The changes listed here are not final.
 ### Fixed
 - JITM: Fix ineffective caching due to expired plugin sync transient
 - My Jetpack: Fixing footer alignment for diconnected accounts.
+- My Jetpack: Prevent expiration alerts for products covered by active bundles
 - My Jetpack: Restoring plan purchase link.
 - Update JITMs to remove jQuery dependency
 
