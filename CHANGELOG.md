@@ -12,6 +12,7 @@ This is an alpha version! The changes listed here are not final.
 - My Jetpack: Added analytics for empty product search results.
 
 ### Changed
+- Do not force CRM installation for Complete plan users
 - My Jetpack: Enabled access to My Jetpack on WP Multisite.
 - My Jetpack: Fixed multisite availability check for restricted products and modules
 - My Jetpack: Unify the user connection flow with a unified screen.
