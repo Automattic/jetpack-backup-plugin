@@ -14,7 +14,7 @@
 		"automattic/jetpack-connection": "^6.18.13",
 		"automattic/jetpack-my-jetpack": "^5.27.4",
 		"automattic/jetpack-sync": "^4.22.1",
-		"automattic/jetpack-status": "^6.0.4"
+		"automattic/jetpack-status": "^6.1.0-alpha"
 	},
 	"require-dev": {
 		"automattic/jetpack-changelogger": "^6.0.7",
