@@ -8,6 +8,9 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
 This is an alpha version! The changes listed here are not final.
 
+### Changed
+- Update package dependencies.
+
 ## [3.5] - 2025-09-08
 ### Added
 - My Jetpack: Added analytics for empty product search results. [#44344]
