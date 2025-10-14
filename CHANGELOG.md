@@ -11,6 +11,9 @@ This is an alpha version! The changes listed here are not final.
 ### Changed
 - Update package dependencies.
 
+### Fixed
+- My Jetpack page: fix visual compatibility issue with Hello Dolly plugin.
+
 ## [3.5] - 2025-09-08
 ### Added
 - My Jetpack: Added analytics for empty product search results. [#44344]
