@@ -4,22 +4,19 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
-## [3.6-alpha] - unreleased
-
-This is an alpha version! The changes listed here are not final.
-
+## [3.6] - 2025-11-12
 ### Added
-- Tested up to WordPress 6.9
+- Tested up to WordPress 6.9. [#45571]
 
 ### Changed
-- Update package dependencies.
+- Update package dependencies. [#45478]
 
 ### Fixed
-- My Jetpack page: fix visual compatibility issue with Hello Dolly plugin.
+- My Jetpack page: Fix visual compatibility issue with Hello Dolly plugin. [#45474]
 
 ## [3.5] - 2025-09-08
 ### Added
-- My Jetpack: Added analytics for empty product search results. [#44344]
+- My Jetpack: Add analytics for empty product search results. [#44344]
 
 ### Changed
 - Remove CRM installation nudge for Complete plan users. [#45026]
@@ -340,7 +337,7 @@ This is an alpha version! The changes listed here are not final.
 - Use `absoluteRuntime` in babel JS build to avoid module not found errors.
 
 [2.2-beta]: https://github.com/Automattic/jetpack-backup-plugin/compare/2.1...2.2-beta
-[3.6-alpha]: https://github.com/Automattic/jetpack-backup-plugin/compare/3.5...3.6-alpha
+[3.6]: https://github.com/Automattic/jetpack-backup-plugin/compare/3.5...3.6
 [3.5]: https://github.com/Automattic/jetpack-backup-plugin/compare/3.4...3.5
 [3.4]: https://github.com/Automattic/jetpack-backup-plugin/compare/3.3...3.4
 [3.3]: https://github.com/Automattic/jetpack-backup-plugin/compare/3.2...3.3
