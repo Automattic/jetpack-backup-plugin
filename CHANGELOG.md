@@ -8,6 +8,9 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
 This is an alpha version! The changes listed here are not final.
 
+### Fixed
+- Jetpack: remove getIconColor functions for block icons
+
 ## [3.6] - 2025-11-12
 ### Added
 - Tested up to WordPress 6.9. [#45571]
