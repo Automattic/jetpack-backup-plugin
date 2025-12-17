@@ -4,11 +4,11 @@
 	"type": "library",
 	"license": "GPL-2.0-or-later",
 	"require": {
-		"automattic/jetpack-autoloader": "^5.0.15-alpha",
-		"automattic/jetpack-backup": "^4.2.34-alpha",
+		"automattic/jetpack-autoloader": "^5.0.15",
+		"automattic/jetpack-backup": "^4.2.34",
 		"automattic/jetpack-composer-plugin": "^4.0.5",
 		"automattic/jetpack-my-jetpack": "^5.29.0-alpha",
-		"automattic/jetpack-status": "^6.1.2-alpha"
+		"automattic/jetpack-status": "^6.1.2"
 	},
 	"require-dev": {
 		"yoast/phpunit-polyfills": "^4.0.0",
