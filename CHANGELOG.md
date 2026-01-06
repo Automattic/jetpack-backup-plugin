@@ -8,6 +8,9 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
 This is an alpha version! The changes listed here are not final.
 
+### Added
+- IDC: Add revalidation for IDCs.
+
 ## [3.7.1] - 2025-11-20
 ### Fixed
 - Jetpack: Remove getIconColor functions for block icons. [#45992]
