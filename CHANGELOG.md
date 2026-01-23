@@ -13,6 +13,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Changed
 - My Jetpack: Check red bubble notification async when cache is not available.
+- Update composer.lock.
 
 ## [3.7.1] - 2025-11-20
 ### Fixed
