@@ -21,6 +21,9 @@ This is an alpha version! The changes listed here are not final.
 ### Removed
 - General: Update minimum WordPress version to 6.8.
 
+### Fixed
+- Admin Page: Restore border on header component.
+
 ## [3.7.1] - 2025-11-20
 ### Fixed
 - Jetpack: Remove getIconColor functions for block icons. [#45992]
