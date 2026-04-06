@@ -18,6 +18,7 @@ This is an alpha version! The changes listed here are not final.
 - Remove header border-bottom from the admin page for a cleaner unified header appearance.
 - Storage popover: use core components and remove custom CSS.
 - Update composer.lock.
+- Update design of the sidebar upsell.
 - Update package dependencies.
 
 ### Removed
