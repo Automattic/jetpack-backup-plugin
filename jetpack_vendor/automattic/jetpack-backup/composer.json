@@ -5,22 +5,22 @@
 	"license": "GPL-2.0-or-later",
 	"require": {
 		"php": ">=7.2",
-		"automattic/jetpack-assets": "^4.3.37-alpha",
-		"automattic/jetpack-admin-ui": "^0.8.5-alpha",
-		"automattic/jetpack-autoloader": "^5.0.18-alpha",
-		"automattic/jetpack-backup-helper-script-manager": "^0.3.10-alpha",
-		"automattic/jetpack-composer-plugin": "^4.0.7-alpha",
-		"automattic/jetpack-config": "^3.1.3-alpha",
-		"automattic/jetpack-connection": "^8.3.6-alpha",
-		"automattic/jetpack-my-jetpack": "^5.37.2-alpha",
-		"automattic/jetpack-sync": "^4.38.2-alpha",
-		"automattic/jetpack-status": "^6.1.4-alpha",
-		"automattic/jetpack-wp-build-polyfills": "^0.1.9-alpha"
+		"automattic/jetpack-assets": "^4.3.37",
+		"automattic/jetpack-admin-ui": "^0.8.5",
+		"automattic/jetpack-autoloader": "^5.0.18",
+		"automattic/jetpack-backup-helper-script-manager": "^0.3.10",
+		"automattic/jetpack-composer-plugin": "^4.0.7",
+		"automattic/jetpack-config": "^3.1.3",
+		"automattic/jetpack-connection": "^8.3.7-alpha",
+		"automattic/jetpack-my-jetpack": "^5.37.3-alpha",
+		"automattic/jetpack-sync": "^4.38.3-alpha",
+		"automattic/jetpack-status": "^6.1.5-alpha",
+		"automattic/jetpack-wp-build-polyfills": "^0.1.9"
 	},
 	"require-dev": {
 		"yoast/phpunit-polyfills": "^4.0.0",
 		"automattic/jetpack-test-environment": "@dev",
-		"automattic/phpunit-select-config": "^1.0.6-alpha"
+		"automattic/phpunit-select-config": "^1.0.6"
 	},
 	"suggest": {
 		"automattic/jetpack-autoloader": "Allow for better interoperability with other plugins that use this package."
