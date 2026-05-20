@@ -14,7 +14,7 @@ return array(
     ),
     'jetpack-backup-pkg' => array(
       'path' => 'jetpack_vendor/automattic/jetpack-backup',
-      'ver' => '4.2.57-alpha1779296686',
+      'ver' => '4.3.0-alpha1779298508',
     ),
     'jetpack-boost-core' => array(
       'path' => 'jetpack_vendor/automattic/jetpack-boost-core',
@@ -71,6 +71,10 @@ return array(
     'jetpack-sync' => array(
       'path' => 'jetpack_vendor/automattic/jetpack-sync',
       'ver' => '4.38.3-alpha1779225922',
+    ),
+    'jetpack-wp-abilities' => array(
+      'path' => 'jetpack_vendor/automattic/jetpack-wp-abilities',
+      'ver' => '0.1.1',
     ),
     'jetpack-wp-build-polyfills' => array(
       'path' => 'jetpack_vendor/automattic/jetpack-wp-build-polyfills',
