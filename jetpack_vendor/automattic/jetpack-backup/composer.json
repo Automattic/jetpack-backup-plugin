@@ -16,7 +16,7 @@
 		"automattic/jetpack-sync": "^4.38.4",
 		"automattic/jetpack-status": "^6.1.5",
 		"automattic/jetpack-wp-abilities": "^0.1.1",
-		"automattic/jetpack-wp-build-polyfills": "^0.1.10"
+		"automattic/jetpack-wp-build-polyfills": "^0.1.11-alpha"
 	},
 	"require-dev": {
 		"yoast/phpunit-polyfills": "^4.0.0",
