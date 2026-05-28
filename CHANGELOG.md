@@ -12,6 +12,7 @@ This is an alpha version! The changes listed here are not final.
 - General: update composer.lock files.
 - General: Update minimum WordPress version to 6.9.
 - Internal: No longer require automattic/jetpack-changelogger as a per-project dev dependency.
+- Remove unneeded development and documentation files from the published plugin.
 - Tested up to WordPress 7.0.
 - Updated package dependencies.
 - Update package dependencies.
