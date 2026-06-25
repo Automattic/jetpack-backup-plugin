@@ -91,15 +91,15 @@ return array(
 		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-plugins-installer/src/class-automatic-install-skin.php'
 	),
 	'Automattic\\Jetpack\\Backup\\Package_Version' => array(
-		'version' => '4.3.6.0-alpha1782415648',
+		'version' => '4.3.6.0-alpha1782417267',
 		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-backup/src/class-package-version.php'
 	),
 	'Automattic\\Jetpack\\Backup\\V0001\\Package_Version' => array(
-		'version' => '4.3.6.0-alpha1782415648',
+		'version' => '4.3.6.0-alpha1782417267',
 		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-backup/src/class-package-version-compat.php'
 	),
 	'Automattic\\Jetpack\\Backup\\V0005\\Abilities\\Backup_Abilities' => array(
-		'version' => '4.3.6.0-alpha1782415648',
+		'version' => '4.3.6.0-alpha1782417267',
 		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-backup/src/abilities/class-backup-abilities.php'
 	),
 	'Automattic\\Jetpack\\Backup\\V0005\\Helper_Script_Manager' => array(
@@ -111,19 +111,19 @@ return array(
 		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-backup-helper-script-manager/src/class-helper-script-manager-impl.php'
 	),
 	'Automattic\\Jetpack\\Backup\\V0005\\Initial_State' => array(
-		'version' => '4.3.6.0-alpha1782415648',
+		'version' => '4.3.6.0-alpha1782417267',
 		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-backup/src/class-initial-state.php'
 	),
 	'Automattic\\Jetpack\\Backup\\V0005\\Jetpack_Backup' => array(
-		'version' => '4.3.6.0-alpha1782415648',
+		'version' => '4.3.6.0-alpha1782417267',
 		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-backup/src/class-jetpack-backup.php'
 	),
 	'Automattic\\Jetpack\\Backup\\V0005\\Jetpack_Backup_Upgrades' => array(
-		'version' => '4.3.6.0-alpha1782415648',
+		'version' => '4.3.6.0-alpha1782417267',
 		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-backup/src/class-jetpack-backup-upgrades.php'
 	),
 	'Automattic\\Jetpack\\Backup\\V0005\\REST_Controller' => array(
-		'version' => '4.3.6.0-alpha1782415648',
+		'version' => '4.3.6.0-alpha1782417267',
 		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-backup/src/class-rest-controller.php'
 	),
 	'Automattic\\Jetpack\\Backup\\V0005\\Throw_On_Errors' => array(
@@ -923,7 +923,7 @@ return array(
 		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-wp-abilities/src/class-registrar.php'
 	),
 	'Automattic\\Jetpack\\WP_Build_Polyfills\\WP_Build_Polyfills' => array(
-		'version' => '0.1.17.0',
+		'version' => '0.1.18.0-alpha1782417267',
 		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-wp-build-polyfills/src/class-wp-build-polyfills.php'
 	),
 	'Container' => array(
