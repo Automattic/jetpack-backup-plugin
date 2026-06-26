@@ -18,6 +18,9 @@ This is an alpha version! The changes listed here are not final.
 - Updated package dependencies.
 - Update package dependencies.
 
+### Fixed
+- Fix fatal error on My Jetpack when the current stable Jetpack plugin is active.
+
 ## [3.8] - 2026-04-11
 ### Added
 - Add Jetpack Protect details page for users without the dedicated Jetpack Protect plugin. [#46630]
