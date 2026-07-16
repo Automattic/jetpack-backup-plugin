@@ -15,7 +15,7 @@ return array(
 		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-connection/actions.php'
 	),
 	'd4eb94df91a729802d18373ee8cdc79f' => array(
-		'version' => '4.3.9.0-alpha1784214611',
+		'version' => '4.3.9.0-alpha1784232581',
 		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-backup/actions.php'
 	),
 );
