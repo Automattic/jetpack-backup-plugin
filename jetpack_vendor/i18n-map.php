@@ -14,11 +14,11 @@ return array(
     ),
     'jetpack-assets' => array(
       'path' => 'jetpack_vendor/automattic/jetpack-assets',
-      'ver' => '4.4.8',
+      'ver' => '4.4.9-alpha1785192310',
     ),
     'jetpack-backup-pkg' => array(
       'path' => 'jetpack_vendor/automattic/jetpack-backup',
-      'ver' => '4.3.10-alpha1784740091',
+      'ver' => '4.3.10-alpha1785192310',
     ),
     'jetpack-boost-core' => array(
       'path' => 'jetpack_vendor/automattic/jetpack-boost-core',
@@ -86,7 +86,9 @@ return array(
     ),
     'jetpack-wp-build-polyfills' => array(
       'path' => 'jetpack_vendor/automattic/jetpack-wp-build-polyfills',
-      'ver' => '0.2.5-alpha1785168778',
+      'ver' => '0.2.5-alpha1785192310',
     ),
+  ),
+  'paths' => array(
   ),
 );
