@@ -6,9 +6,9 @@
 	"require": {
 		"automattic/jetpack-activity-log": "^0.2.2",
 		"automattic/jetpack-autoloader": "^5.0.23",
-		"automattic/jetpack-backup": "^4.3.12",
+		"automattic/jetpack-backup": "^4.3.13",
 		"automattic/jetpack-composer-plugin": "^4.0.9",
-		"automattic/jetpack-my-jetpack": "^5.42.1",
+		"automattic/jetpack-my-jetpack": "^5.42.2",
 		"automattic/jetpack-status": "^6.3.0"
 	},
 	"require-dev": {
@@ -26,7 +26,7 @@
 	"minimum-stability": "dev",
 	"prefer-stable": true,
 	"config": {
-		"autoloader-suffix": "9559eef123208b7d1b9c15b978567267_backupⓥ3_9_alpha",
+		"autoloader-suffix": "9559eef123208b7d1b9c15b978567267_backupⓥ3_9",
 		"allow-plugins": {
 			"automattic/jetpack-autoloader": true,
 			"automattic/jetpack-composer-plugin": true
