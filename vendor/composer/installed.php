@@ -19,6 +19,15 @@
             'aliases' => array(),
             'dev_requirement' => false,
         ),
+        'automattic/jetpack-activity-log' => array(
+            'pretty_version' => '0.2.2',
+            'version' => '0.2.2.0',
+            'reference' => 'dbfc726cd481cf6f8c3b6599555a6776b95e726a',
+            'type' => 'jetpack-library',
+            'install_path' => __DIR__ . '/../../jetpack_vendor/automattic/jetpack-activity-log',
+            'aliases' => array(),
+            'dev_requirement' => false,
+        ),
         'automattic/jetpack-admin-ui' => array(
             'pretty_version' => '0.9.15',
             'version' => '0.9.15.0',
