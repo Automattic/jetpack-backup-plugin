@@ -4,6 +4,10 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
+## [4.0-alpha] - unreleased
+
+This is an alpha version! The changes listed here are not final.
+
 ## [3.9] - 2026-08-11
 ### Added
 - Add the Activity Log page to wp-admin, so it is available without the Jetpack plugin installed. [#51154]
@@ -376,6 +380,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 - Use `absoluteRuntime` in babel JS build to avoid module not found errors.
 
 [2.2-beta]: https://github.com/Automattic/jetpack-backup-plugin/compare/2.1...2.2-beta
+[4.0-alpha]: https://github.com/Automattic/jetpack-backup-plugin/compare/3.9...4.0-alpha
 [3.9]: https://github.com/Automattic/jetpack-backup-plugin/compare/3.8...3.9
 [3.8]: https://github.com/Automattic/jetpack-backup-plugin/compare/3.7.1...3.8
 [3.7.1]: https://github.com/Automattic/jetpack-backup-plugin/compare/3.6...3.7.1
