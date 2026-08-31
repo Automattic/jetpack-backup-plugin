@@ -28,6 +28,7 @@ This is an alpha version! The changes listed here are not final.
 - Connection: Update wording for some connection error notices.
 - Dashboard: Continue the wp-admin menu color behind the page frame on WordPress.com and third-party admin color schemes.
 - Fix the backup overview ability reporting no storage usage, storage limit or backup time.
+- JITM: Fix missing messages and a console error on sites without the Jetpack plugin active.
 - My Jetpack: always label the license activation link 'Activate a license'. It previously read 'Activate a new license' on sites with a plan, even when no licenses had been activated.
 - My Jetpack: Keep the Automattic for Agencies banner hidden after dismissing it and switching tabs.
 - My Jetpack: Stop repeating the partner lookup request on every page load.
