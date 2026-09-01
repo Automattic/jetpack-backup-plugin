@@ -14,6 +14,7 @@ This is an alpha version! The changes listed here are not final.
 ### Changed
 - Boost: Wait up to four minutes for slow speed tests in My Jetpack instead of timing out after two.
 - Charts: follow the WordPress admin color scheme for chart series colors.
+- Charts: update chart grid, axis and label colors immediately when the theme changes.
 - General: Update minimum WordPress version to 7.0.
 - My Jetpack: Show what Paid Stats actually adds — UTM tracking, device stats, and region & city locations — instead of commercial use.
 - Tested up to WordPress 7.1.
