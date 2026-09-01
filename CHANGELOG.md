@@ -24,6 +24,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Fixed
 - Admin dashboards: Keep the page header and content in view when the wp-admin menu is taller than the window.
+- Cache the promoted Backup subscription price so the screen shown to sites without a plan stops fetching it from WordPress.com on every load.
 - Charts: draw labels at the design system's font weight and size.
 - Connection: Stop showing a duplicate account notice when your WordPress.com email differs from your site email only in letter case.
 - Connection: Update wording for some connection error notices.
