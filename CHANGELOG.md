@@ -17,6 +17,7 @@ This is an alpha version! The changes listed here are not final.
 - Charts: update chart grid, axis and label colors immediately when the theme changes.
 - General: Update minimum WordPress version to 7.0.
 - My Jetpack: Show what Paid Stats actually adds — UTM tracking, device stats, and region & city locations — instead of commercial use.
+- Review request: Ask about backups instead of real-time backups, which was inaccurate on daily plans.
 - Tested up to WordPress 7.1.
 
 ### Removed
