@@ -18,6 +18,7 @@ This is an alpha version! The changes listed here are not final.
 - General: Update minimum WordPress version to 7.0.
 - My Jetpack: Show what Paid Stats actually adds — UTM tracking, device stats, and region & city locations — instead of commercial use.
 - Review request: Ask about backups instead of real-time backups, which was inaccurate on daily plans.
+- Sidebar: sort Jetpack menu items alphabetically, pinning My Jetpack to the top and external links and Settings to the bottom.
 - Tested up to WordPress 7.1.
 
 ### Removed
