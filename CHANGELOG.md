@@ -42,6 +42,7 @@ This is an alpha version! The changes listed here are not final.
 - Report a WordPress.com failure on the Backup plan check as an error instead of as a missing plan.
 - Show a failure message when your backup status cannot be read, rather than the screen that says your first backup is on its way, and let the "Back up now" button recover when a backup could not be queued.
 - Show storage usage and the plan limit the right way round when the interface is translated.
+- Status: Detect a site served on any 127.0.0.0/8 loopback address, or on 0.0.0.0, as a local site.
 - Stop a slow or failing WordPress.com from reading as a missing Backup plan.
 
 ## [3.9] - 2026-08-11
