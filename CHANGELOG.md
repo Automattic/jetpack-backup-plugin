@@ -9,6 +9,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 This is an alpha version! The changes listed here are not final.
 
 ### Added
+- Connection: Surface SSL certificate verification failures reported by WordPress.com as a connection error notice.
 - My Jetpack: Allow the Automattic for Agencies banner to be dismissed.
 
 ### Changed
