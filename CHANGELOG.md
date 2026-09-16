@@ -30,6 +30,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Fixed
 - Activity Log: Fix the page overlapping the admin menu in right-to-left languages.
+- Activity Log: Stop the frame from flashing while loading and when switching admin pages.
 - Admin dashboards: Keep the page header and content in view when the wp-admin menu is taller than the window.
 - Cache the promoted Backup subscription price so the screen shown to sites without a plan stops fetching it from WordPress.com on every load.
 - Charts: draw labels at the design system's font weight and size.
