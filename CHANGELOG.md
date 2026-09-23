@@ -57,6 +57,7 @@ This is an alpha version! The changes listed here are not final.
 - My Jetpack: Show the right product status as soon as fresher plan data is available, instead of reusing an earlier lookup.
 - My Jetpack: Stop repeating the partner lookup request on every page load.
 - My Jetpack: Stop the Stats dashboard from asking which plan you want again after Start for Free was already chosen.
+- My Jetpack: stretch the tab content background to the full height of the page.
 - Report a WordPress.com failure on the Backup plan check as an error instead of as a missing plan.
 - Show a failure message when your backup status cannot be read, rather than the screen that says your first backup is on its way, and let the "Back up now" button recover when a backup could not be queued.
 - Show storage usage and the plan limit the right way round when the interface is translated.
