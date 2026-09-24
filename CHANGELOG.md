@@ -19,6 +19,7 @@ This is an alpha version! The changes listed here are not final.
 - Connection: Show every connection error in one notice, each with the account it affects, and link to Site Health when a firewall is blocking WordPress.com.
 - General: Update minimum WordPress version to 7.0.
 - My Jetpack: answer module switch clicks immediately, and explain what happened when a change fails.
+- My Jetpack: Keep focus on pricing tooltip icons when they open, announce their content to screen readers, and show a focus ring after clicking them.
 - My Jetpack: Restyle dashboard notices to match the WordPress design system.
 - My Jetpack: Show the dashboard in the new rounded admin page frame.
 - My Jetpack: Show the Jetpack menu notification badge when a connection error is detected.
