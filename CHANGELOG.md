@@ -72,6 +72,7 @@ This is an alpha version! The changes listed here are not final.
 - Show storage usage and the plan limit the right way round when the interface is translated.
 - Status: Detect a site served on any 127.0.0.0/8 loopback address, or on 0.0.0.0, as a local site.
 - Stop a slow or failing WordPress.com from reading as a missing Backup plan.
+- Stop the Get VaultPress Backup button from staying busy when setup fails.
 
 ## [3.9] - 2026-08-11
 ### Added
