@@ -59,6 +59,7 @@ class ComposerStaticInit9559eef123208b7d1b9c15b978567267_backupⓥ4_0_alpha
         'Automattic\\Jetpack\\Backup\\V0005\\REST\\File_Browser_Bridge' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-backup/src/rest/class-file-browser-bridge.php',
         'Automattic\\Jetpack\\Backup\\V0005\\REST\\Rest_Controller' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-backup/src/rest/class-rest-controller.php',
         'Automattic\\Jetpack\\Backup\\V0005\\REST\\Restore_Bridge' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-backup/src/rest/class-restore-bridge.php',
+        'Automattic\\Jetpack\\Backup\\V0005\\REST\\Schedule_Bridge' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-backup/src/rest/class-schedule-bridge.php',
         'Automattic\\Jetpack\\Backup\\V0005\\REST_Controller' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-backup/src/class-rest-controller.php',
         'Automattic\\Jetpack\\Backup\\V0005\\Throw_On_Errors' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-backup-helper-script-manager/src/class-throw-on-errors.php',
         'Automattic\\Jetpack\\Boost_Core\\Contracts\\Boost_API_Client' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-boost-core/src/contracts/boost-api-client.php',
