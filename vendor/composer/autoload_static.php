@@ -54,6 +54,7 @@ class ComposerStaticInit9559eef123208b7d1b9c15b978567267_backupⓥ4_0_alpha
         'Automattic\\Jetpack\\Backup\\V0005\\Jetpack_Backup' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-backup/src/class-jetpack-backup.php',
         'Automattic\\Jetpack\\Backup\\V0005\\Jetpack_Backup_Upgrades' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-backup/src/class-jetpack-backup-upgrades.php',
         'Automattic\\Jetpack\\Backup\\V0005\\REST\\Activity_Log_Bridge' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-backup/src/rest/class-activity-log-bridge.php',
+        'Automattic\\Jetpack\\Backup\\V0005\\REST\\Backup_Sizes_Bridge' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-backup/src/rest/class-backup-sizes-bridge.php',
         'Automattic\\Jetpack\\Backup\\V0005\\REST\\Capabilities_Bridge' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-backup/src/rest/class-capabilities-bridge.php',
         'Automattic\\Jetpack\\Backup\\V0005\\REST\\Download_Bridge' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-backup/src/rest/class-download-bridge.php',
         'Automattic\\Jetpack\\Backup\\V0005\\REST\\File_Browser_Bridge' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-backup/src/rest/class-file-browser-bridge.php',
