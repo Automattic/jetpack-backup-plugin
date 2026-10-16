@@ -66,6 +66,7 @@ This is an alpha version! The changes listed here are not final.
 - My Jetpack: Fix the layout of the connection screen for right-to-left languages.
 - My Jetpack: Keep the Automattic for Agencies banner hidden after dismissing it and switching tabs.
 - My Jetpack: keep the stats chart tooltip under sticky and fixed page elements.
+- My Jetpack: Make the connection screen's Connect button and footer links reachable on shorter screens.
 - My Jetpack: Open pricing tooltips with the keyboard and dismiss them with Escape.
 - My Jetpack: Point users who cannot connect the site at an administrator, instead of an onboarding screen they cannot complete.
 - My Jetpack: Show each notice once instead of twice.
