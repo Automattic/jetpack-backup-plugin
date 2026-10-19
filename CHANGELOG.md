@@ -32,6 +32,7 @@ This is an alpha version! The changes listed here are not final.
 - My Jetpack: Show the dashboard in the new rounded admin page frame.
 - My Jetpack: Show the Jetpack menu notification badge when a connection error is detected.
 - My Jetpack: Show what Paid Stats actually adds — UTM tracking, device stats, and region & city locations — instead of commercial use.
+- Replace the dashboard with a redesigned one, where you can browse each backup's files, restore or download a backup, and change when backups run and how long they are kept.
 - Review request: Ask about backups instead of real-time backups, which was inaccurate on daily plans.
 - Sidebar: sort Jetpack menu items alphabetically, pinning My Jetpack to the top and external links and Settings to the bottom.
 - Tested up to WordPress 7.1.
