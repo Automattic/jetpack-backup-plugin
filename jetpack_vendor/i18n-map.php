@@ -18,7 +18,7 @@ return array(
     ),
     'jetpack-backup-pkg' => array(
       'path' => 'jetpack_vendor/automattic/jetpack-backup',
-      'ver' => '5.2.0-alpha1792523525',
+      'ver' => '5.2.0-alpha1792523765',
     ),
     'jetpack-boost-core' => array(
       'path' => 'jetpack_vendor/automattic/jetpack-boost-core',
