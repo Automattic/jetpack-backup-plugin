@@ -53,6 +53,7 @@ This is an alpha version! The changes listed here are not final.
 - Admin dashboards: Keep the page header and content in view when the wp-admin menu is taller than the window.
 - Cache the promoted Backup subscription price so the screen shown to sites without a plan stops fetching it from WordPress.com on every load.
 - Charts: draw labels at the design system's font weight and size.
+- Connection: Explain why connecting the site failed instead of showing a raw or generic error.
 - Connection: Fix a stale connection error notice that could persist on healthy sites.
 - Connection: Fix reconnecting your WordPress.com account so it no longer disconnects other users and clears the broken-connection notice on the first attempt.
 - Connection: Hide connection error notices from users who cannot fix the connection.
