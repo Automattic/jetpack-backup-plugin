@@ -64,6 +64,7 @@ This is an alpha version! The changes listed here are not final.
 - Connection: Translate the Connectors card's text on sites that don't use English.
 - Connection: Update wording for some connection error notices.
 - Dashboard: Continue the wp-admin menu color behind the page frame on WordPress.com and third-party admin color schemes.
+- Features: Show a plugin as active when a Beta or -dev copy is active beside an installed stable copy, and turn off the active copy when deactivating it.
 - Fix the backup overview ability reporting no storage usage, storage limit or backup time.
 - Footer: Hide Products and Help links when My Jetpack is unavailable.
 - JITM: Fix missing messages and a console error on sites without the Jetpack plugin active.
