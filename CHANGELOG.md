@@ -95,6 +95,7 @@ This is an alpha version! The changes listed here are not final.
 - My Jetpack: stretch the tab content background to the full height of the page.
 - Report a WordPress.com failure on the Backup plan check as an error instead of as a missing plan.
 - Show a failure message when your backup status cannot be read, rather than the screen that says your first backup is on its way, and let the "Back up now" button recover when a backup could not be queued.
+- Show a finished backup in the list without a page reload, even when WordPress.com is slow to list it, and add a "Backup complete" notice that stays until it is dismissed.
 - Show storage usage and the plan limit the right way round when the interface is translated.
 - Status: Detect a site served on any 127.0.0.0/8 loopback address, or on 0.0.0.0, as a local site.
 - Stop a slow or failing WordPress.com from reading as a missing Backup plan.
