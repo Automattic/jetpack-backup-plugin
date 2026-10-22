@@ -17,6 +17,7 @@ This is an alpha version! The changes listed here are not final.
 - My Jetpack: Add catalog-controlled Pro offers and preserve existing plan management.
 - My Jetpack: Allow the Automattic for Agencies banner to be dismissed.
 - My Jetpack: Recognize Jetpack Pro subscriptions and licenses.
+- On sites hosted on WordPress.com, warn before restoring a backup with known security threats, and mark such backups in the backup list and the Activity Log. "Restore backup" in the Activity Log now opens the restore screen in wp-admin.
 
 ### Changed
 - Activity Log: Show the connection error notice only when a connection error has been recorded.
