@@ -11,6 +11,7 @@ This is an alpha version! The changes listed here are not final.
 ### Added
 - Activity Log: Link backups to that backup in the Backup dashboard, which now opens any backup from a link, not only those on the activity page it shows. Backups that finished with warnings can now be opened and restored there too.
 - Connection: Add a Connected view to the Users page listing users with a linked WordPress.com account.
+- Connection: Show connection errors on the Connectors card, and keep showing the connection owner when their account connection breaks.
 - Connection: Surface SSL certificate verification failures reported by WordPress.com as a connection error notice.
 - Connection: Transfer connection ownership to another administrator without leaving your site.
 - Connection: Transfer connection ownership to another connected administrator from the Connectors page.
