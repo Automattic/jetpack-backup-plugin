@@ -70,7 +70,6 @@ This is an alpha version! The changes listed here are not final.
 - Connection: Translate the Connectors card's text on sites that don't use English.
 - Connection: Update wording for some connection error notices.
 - Dashboard: Continue the wp-admin menu color behind the page frame on WordPress.com and third-party admin color schemes.
-- Features: Show a plugin as active when a Beta or -dev copy is active beside an installed stable copy, and turn off the active copy when deactivating it.
 - Fix the backup overview ability reporting no storage usage, storage limit or backup time.
 - Footer: Hide Products and Help links when My Jetpack is unavailable.
 - JITM: Fix missing messages and a console error on sites without the Jetpack plugin active.
@@ -85,6 +84,7 @@ This is an alpha version! The changes listed here are not final.
 - My Jetpack: Open pricing tooltips with the keyboard and dismiss them with Escape.
 - My Jetpack: Point users who cannot connect the site at an administrator, instead of an onboarding screen they cannot complete.
 - My Jetpack: Show each notice once instead of twice.
+- My Jetpack: Show the correct product status and use the active plugin copy when turning products on or off with both stable and Beta or development copies installed.
 - My Jetpack: Show the highest-priority notice first when several are set at once.
 - My Jetpack: Show the right product status as soon as fresher plan data is available, instead of reusing an earlier lookup.
 - My Jetpack: Stop offering retired Security and Growth plans while preserving existing subscriptions.
