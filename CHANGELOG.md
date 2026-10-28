@@ -43,6 +43,7 @@ This is an alpha version! The changes listed here are not final.
 - My Jetpack: Show a Features tab in place of the Products tab.
 - My Jetpack: Show Backup's state from the site's plan on its Features card instead of a switch, offering an upgrade, or a renewal for an expired plan.
 - My Jetpack: Show product cards flat, without a drop shadow.
+- My Jetpack: Show the avatar and connection status control in the header by default, with access to connection and plan details.
 - My Jetpack: Show the dashboard in the new rounded admin page frame.
 - My Jetpack: Show the Jetpack menu notification badge when a connection error is detected.
 - My Jetpack: Show what Paid Stats actually adds — UTM tracking, device stats, and region & city locations — instead of commercial use.
