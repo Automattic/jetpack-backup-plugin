@@ -88,6 +88,7 @@ This is an alpha version! The changes listed here are not final.
 - My Jetpack: Make the connection screen's Connect button and footer links reachable on shorter screens.
 - My Jetpack: Open pricing tooltips with the keyboard and dismiss them with Escape.
 - My Jetpack: Point users who cannot connect the site at an administrator, instead of an onboarding screen they cannot complete.
+- My Jetpack: Return to the tab you came from with the back link on product upgrade screens.
 - My Jetpack: Show each notice once instead of twice.
 - My Jetpack: Show the correct product status and use the active plugin copy when turning products on or off with both stable and Beta or development copies installed.
 - My Jetpack: Show the highest-priority notice first when several are set at once.
