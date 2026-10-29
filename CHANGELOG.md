@@ -36,6 +36,7 @@ This is an alpha version! The changes listed here are not final.
 - My Jetpack: answer module switch clicks immediately, and explain what happened when a change fails.
 - My Jetpack: Keep focus on pricing tooltip icons when they open, announce their content to screen readers, and show a focus ring after clicking them.
 - My Jetpack: Line up notices with the cards below them, and drop the grey background behind the Features grid and list buttons.
+- My Jetpack: On the Features tab, keep a plugin's switch busy until its card is up to date after a failed change, or after any change on sites that also run Jetpack.
 - My Jetpack: Open supported Modules links in Features when Jetpack is active.
 - My Jetpack: Refresh Pro availability while preserving existing offers.
 - My Jetpack: Restyle dashboard notices to match the WordPress design system.
