@@ -115,6 +115,7 @@ This is an alpha version! The changes listed here are not final.
 - Status: Detect a site served on any 127.0.0.0/8 loopback address, or on 0.0.0.0, as a local site.
 - Stop a slow or failing WordPress.com from reading as a missing Backup plan.
 - Stop the Get VaultPress Backup button from staying busy when setup fails.
+- Underline the "Get in touch with us", "Learn more" and "Modify" links, so they stand out from the sentence around them without relying on color.
 
 ## [3.9] - 2026-08-11
 ### Added
