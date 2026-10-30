@@ -51,6 +51,7 @@ This is an alpha version! The changes listed here are not final.
 - My Jetpack: Show the Features page on sites in Offline Mode, without connecting to WordPress.com.
 - My Jetpack: Show the Jetpack menu notification badge when a connection error is detected.
 - My Jetpack: Show what Paid Stats actually adds — UTM tracking, device stats, and region & city locations — instead of commercial use.
+- My Jetpack: Turn a module on once Install Jetpack or Activate Jetpack on its card finishes setup.
 - Replace the dashboard with a redesigned one, where you can browse each backup's files, restore or download a backup, and change when backups run and how long they are kept.
 - Review request: Ask about backups instead of real-time backups, which was inaccurate on daily plans.
 - Sidebar: sort Jetpack menu items alphabetically, pinning My Jetpack to the top and external links and Settings to the bottom.
