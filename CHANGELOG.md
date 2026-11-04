@@ -4,6 +4,13 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
+## [4.1-alpha] - unreleased
+
+This is an alpha version! The changes listed here are not final.
+
+### Fixed
+- Footer: Show the Features link to administrators only.
+
 ## [4.0] - 2026-11-04
 ### Added
 - Activity Log: Link backups to that backup in the Backup dashboard, which now opens any backup from a link, not only those on the activity page it shows. Backups that finished with warnings can now be opened and restored there too. [#53929]
@@ -490,6 +497,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 - Use `absoluteRuntime` in babel JS build to avoid module not found errors.
 
 [2.2-beta]: https://github.com/Automattic/jetpack-backup-plugin/compare/2.1...2.2-beta
+[4.1-alpha]: https://github.com/Automattic/jetpack-backup-plugin/compare/4.0...4.1-alpha
 [4.0]: https://github.com/Automattic/jetpack-backup-plugin/compare/3.9...4.0
 [3.9]: https://github.com/Automattic/jetpack-backup-plugin/compare/3.8...3.9
 [3.8]: https://github.com/Automattic/jetpack-backup-plugin/compare/3.7.1...3.8
