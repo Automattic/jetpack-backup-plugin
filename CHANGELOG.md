@@ -59,6 +59,7 @@ This is an alpha version! The changes listed here are not final.
 - Sidebar: sort Jetpack menu items alphabetically, pinning My Jetpack to the top and external links and Settings to the bottom.
 - Tested up to WordPress 7.1.
 - Update package dependencies.
+- Use the design system progress bar for the backup, restore, download and storage meters.
 
 ### Removed
 - Updated PHP version requirements to PHP 7.4 or newer.
