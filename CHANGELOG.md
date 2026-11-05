@@ -8,6 +8,9 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
 This is an alpha version! The changes listed here are not final.
 
+### Added
+- Site Health: Add Jetpack connection details to the Info tab and the copied site info report.
+
 ### Fixed
 - Footer: Show the Features link to administrators only.
 
