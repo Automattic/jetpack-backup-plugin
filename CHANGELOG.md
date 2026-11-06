@@ -9,6 +9,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 This is an alpha version! The changes listed here are not final.
 
 ### Added
+- Connection: Note that moving a Jetpack plan is an additional step when transferring connection ownership, and link to the support doc on transferring a plan.
 - Site Health: Add Jetpack connection details to the Info tab and the copied site info report.
 
 ### Changed
