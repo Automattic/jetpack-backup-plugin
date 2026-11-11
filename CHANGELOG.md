@@ -17,6 +17,7 @@ This is an alpha version! The changes listed here are not final.
 - Update package dependencies.
 
 ### Fixed
+- Connection: Keep the progress indicator on screen after clicking Restore Connection until the redirect to WordPress.com.
 - Connection: Restore the connect button and explain what went wrong when the connection to WordPress.com fails to start.
 - Footer: Show the Features link to administrators only.
 - My Jetpack: Fix the Overview showing a product's old status after a feature is switched on or off on the Features tab.
