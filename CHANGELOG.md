@@ -26,6 +26,7 @@ This is an alpha version! The changes listed here are not final.
 - My Jetpack: Fill checked checkboxes in the Features list with the selected filter's color, show their focus ring only for keyboard focus, and show one focus ring per control instead of two.
 - My Jetpack: Fix the Overview showing a product's old status after a feature is switched on or off on the Features tab.
 - My Jetpack: Fix the Security and Growth filters on the Features tab showing no features.
+- Stop the upgrade screen from briefly offering Jetpack Security before Jetpack Pro.
 
 ## [4.0] - 2026-11-04
 ### Added
