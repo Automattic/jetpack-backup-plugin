@@ -20,6 +20,7 @@ This is an alpha version! The changes listed here are not final.
 - My Jetpack: Return to the page you were on after you connect your account or restore the connection from the header, and show the WordPress.com connection screen made for your site's plugins.
 - My Jetpack: Show the WordPress.com connection screen made for your site's plugins when you connect your account from a product card.
 - My Jetpack: Show the WordPress.com connection screen made for your site's plugins when you connect your account from the Features tab.
+- Safe Mode: Show the Jetpack Safe Mode admin bar item while the choice is still pending, style it on the front end of the site too, and have it open My Jetpack from Jetpack pages that can't show the Safe Mode screen.
 - Update package dependencies.
 
 ### Fixed
