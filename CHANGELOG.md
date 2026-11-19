@@ -13,6 +13,7 @@ This is an alpha version! The changes listed here are not final.
 - Site Health: Add Jetpack connection details to the Info tab and the copied site info report.
 
 ### Changed
+- Abilities: Make Backup's abilities available to AI agents by default.
 - Load the Backup page faster on return visits by caching the storage figures and plan check for five minutes.
 - My Jetpack: Highlight expiring and expired plans in the account panel under your avatar, list them first with a renew link, and show other plans as active until their renewal date.
 - My Jetpack: On sites with Jetpack Pro, replace "Purchase a plan" with "Upgrade to Complete", which goes straight to checkout.
