@@ -31,6 +31,7 @@ This is an alpha version! The changes listed here are not final.
 - Connection: Restore the connect button and explain what went wrong when the connection to WordPress.com fails to start.
 - Connection: Stop showing a connection error notice for a request signature mismatch, which reconnecting rarely fixes.
 - Footer: Show the Features link to administrators only.
+- Hide the "Use license key" link where it can't be used, such as in Offline Mode.
 - My Jetpack: Fill checked checkboxes in the Features list with the selected filter's color, show their focus ring only for keyboard focus, and show one focus ring per control instead of two.
 - My Jetpack: Fix the Learn more, Manage and Connect buttons on recommendation cards, which did nothing.
 - My Jetpack: Fix the Overview showing a product's old status after a feature is switched on or off on the Features tab.
