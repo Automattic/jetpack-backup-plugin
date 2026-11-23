@@ -58,7 +58,7 @@
         'automattic/jetpack-backup' => array(
             'pretty_version' => '5.3.0',
             'version' => '5.3.0.0',
-            'reference' => '5f51186dacab201bbf99ca1dd0f3112e501913c8',
+            'reference' => '75646fddc0edfbb7fbcfe2475c906d55a0a00d17',
             'type' => 'jetpack-library',
             'install_path' => __DIR__ . '/../../jetpack_vendor/automattic/jetpack-backup',
             'aliases' => array(),
@@ -209,9 +209,9 @@
             'dev_requirement' => false,
         ),
         'automattic/jetpack-my-jetpack' => array(
-            'pretty_version' => '6.19.0',
-            'version' => '6.19.0.0',
-            'reference' => '08271f1b86bd636d2a0b7483d1fa8846325e45de',
+            'pretty_version' => '6.19.1-alpha.1795454787',
+            'version' => '6.19.1.0-alpha1795454787',
+            'reference' => 'b2b81620f84f42a723afd1b8b9fb8d3152f3a89c',
             'type' => 'jetpack-library',
             'install_path' => __DIR__ . '/../../jetpack_vendor/automattic/jetpack-my-jetpack',
             'aliases' => array(),
