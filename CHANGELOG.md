@@ -27,6 +27,7 @@ This is an alpha version! The changes listed here are not final.
 - Update package dependencies.
 
 ### Fixed
+- Connection: Keep a Safe Mode screen left open, for example in another tab, from disconnecting a site that is no longer in Safe Mode.
 - Connection: Keep the progress indicator on screen after clicking Restore Connection until the redirect to WordPress.com.
 - Connection: Let a second administrator fix a broken connection owner by connecting their own account, which makes them the new owner.
 - Connection: Restore the connect button and explain what went wrong when the connection to WordPress.com fails to start.
