@@ -32,6 +32,7 @@ This is an alpha version! The changes listed here are not final.
 - Connection: Keep the progress indicator on screen after clicking Restore Connection until the redirect to WordPress.com.
 - Connection: Let a second administrator fix a broken connection owner by connecting their own account, which makes them the new owner.
 - Connection: Restore the connect button and explain what went wrong when the connection to WordPress.com fails to start.
+- Connection: Show clearer messages when the connect request to your site fails, for example because its REST API is disabled or a PHP error broke the response.
 - Connection: Stop showing a connection error notice for a request signature mismatch, which reconnecting rarely fixes.
 - Footer: Show the Features link to administrators only.
 - Hide the "Use license key" link where it can't be used, such as in Offline Mode.
