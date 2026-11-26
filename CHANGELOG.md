@@ -35,6 +35,7 @@ This is an alpha version! The changes listed here are not final.
 - Connection: Stop showing a connection error notice for a request signature mismatch, which reconnecting rarely fixes.
 - Footer: Show the Features link to administrators only.
 - Hide the "Use license key" link where it can't be used, such as in Offline Mode.
+- My Jetpack: Announce the same connection status on the header's account button as in its panel, and read that status first when the panel opens from the keyboard.
 - My Jetpack: Don't install a product's plugin when plugin installs are turned off or the user can't install plugins.
 - My Jetpack: Explain why a Jetpack Pro license can't be activated on a site.
 - My Jetpack: Fill checked checkboxes in the Features list with the selected filter's color, show their focus ring only for keyboard focus, and show one focus ring per control instead of two.
